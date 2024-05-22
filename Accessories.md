@@ -1,0 +1,24 @@
+# Инструкции по установке аксессуаров
+
+| Аксессуар                                | Part Number                                                                 | Ссылка                                                                                     |
+|------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Инструкции пользователя к аксессуарам    |                                                                             | [Genuine Accessory User’s Guide.pdf](Accessories/Genuine%20Accessory%20User’s%20Guide.pdf) |
+| Комфортное сиденье водителя              | `08R75-MLF-E00`                                                             | [Comfortable main seat.pdf](Accessories/Comfortable%20main%20seat.pdf)                     |
+| Комфортное сиденье пассажира             | `08R73-MLF-E00`                                                             | [Comfortable pillion seat.pdf](Accessories/Comfortable%20pillion%20seat.pdf)               |
+| Комфортные подножки пассажира            | `08R71-MJP-G50`                                                             | [Comfortable pillion step.pdf](Accessories/Comfortable%20pillion%20step.pdf)               |
+| Противотуманные фары                     | `08V70-MLF-E00`<br/>`08V70-MLF-E00`                                         | [Foglight.pdf](Accessories/Foglight.pdf)                                                   |
+| Сумка на бак 3л                          | `08L89-MKS-E00`                                                             | [Tank bag 3 L.pdf](Accessories/Tank%20bag%203%20L.pdf)                                     |
+| Сумка на бак 4,5л                        | `08L85-MKS-E00`                                                             | [Tank bag 4,5 L.pdf](Accessories/Tank%20bag%204,5%20L.pdf)                                 |
+| Боковые кофры. Цилиндр замка             | `08L72-MKW-D00`<br/>`08M70-MJE-D03`                                         | [Pannier case.pdf](Accessories/Pannier%20case.pdf)                                         |
+| Алюминиевые накладки на боковые кофры    | `08L80-MKT-D00`                                                             | [Pannier panel (aluminium).pdf](Accessories/Pannier%20panel%20(aluminium).pdf)             |
+| Крашеные накладки на боковые кофры       | `08L81-MKT-D00`                                                             | [Pannier panel (paint).pdf](Accessories/Pannier%20panel%20(paint).pdf)                     |
+| Крепление боковых кофров                 | `08L70-MLF-E00`                                                             | [Pannier Support Stay.pdf](Accessories/Pannier%20Support%20Stay.pdf)                       |
+| Рычаг стояночного тормоза                | `08F70-MKT-D00`                                                             | [Parking Lever.pdf](Accessories/Parking%20Lever.pdf)                                       |
+| Крышка рычага стояночного тормоза        | `08F72-MKT-D00`                                                             | [Parking lever cover.pdf](Accessories/Parking%20lever%20cover.pdf)                         |
+| Центральный кофр 38л                     | `08L71-MJP-G50`<br/>`08L73-MJP-G50`<br/>`08M70-MJE-D03`<br/>`08M71-MJE-D01` | [Top box 38L.pdf](Accessories/Top%20box%2038L.pdf)                                         |
+| Центральный кофр 50л. Цилиндр замка      | `08L73-MKT-D00`<br/>`08M70-MJE-D03`                                         | [Top box 50L.pdf](Accessories/Top%20box%2050L.pdf)                                         |
+| Спинка центрально кофра 38л              | `08F00-MJP-G50`                                                             | [Backrest.pdf](Accessories/Backrest.pdf)                                                   |
+| Спинка центрального кофра 50л            | `08L85-MKT-D00`                                                             | [Top box pad (cushion).pdf](Accessories/Top%20box%20pad%20(cushion).pdf)                   |
+| Комфортная спинка центрального кофра 50л | `08R74-MLF-E00`                                                             | [Top box pad (rubber).pdf](Accessories/Top%20box%20pad%20(rubber).pdf)                     |
+| Алюминиевая накладка центрального кофра  | `08L83-MKT-D00`                                                             | [Top box panel (aluminium).pdf](Accessories/Top%20box%20panel%20(aluminium).pdf)           |
+| Крашеная накладка центрального кофра     | `08L82-MKT-D00`                                                             | [Top box panel (paint).pdf](Accessories/Top%20box%20panel%20(paint).pdf)                   |
