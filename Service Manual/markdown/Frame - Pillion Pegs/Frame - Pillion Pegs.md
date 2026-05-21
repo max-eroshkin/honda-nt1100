@@ -27,7 +27,7 @@ Pillion step bracket bolt:
 NOTE: 
 * Apply grease to the pillion step joint pin sliding 
 area. 
-Page 1 of 1
+
 c0080101 : PILLION STEP > REMOVAL/INSTALLATION
 27/07/2023
 https://www.ecom.honda-eu.com/emm10/servlet/honda.jp.hm.emm.apps.c008.C0080001Servlet?url=../../gma10/EMM/Contents/rel/sm/...

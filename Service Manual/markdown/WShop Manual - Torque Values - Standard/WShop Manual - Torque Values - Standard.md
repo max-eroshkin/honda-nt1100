@@ -36,7 +36,7 @@ N·m (kgf·m, lbf·ft)
 54 (5.5, 40) 
 10 mm flange bolt and nut 
 39 (4.0, 29) 
-Page 1 of 1
+
 c0080101 : TORQUE VALUES > STANDARD TORQUE VALUES
 27/07/2023
 https://www.ecom.honda-eu.com/emm10/servlet/honda.jp.hm.emm.apps.c008.C0080001Servlet?url=../../gma10/EMM/Contents/rel/sm/...

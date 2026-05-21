@@ -41,7 +41,7 @@ pipe end.
 Make sure the connection is secure; check visually and by pulling 
 the connector. 
 Increase the fuel pressure . 
-Page 1 of 1
+
 c0080101 : FUEL LINE INSPECTION > QUICK CONNECT FITTING REMOVAL/INSTALLATION
 27/07/2023
 https://www.ecom.honda-eu.com/emm10/servlet/honda.jp.hm.emm.apps.c008.C0080001Servlet?url=../../gma10/EMM/Contents/rel/sm/...

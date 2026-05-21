@@ -5,7 +5,7 @@
 
 ![Страница 1](images/page-001-img-01.jpg)
 
-CRANKCASE BREATHER 
+## CRANKCASE BREATHER 
 Check the air cleaner 
 housing drain hoses [1]. 
 
@@ -14,11 +14,13 @@ NOTE:
 deposits level can be 
 seen in the drain 
 hose. 
+
 If necessary, remove the 
 drain plugs [2] from the 
 drain hoses and drain the 
 deposits into a suitable 
 container. 
+
 Reinstall the plugs 
 securely. 
 
