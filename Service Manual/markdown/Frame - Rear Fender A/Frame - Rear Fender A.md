@@ -13,7 +13,7 @@ Remove the following:
 * Rear reflector nut [4] 
 * Reflector [5] 
 Installation is in the reverse order of removal. 
-TORQUE: 
+**TORQUE:** 
 Rear reflector nut: 
 1.8 N·m (0.18 kgf·m, 1.3 lbf·ft) 
 

@@ -7,7 +7,7 @@
 
 PGM-FI SYSTEM DTC INDEX 
 
-NOTE: 
+**NOTE:** 
 * When using GST or MCS, check the lighting or blinking state of the MIL and shift indicator, and then refer to DTC index. 
 * Follow the prior diagnosis notes before performing the troubleshooting, refer to the PRIOR DIAGNOSIS . 
 DTC 

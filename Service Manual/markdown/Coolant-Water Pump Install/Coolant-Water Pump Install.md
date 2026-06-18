@@ -21,13 +21,13 @@ pump cover bolts threads .
 Install and tighten the water 
 pump cover bolts [1] to the 
 specified torque. 
-TORQUE: 13 N·m (1.3 kgf·m, 
+**TORQUE:** 13 N·m (1.3 kgf·m, 
 10 lbf·ft) 
 Install the coolant drain bolt [2] 
 and a new sealing washer [3]. 
 Tighten the coolant drain bolt to 
 the specified torque. 
-TORQUE: 13 N·m (1.3 kgf·m, 
+**TORQUE:** 13 N·m (1.3 kgf·m, 
 10 lbf·ft) 
 Install the right crankcase cover: 
 * MT model: 

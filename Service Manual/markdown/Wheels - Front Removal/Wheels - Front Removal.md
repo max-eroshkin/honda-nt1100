@@ -10,7 +10,7 @@
 REMOVAL 
 Remove the front brake caliper mounting bolts [1] and front brake calipers [2]. 
 
-NOTE: 
+**NOTE:** 
 * Do not suspend the front brake caliper from the brake hose. Do not twist the brake hose. 
 * Do not operate the brake lever after removing the front brake calipers. 
 Remove the front axle bolt [1]. 

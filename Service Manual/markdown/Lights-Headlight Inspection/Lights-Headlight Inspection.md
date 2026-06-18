@@ -15,7 +15,7 @@ Check the following lighting condition:
 * Headlight [1] 
 * DRL [2] 
 
-NOTE: 
+**NOTE:** 
 * If any LED in the headlight unit does not turn on, replace the headlight unit as an assembly. 
 * When the headlight or DRL does not light properly, check the following: 
 ◦No DTC in the ABS system 
@@ -46,7 +46,7 @@ To forcibly activate the DRLs lights, perform the procedure as follows:
 2. Select the "DRL Service Mode" [1] by using the sel up switch [2], sel down switch [3], ENT switch [4] 
 and back switch [5] or touch the MID. 
 
-NOTE: 
+**NOTE:** 
 * Select the display in the following order to the "DRL Service Mode" : 
 "Settings" > "Service" > "Service Mode" > "DRL Service Mode" 
 3. Check the each lights are lighting. 

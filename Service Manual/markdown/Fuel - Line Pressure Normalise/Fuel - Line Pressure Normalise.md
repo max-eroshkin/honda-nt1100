@@ -13,7 +13,7 @@ Connect the battery negative (–) cable .
 The fuel pump will run for about 2 seconds 
 and fuel pressure will rise. 
 
-NOTE: 
+**NOTE:** 
 * Do not start the engine. 
 3. Turn the ignition switch OFF. 
 4. Repeat previous step 2 or 3 times, and check 

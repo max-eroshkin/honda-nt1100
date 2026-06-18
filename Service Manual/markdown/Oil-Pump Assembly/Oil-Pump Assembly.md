@@ -7,7 +7,7 @@
 
 DISASSEMBLY/ASSEMBLY 
 
-NOTE: 
+**NOTE:** 
 * Dip all parts in clean engine oil. 
 MT MODEL 
 

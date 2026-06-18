@@ -12,7 +12,7 @@ This motorcycle uses a drive chain with a staked master link.
 Fully slacken the drive chain . 
 Remove the drive chain using the special tool. 
 
-NOTE: 
+**NOTE:** 
 * When using the special tool, follow the manufacturer’s instruction. 
 TOOL: 
 Chain tool set 
@@ -28,7 +28,7 @@ TOOL:
 Chain tool set 
 07HMH-MR10105 
 
-NOTE: 
+**NOTE:** 
 * Never reuse the old drive chain, master link, master link plate, or O-rings. 
 
 

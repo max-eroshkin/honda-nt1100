@@ -10,7 +10,7 @@ Remove the under cover .
 Check the water pump bleed pipe [1] for signs of 
 coolant leakage. 
 
-NOTE: 
+**NOTE:** 
 * A small amount of coolant weeping from the 
 bleed pipe is normal. 
 * Make sure that there is no continuous coolant 

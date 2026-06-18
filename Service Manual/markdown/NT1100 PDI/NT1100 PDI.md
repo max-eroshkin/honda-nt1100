@@ -425,8 +425,8 @@ Right side:
 Left side:
 [1]
 [1]
-TORQUE: 59 N·m (6.0 kgf·m, 44 lbf·ft)
-TORQUE: 27 N·m (2.8 kgf·m, 20 lbf·ft)
+**TORQUE:** 59 N·m (6.0 kgf·m, 44 lbf·ft)
+**TORQUE:** 27 N·m (2.8 kgf·m, 20 lbf·ft)
 [3]
 Right side:
 [2]
@@ -449,8 +449,8 @@ Tighten the right front axle holder pinch bolts [3] to the specified
 torque.
 Check the clearance gap of the 0.70 – 1.30 mm (0.028 – 0.051 in)
 between the front wheel speed sensor bracket and pulser ring.
-TORQUE: 45 N·m (4.6 kgf·m, 33 lbf·ft)
-TORQUE: 27 N·m (2.8 kgf·m, 20 lbf·ft)
+**TORQUE:** 45 N·m (4.6 kgf·m, 33 lbf·ft)
+**TORQUE:** 27 N·m (2.8 kgf·m, 20 lbf·ft)
 [3]
 [1]
 Right side shown:
@@ -610,14 +610,14 @@ the specified torque.
 Operate the brake pedal.
 If the freeplay is excessive, refer to the Shop Manual and bleed the
 system.
-TORQUE: 1.5 N·m (0.15 kgf·m, 1.1 lbf·ft)
+**TORQUE:** 1.5 N·m (0.15 kgf·m, 1.1 lbf·ft)
 [2]
 [1]
 [4]
 [5]/[6]
 [3]
-TORQUE: 1.5 N·m (0.15 kgf·m, 1.1 lbf·ft)
-TORQUE: 10 N·m (1.0 kgf·m, 7 lbf·ft)
+**TORQUE:** 1.5 N·m (0.15 kgf·m, 1.1 lbf·ft)
+**TORQUE:** 10 N·m (1.0 kgf·m, 7 lbf·ft)
 [1]
 [5]/[6]
 [3]
@@ -658,7 +658,7 @@ torque.
 [2]
 STANDARD [1]: 35 – 55 mm (1.4 – 2.2 in)
 [1]
-TORQUE: 17.2 N·m (1.8 kgf·m, 13 lbf·ft)
+**TORQUE:** 17.2 N·m (1.8 kgf·m, 13 lbf·ft)
 [2] 
 [1]
 
@@ -772,7 +772,7 @@ Refer to the Shop Manual and clean and apply grease the throttle
 pipe-to-APS contacting area if throttle operation is not smooth.
 [1] 
 STANDARD [3]: 42 mm (1.7 in)
-TORQUE:
+**TORQUE:**
 Middle cowl socket bolt A:
 0.54 N·m (0.06 kgf·m, 0.4 lbf·ft)
 [1] 

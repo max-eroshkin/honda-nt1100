@@ -67,7 +67,7 @@ Remove the following:
 * Rear fender B [3] 
 Installation is in the reverse order of removal. 
 
-NOTE: 
+**NOTE:** 
 * Place the rear fender B hooks [4] onto the seat rail [5]. 
 * Route the wires properly . 
 

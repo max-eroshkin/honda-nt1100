@@ -16,7 +16,7 @@ Install the new back up rings [3] and O-rings [4] to the oil joints [5].
 Install the oil joints to the oil pan. 
 ! DCT model: 
 
-NOTE: 
+**NOTE:** 
 * Install the back up rings and O-rings to the oil joints as shown. 
 
 
@@ -29,7 +29,7 @@ Apply engine oil to a new seal ring.
 Install the seal ring [1] to the oil pump. 
 Install the oil strainer [2]. 
 
-NOTE: 
+**NOTE:** 
 * Align the oil strainer boss with the oil pump groove. 
 Install the oil pan [1]. 
 Install and tighten the bolts [2] in a crisscross pattern in 2 or 3 steps. 

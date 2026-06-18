@@ -22,7 +22,7 @@ Remove the following parts from the ignition tray [7]:
 * Ignition sub harness [12] 
 Installation is in the reverse order of removal. 
 
-NOTE: 
+**NOTE:** 
 * Route the wire harness properly . 
 
 

@@ -34,7 +34,7 @@ Install the dust seal [1], stopper ring [2] and oil seal [3].
 Install the back-up ring [4] and guide bushing [5]. 
 Install the slider bushing [6] if they are removed. 
 
-NOTE: 
+**NOTE:** 
 * Remove any burrs from the bushing mating surface, being careful not to peel off the coating. 
 * Do not open the slider bushing slit more than necessary. 
 Install the slide pipe assembly [7] into the outer tube [8]. 
@@ -63,7 +63,7 @@ Install the stopper seat [6] in the shown direction.
 Install the O-ring [7] to the fork cap [8]. 
 Install the fork cap to the fork rod and tighten it until it stops. 
 Hold the fork cap then tighten the fork rod lock nut [9] to the specified torque. 
-TORQUE: 18 N·m (1.8 kgf·m, 13 lbf·ft) 
+**TORQUE:** 18 N·m (1.8 kgf·m, 13 lbf·ft) 
 Install the following to the fork rod [1]. 
 ! Left side: 
 * Rebound spring [2] 
@@ -73,7 +73,7 @@ Apply fork fluid to a new O-ring [5].
 Install the O-ring to the fork cap [6]. 
 Install the fork cap to the fork rod and tighten it until it stops. 
 Hold the fork cap then tighten the fork rod lock nut [7] to the specified torque 
-TORQUE: 28 N·m (2.9 kgf·m, 21 lbf·ft) 
+**TORQUE:** 28 N·m (2.9 kgf·m, 21 lbf·ft) 
 
 
 

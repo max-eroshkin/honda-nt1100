@@ -15,7 +15,7 @@ Remove the headlight unit [5].
 Remove the collars [6] and grommets [7] from the headlight unit. 
 Installation is in the reverse order of removal. 
 
-NOTE: 
+**NOTE:** 
 * Route the wires properly . 
 * Put the open air temperature sensor connector cover to the center groove on the headlight unit when installing. 
 

@@ -10,7 +10,7 @@
 VALVE CLEARANCE 
 
 
-NOTE: 
+**NOTE:** 
 * Inspect and adjust the valve clearance while the engine is cold (below 35°/95°F). 
 Remove the cylinder head cover . 
 Remove the crankshaft hole cap [1] and the timing hole cap [2]. 
@@ -61,7 +61,7 @@ TOOL:
 Tappet adjusting wrench [3] 07708-0030400 
 Apply engine oil to the adjusting screw and lock nut threads and seating surface. 
 Hold the adjusting screw and tighten the lock nut. 
-TORQUE: 10 N·m (1.0 kgf·m, 7 lbf·ft) 
+**TORQUE:** 10 N·m (1.0 kgf·m, 7 lbf·ft) 
 
 
 
@@ -93,7 +93,7 @@ TOOL:
 Tappet adjusting wrench [3] 07708-0030400 
 Apply engine oil to the adjusting screw and lock nut threads and seating surface. 
 Hold the adjusting screw and tighten the lock nut. 
-TORQUE: 10 N·m (1.0 kgf·m, 7 lbf·ft) 
+**TORQUE:** 10 N·m (1.0 kgf·m, 7 lbf·ft) 
 After tightening the lock nut, recheck the valve clearance. 
 
 
@@ -105,7 +105,7 @@ After tightening the lock nut, recheck the valve clearance.
 Coat new O-rings [1] with engine oil and install them into the timing hole cap [2] and crankshaft hole cap [3]. 
 Apply grease to the threads of the timing hole and crankshaft hole caps. 
 Install the timing hole and crankshaft hole caps, and tighten them. 
-TORQUE: 
+**TORQUE:** 
 Timing hole cap: 
 6.0 N·m (0.61 kgf·m, 4.4 lbf·ft) 
 Crankshaft hole cap: 

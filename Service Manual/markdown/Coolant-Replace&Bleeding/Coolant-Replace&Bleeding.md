@@ -7,7 +7,7 @@
 
 REPLACEMENT/AIR BLEEDING 
 
-NOTE: 
+**NOTE:** 
 * When filling the system or reserve tank with coolant or checking the coolant level, place the motorcycle in an upright position on a 
 flat, level surface. 
 Remove the following: 
@@ -24,7 +24,7 @@ washer.
 Tighten the coolant drain bolt to the specified 
 torque. 
 
-TORQUE: 13 N·m (1.3 kgf·m, 10 lbf·ft) 
+**TORQUE:** 13 N·m (1.3 kgf·m, 10 lbf·ft) 
 
 Remove the radiator reserve tank . 
 
@@ -55,7 +55,7 @@ reserve tank and fill to the upper level
 line if it is low. 
 
 
-NOTE: 
+**NOTE:** 
 * When air bleeding is 
 insufficient, level of coolant in 
 the reserve tank will decrease. 

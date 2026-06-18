@@ -12,7 +12,7 @@ vertical beam adjusting screw [1].
 Adjust horizontally by turning the horizontal adjusting 
 screws [2]. 
 
-NOTE: 
+**NOTE:** 
 l Adjust the headlight beam as specified by local 
 laws and regulations. 
 Page 1 of 1

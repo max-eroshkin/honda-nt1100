@@ -7,7 +7,7 @@
 
 FUEL PRESSURE RELIEVING 
 
-NOTE: 
+**NOTE:** 
 * Before disconnecting the fuel hose, relieve 
 pressure from the system as follows. 
 1. Turn the ignition switch OFF. 

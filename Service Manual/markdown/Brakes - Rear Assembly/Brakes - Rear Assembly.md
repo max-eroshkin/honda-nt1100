@@ -7,7 +7,7 @@
 
 DISASSEMBLY/ASSEMBLY 
 
-NOTE: 
+**NOTE:** 
 * Be careful not to damage the piston. 
 * When removing the caliper piston with compressed air, place a shop towel over the piston to prevent damaging the piston and caliper body. Do not use high pressure or bring the nozzle too close to the fluid inlet. 
 * Be careful not to damage the piston sliding surface. 

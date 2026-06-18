@@ -11,7 +11,7 @@ Remove the windscreen adjust rail bolts [1] and
 windscreen adjust rail [2]. 
 Installation is in the reverse order of removal. 
 
-NOTE: 
+**NOTE:** 
 * Check the windscreen adjustment for smooth 
 operation. Apply grease to the slider guides if 
 there is any unsmooth or heavy operation. 

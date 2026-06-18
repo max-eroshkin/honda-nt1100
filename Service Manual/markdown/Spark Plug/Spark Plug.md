@@ -7,7 +7,7 @@
 
 REMOVAL/INSTALLATION 
 
-NOTE: 
+**NOTE:** 
 * Clean around the spark plug base with compressed air before removing the spark plug, and be sure that no debris is allowed to 
 enter the combustion chamber. 
 Remove the following: 
@@ -29,11 +29,11 @@ the MAINTENANCE SCHEDULE .
 Install and hand tighten the spark plug to the 
 cylinder head, then tighten the spark plug to the 
 specified torque using the spark plug wrench. 
-TORQUE: 
+**TORQUE:** 
 Spark plug: 
 22 N·m (2.2 kgf·m, 16 lbf·ft) 
 
-NOTE: 
+**NOTE:** 
 * Replace new spark plugs as a set. 
 Install the following: 
 * Radiator 

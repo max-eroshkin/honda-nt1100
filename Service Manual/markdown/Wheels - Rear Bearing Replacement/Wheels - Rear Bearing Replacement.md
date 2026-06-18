@@ -42,7 +42,7 @@ Attachment, 42 x 47 mm [3] 07746-0010300
 Pilot 20 mm [4] 
 07746-0040500 
 
-NOTE: 
+**NOTE:** 
 * Replace the driven flange and wheel bearings as a set. 
 * Do not reuse old bearings. 
 Install the distance collar. 
@@ -62,7 +62,7 @@ Bearing driver attachment, 28 x 30 [4] 07946-1870100
 Pilot 20 mm [5] 
 07746-0040500 
 
-NOTE: 
+**NOTE:** 
 * Replace the driven flange and wheel bearings as a set. 
 * Do not reuse old bearing. 
 Drive in the driven flange bearing/rear wheel distance collar B [1] squarely with the rear wheel distance collar B side facing 

@@ -27,7 +27,7 @@ Disconnect the No.1-1 spark plug cap [4] and No.2-1 spark plug cap [5].
 Remove the ignition coil tray assembly. 
 Installation is in the reverse order of removal. 
 
-NOTE: 
+**NOTE:** 
 * Route the wires properly . 
 
 

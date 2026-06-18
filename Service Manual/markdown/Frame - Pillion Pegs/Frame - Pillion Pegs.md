@@ -20,11 +20,11 @@ REMOVAL/INSTALLATION
 Remove the pillion step bracket bolts [1] and pillion 
 step assembly [2]. 
 Installation is in the reverse order of removal. 
-TORQUE: 
+**TORQUE:** 
 Pillion step bracket bolt: 
 32 N·m (3.3 kgf·m, 24 lbf·ft) 
 
-NOTE: 
+**NOTE:** 
 * Apply grease to the pillion step joint pin sliding 
 area. 
 

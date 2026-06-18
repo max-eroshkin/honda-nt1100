@@ -21,7 +21,7 @@ Page 1 of 2
 Open the fuel filler cap [1]. 
 Check the breather seal [2] in the fuel filler cap for deterioration, cracks or damage. Replace it if necessary. 
 
-NOTE: 
+**NOTE:** 
 l Always replace the breather seal with a new one when the fuel filler cap is removed for service. 
 Page 2 of 2
 30/07/2023

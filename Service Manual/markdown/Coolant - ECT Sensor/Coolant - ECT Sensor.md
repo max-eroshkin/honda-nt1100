@@ -11,9 +11,9 @@ Disconnect the ECT sensor 2P (Black) connector
 [1]. 
 Remove the ECT sensor [2] and O-ring [3]. 
 Installation is in the reverse order of removal. 
-TORQUE: 12 N·m (1.2 kgf·m, 9 lbf·ft) 
+**TORQUE:** 12 N·m (1.2 kgf·m, 9 lbf·ft) 
 
-NOTE: 
+**NOTE:** 
 * Do not apply oil to the O-ring. 
 * Check the O-ring and replace if necessary as 
 a ECT sensor assembly. 

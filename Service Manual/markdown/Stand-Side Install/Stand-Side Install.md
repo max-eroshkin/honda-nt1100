@@ -14,7 +14,7 @@ Install the sidestand [3] and
 collar. 
 Install and tighten the sidestand 
 pivot bolt to the specified torque. 
-TORQUE: 10 N·m (1.0 kgf·m, 7 
+**TORQUE:** 10 N·m (1.0 kgf·m, 7 
 lbf·ft) 
 After tightening the pivot bolt, 
 return the pivot bolt 45° to 90°. 
@@ -22,7 +22,7 @@ Install and tighten the sidestand
 pivot nut [4] to the specified 
 torque while holding the 
 sidestand pivot bolt. 
-TORQUE: 42 N·m (4.3 kgf·m, 
+**TORQUE:** 42 N·m (4.3 kgf·m, 
 31 lbf·ft) 
 Install the sidestand return spring 
 [5] in the direction as shown. 
@@ -36,10 +36,10 @@ and new sidestand switch bolt
 [2]. 
 Tighten the sidestand switch bolt 
 to the specified torque. 
-TORQUE: 10 N·m (1.0 kgf·m, 7 
+**TORQUE:** 10 N·m (1.0 kgf·m, 7 
 lbf·ft) 
 
-NOTE: 
+**NOTE:** 
 * Align the sidestand switch 
 tab [3] with the sidestand 
 hole [4]. 

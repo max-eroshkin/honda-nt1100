@@ -16,7 +16,7 @@ Apply engine oil to a new O-ring.
 Install the O-ring [1] to the fuel pump [2]. 
 Install the fuel pump. 
 
-NOTE: 
+**NOTE:** 
 * Align the Yellow wire [3] with the fuel filter groove [4]. 
 * Lead the Green wire [5] through the hole [6] of the fuel filter as shown. 
 

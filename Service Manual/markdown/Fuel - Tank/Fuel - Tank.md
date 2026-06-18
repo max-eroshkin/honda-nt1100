@@ -20,11 +20,11 @@ Remove the fuel filler cap [6] by removing the fuel filler cap bolts, if necessa
 ![Страница 2](images/page-002-img-01.jpg)
 
 Installation is in the reverse order of removal. 
-TORQUE: 
+**TORQUE:** 
 Fuel filler cap bolt: 
 1.8 N·m (0.18 kgf·m, 1.3 lbf·ft) 
 
-NOTE: 
+**NOTE:** 
 * A pressure release can be heard when opening the fuel cap, but this is not blockage of the passage. If checking for clog in the passage of 
 the fuel tank side is necessary, apply air pressure to the breather hose end with the fuel filler cap opened. 
 * If the fuel filler cap was removed, replace the breather seal [1] with a new one. 

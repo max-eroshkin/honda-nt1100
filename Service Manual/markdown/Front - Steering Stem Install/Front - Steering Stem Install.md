@@ -29,7 +29,7 @@ KYODO YUSHI CO., LTD. or equivalent) to the steering stem adjusting nut [1] thre
 Tighten the adjusting nut to the initial torque by holding the steering stem. 
 TOOL: 
 Locknut wrench 5.8 x 45 [2] 07916-KA50100 
-TORQUE: 30 N·m (3.1 kgf·m, 22 lbf·ft) 
+**TORQUE:** 30 N·m (3.1 kgf·m, 22 lbf·ft) 
 Move the steering stem [1] right and left, lock-to-lock, five times to seat the bearings. 
 
 
@@ -43,7 +43,7 @@ Move the steering stem [1] right and left, lock-to-lock, five times to seat the 
 Retighten the steering stem adjusting nut [1] to the specified torque using a special tool. 
 TOOL: 
 Locknut wrench 5.8 x 45 [2] 07916-KA50100 
-TORQUE: 30 N·m (3.1 kgf·m, 22 lbf·ft) 
+**TORQUE:** 30 N·m (3.1 kgf·m, 22 lbf·ft) 
 Recheck that the steering stem moves smoothly without play or binding. 
 Install a new lock washer [1], aligning its bent tabs with the grooves in the adjustment nut. 
 Install the lock nut [2] and finger tighten it all the way. 
@@ -75,7 +75,7 @@ Install the top bridge [1].
 Install the washer [2] and steering stem nut [3], but do not tighten it yet. 
 Temporarily install the forks [4]. 
 Tighten the steering stem nut to the specified torque. 
-TORQUE: 100 N·m (10.2 kgf·m, 74 lbf·ft) 
+**TORQUE:** 100 N·m (10.2 kgf·m, 74 lbf·ft) 
 Turn the steering stem left and right, lock-to-lock several times to make sure the steering stem moves smoothly without play or binding. 
 Connect the following: 
 * Ignition switch 2P (Brown) connector [1] 

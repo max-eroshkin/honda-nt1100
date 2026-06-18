@@ -7,7 +7,7 @@
 
 DISASSEMBLY/ASSEMBLY 
 
-NOTE: 
+**NOTE:** 
 
 
 

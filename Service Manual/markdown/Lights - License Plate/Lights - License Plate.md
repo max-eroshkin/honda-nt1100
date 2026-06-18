@@ -26,7 +26,7 @@ Remove the following from the rear fender A stay [1]:
 * License light bolts [6] 
 * License light [7] 
 Installation is in the reverse order of removal. 
-TORQUE: 
+**TORQUE:** 
 License light bolt: 
 2.0 N·m (0.20 kgf·m, 1.5 lbf·ft) 
 

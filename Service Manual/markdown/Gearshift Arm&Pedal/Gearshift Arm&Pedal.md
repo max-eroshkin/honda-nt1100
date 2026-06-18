@@ -16,7 +16,7 @@ Remove the dust seals [4].
 Check the dust seals and tie-rod ball joint dust cover for 
 deterioration or damage, replace them if necessary. 
 Installation is in the reverse order of removal. 
-TORQUE: 
+**TORQUE:** 
 
 
 
@@ -27,7 +27,7 @@ TORQUE:
 Gearshift pedal pivot bolt: 
 27 N·m (2.8 kgf·m, 20 lbf·ft) 
 
-NOTE: 
+**NOTE:** 
 * Apply grease to the dust seal lips. 
 * Install the dust seals with the seal lip side facing out. 
 * Apply grease to the gearshift pedal pivot sliding area 
@@ -38,7 +38,7 @@ When adjusting the gearshift pedal height, perform the
 procedure as follows: 
 Loosen the lock nuts [1]. 
 
-NOTE: 
+**NOTE:** 
 
 
 

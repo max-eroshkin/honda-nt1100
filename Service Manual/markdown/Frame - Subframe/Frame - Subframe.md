@@ -16,7 +16,7 @@ Remove the rear master cylinder reservoir
 mounting bolt [1] and release the rear master 
 cylinder reservoir [2]. 
 
-NOTE: 
+**NOTE:** 
 * Keep the rear master cylinder reservoir 
 upright to prevent air from entering the 
 hydraulic system. 
@@ -46,14 +46,14 @@ Remove the following from the seat rail [1]:
 
 * Collars [5] 
 Installation is in the reverse order of removal. 
-TORQUE: 
+**TORQUE:** 
 Seat rail socket bolt: 
 44 N·m (4.5 kgf·m, 32 lbf·ft) 
 Rear master cylinder reservoir mounting 
 bolt: 
 10 N·m (1.0 kgf·m, 7 lbf·ft) 
 
-NOTE: 
+**NOTE:** 
 * Route the hose, wire, and cable properly . 
 * For seat lock cylinder removal/installation . 
 

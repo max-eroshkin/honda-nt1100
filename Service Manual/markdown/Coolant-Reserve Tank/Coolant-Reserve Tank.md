@@ -16,7 +16,7 @@ Disconnect the siphon hose [5] and drain the
 coolant. 
 Installation is in the reverse order of removal. 
 
-NOTE: 
+**NOTE:** 
 * Route the radiator reserve tank drain hose [6] 
 properly . 
 

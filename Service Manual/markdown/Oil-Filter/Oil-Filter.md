@@ -7,7 +7,7 @@
 
 ENGINE OIL FILTER 
 
-NOTE: 
+**NOTE:** 
 * DCT model: 
 Replace the clutch oil filter when the engine oil filter is replaced. 
 Drain the engine oil . 
@@ -34,7 +34,7 @@ LENGTH:
 15.5 – 16.5 mm (0.61 – 
 0.65 in) 
 
-NOTE: 
+**NOTE:** 
 * If the oil filter boss is removed, apply 
 locking agent to the oil filter boss 
 threads as shown and install it. 
@@ -53,7 +53,7 @@ TOOL:
 Oil filter wrench 
 07HAA-
 PJ70101 
-TORQUE: 26 N·m (2.7 kgf·m, 19 lbf·ft) 
+**TORQUE:** 26 N·m (2.7 kgf·m, 19 lbf·ft) 
 Fill the engine with the recommended engine 
 oil and check that there are no oil leaks . 
 

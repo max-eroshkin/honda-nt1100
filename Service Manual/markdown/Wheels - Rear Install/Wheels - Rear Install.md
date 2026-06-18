@@ -10,7 +10,7 @@
 INSTALLATION 
 Install the rear brake caliper assembly [1] to the swingarm. 
 
-NOTE: 
+**NOTE:** 
 * Align the caliper bracket groove with swingarm guide. 
 Install the side collars [1]. 
 
@@ -21,7 +21,7 @@ Install the side collars [1].
 Apply a thin coat of grease to the rear axle outer surface. 
 Install the rear wheel in the swingarm. 
 
-NOTE: 
+**NOTE:** 
 * Install the brake disc between the brake pads. 
 * Be careful not to damage the brake pads. 
 Install the drive chain [1] over the driven sprocket. 

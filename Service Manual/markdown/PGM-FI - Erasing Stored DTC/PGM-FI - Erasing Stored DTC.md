@@ -7,7 +7,7 @@
 
 ERASING STORED DTC 
 
-NOTE: 
+**NOTE:** 
 * When the ERASING DTC procedure is performed, the DTCs of DCT system are erased at the same time. 
 Erase the DTC with the GST or MCS while the engine is stopped. 
 To erase the DTC without GST or MCS, refer to the following procedure. 

@@ -28,7 +28,7 @@ Remove the right crankcase cover bolts [1].
 Turn the clutch lifter lever [2] counterclockwise to disengage the lifter lever slit from the clutch lifter pin. 
 Remove the right crankcase cover [3]. 
 
-NOTE: 
+**NOTE:** 
 * Be careful not to drop the return spring. 
 Remove the dowel pins [1] and gasket [2]. 
 

@@ -60,7 +60,7 @@ Remove the following:
 * Radiator 
 Installation is in the reverse order of removal. 
 
-NOTE: 
+**NOTE:** 
 * Tighten the water hose band screws to the specified range as shown. 
 * Route the hoses and wires properly . 
 Fill the recommended coolant mixture to the filler neck and bleed the air . 

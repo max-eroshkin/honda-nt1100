@@ -7,7 +7,7 @@
 
 BODY CONTROL SYSTEM DTC TROUBLESHOOTING 
 
-NOTE: 
+**NOTE:** 
 * Before starting the troubleshooting, check for loose or poor contact in the BCU 
 related circuit. 
 1.

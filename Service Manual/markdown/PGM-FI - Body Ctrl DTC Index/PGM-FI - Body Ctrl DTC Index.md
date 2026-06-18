@@ -7,7 +7,7 @@
 
 BODY CONTROL SYSTEM DTC INDEX 
 
-NOTE: 
+**NOTE:** 
 * After confirming the MID displays, perform the troubleshooting according to the 
 DTC index. 
 MID 

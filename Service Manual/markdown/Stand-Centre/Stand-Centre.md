@@ -14,7 +14,7 @@ Remove the mainstand [3] by its sliding to the right
 side from the frame [4]. 
 Installation is in the reverse order of removal. 
 
-NOTE: 
+**NOTE:** 
 * Apply the molybdenum disulfide grease to the 
 contact area of the spring plate [5], main 
 stand spring plate [6] and frame. 

@@ -42,7 +42,7 @@ Select the "DTC" [5], and then press the ENT switch.
 
 3. Read the DTC [1]. 
 
-NOTE: 
+**NOTE:** 
 * For returning to the riding information, previous screen, or Home 
 screen: 
 

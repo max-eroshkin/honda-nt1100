@@ -16,7 +16,7 @@ Remove the seat catch hook.
 Installation is in the reverse order of 
 removal. 
 
-NOTE: 
+**NOTE:** 
 * Apply grease to the seat catch 
 hook sliding area. 
 * Align the seat catch hook boss 
@@ -35,7 +35,7 @@ cylinder, and stay [4].
 Installation is in the reverse order of 
 removal. 
 
-NOTE: 
+**NOTE:** 
 * Align the seat lock cylinder lug 
 [5] with the left fender B cover 
 groove [6] and stay groove [7]. 

@@ -11,14 +11,14 @@ rail .
 Place the end of the fuel feed hose [1] into an 
 approved fuel container. 
 
-NOTE: 
+**NOTE:** 
 * Clean up any spilled fuel. 
 Temporarily connect the battery negative (–) cable 
 and fuel pump unit 5P (Black) connector. 
 Turn the ignition switch ON. 
 Measure the amount of fuel flow. 
 
-NOTE: 
+**NOTE:** 
 * The fuel pump operates for 2 seconds. 
 Repeat this procedure 5 times to meet the 
 total measuring time. 

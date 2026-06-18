@@ -9,7 +9,7 @@
 
 BEARING REPLACEMENT 
 
-NOTE: 
+**NOTE:** 
 * Replace the bearing, outer race, and inner race as a set. 
 Remove the upper outer race using a special tools. 
 TOOLS: 

@@ -13,7 +13,7 @@ Remove the cylinder head cover .
 Remove the PAIR reed valve cover bolts [1]. 
 Remove the PAIR reed valve cover [1]. 
 
-NOTE: 
+**NOTE:** 
 * When installing the PAIR reed valve cover, align the boss of the PAIR reed valve cover with the hole of the PAIR reed valve. 
 
 
@@ -24,11 +24,11 @@ NOTE:
 
 Remove the PAIR reed valves [1] and port plates [2]. 
 Installation is in the reverse order of removal. 
-TORQUE: 
+**TORQUE:** 
 PAIR reed valve cover bolt: 
 12 N·m (1.2 kgf·m, 9 lbf·ft) 
 
-NOTE: 
+**NOTE:** 
 * Install the PAIR reed valves and port plates as shown. 
 INSPECTION 
 Remove the PAIR reed valves . 

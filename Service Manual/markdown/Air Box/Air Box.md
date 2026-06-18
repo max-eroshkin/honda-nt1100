@@ -1,19 +1,15 @@
-# Air Box
+# Air Box - REMOVAL/INSTALLATION
 
-Источник: `Air Box.pdf`
-
-
-![Страница 1](images/page-001-img-01.jpg)
 
 ![Страница 1](images/page-001-img-02.jpg)
 
-## REMOVAL/INSTALLATION 
 
 Remove the following: 
 * Inner cover 
 * Fuel tank 
 
-Open the clamp [1] and release the air cleaner housing drain hose [2]. 
+Open the clamp [1] and release the air cleaner housing drain hose [2].
+![Страница 1](images/page-001-img-01.jpg)
 
 Open the clamp A [1]. 
 
@@ -25,15 +21,15 @@ Release the air cleaner housing drain hose [3].
 
 ![Страница 2](images/page-002-img-01.jpg)
 
+Release the ignition switch 2P (Brown) connector [1] from the stay.
+
+Release the ignition switch wire [2] from the guide [3].
+
+Disconnect the air suction hose [4].
+
+Loosen the connecting hose band screws [5].
+
 ![Страница 2](images/page-002-img-02.jpg)
-
-Release the ignition switch 2P (Brown) connector [1] from the stay. 
-
-Release the ignition switch wire [2] from the guide [3]. 
-
-Disconnect the air suction hose [4]. 
-
-Loosen the connecting hose band screws [5]. 
 
 Remove the following: 
 * Bolts [1] 
@@ -57,16 +53,13 @@ Remove the following from the air cleaner housing:
 * Collar C [10] 
 * Grommet B [11] 
 
-
-
 ![Страница 3](images/page-003-img-01.jpg)
-
-![Страница 3](images/page-003-img-02.jpg)
 
 Installation is in the reverse order of removal. 
 
-NOTE: 
+**NOTE:** 
 * Route the wires and hoses properly . 
 * Align the hose band holes with the connecting hose bosses. 
 * Tighten the connecting hose band screws [1] until the collars [2] are fully seated. 
 
+![Страница 3](images/page-003-img-02.jpg)
