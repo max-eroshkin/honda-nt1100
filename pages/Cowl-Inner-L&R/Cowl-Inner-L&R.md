@@ -4,7 +4,7 @@
 
 
 ## LEFT SIDE 
-[Remove the left side cover.](../Cowl%20-%20Side%20L%26R/Cowl%20-%20Side%20L%26R.md)
+[Remove the left side cover.](../Cowl-Side-L&R/Cowl-Side-L&R.md)
 
 Release the sub harness 12P (Black) clip connector [1] from the left inner cover. 
 

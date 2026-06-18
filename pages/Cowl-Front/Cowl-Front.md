@@ -1,8 +1,8 @@
 # Cowl - Front REMOVAL/INSTALLATION
 
 Remove the following: 
-* [Windscreen stay](../Windscreen%20Stay/Windscreen%20Stay.md)
-* [Middle cowl](../Cowl%20-%20Middle/Cowl%20-%20Middle.md)
+* [Windscreen stay](../Windscreen-Stay/Windscreen-Stay.md)
+* [Middle cowl](../Cowl-Middle/Cowl-Middle.md)
 * Upper deflector socket bolt (long) [1] 
 * Plastic washer [2] 
 * Rubber washer [3] 

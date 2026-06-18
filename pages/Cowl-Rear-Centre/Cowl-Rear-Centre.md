@@ -1,6 +1,6 @@
 # Cowl - Rear Centre REMOVAL/INSTALLATION
 
-[Remove the rear carrier.](../Frame%20-%20Rear%20Carrier/Frame%20-%20Rear%20Carrier.md)
+[Remove the rear carrier.](../Frame-Rear-Carrier/Frame-Rear-Carrier.md)
 
 Remove the following: 
 * Tapping screws [1] 

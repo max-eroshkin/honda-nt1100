@@ -1,7 +1,7 @@
 # Cowl - Fuel Tank REMOVAL/INSTALLATION
 
 Remove the following: 
-* [Middle cowl](../Cowl%20-%20Middle/Cowl%20-%20Middle.md)
+* [Middle cowl](../Cowl-Middle/Cowl-Middle.md)
 * Upper deflector socket bolt (long) [1] 
 * Plastic washer [2] 
 * Rubber washer [3] 

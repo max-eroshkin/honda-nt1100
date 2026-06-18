@@ -2,8 +2,8 @@
 
 
 Remove the following: 
-* [Middle cowl](../Cowl%20-%20Middle/Cowl%20-%20Middle.md)
-* [Rear side cowl](../Cowl%20-%20Rear%20Side/Cowl%20-%20Rear%20Side.md)
+* [Middle cowl](../Cowl-Middle/Cowl-Middle.md)
+* [Rear side cowl](../Cowl-Rear-Side/Cowl-Rear-Side.md)
 * Socket bolt [1] 
 * Trim clips [2] 
 
