@@ -1,14 +1,16 @@
 # Ignition Coil Tray Assembly
 
-Источник: `Ignition Coil Tray Assembly.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)
 
 IGNITION COIL TRAY DISASSEMBLY/ASSEMBLY 
-Remove the ignition coil tray assembly . 
-Release the wire clip [1]. 
-Remove the bolts [2]. 
+Remove the ignition coil tray assembly.
+
+Release the wire clip [1].
+
+Remove the bolts [2].
+
 Disconnect the following: 
 * No.1-1 ignition coil connectors [3] 
 * No.1-2 ignition coil connectors [4] 
@@ -23,9 +25,7 @@ Remove the following parts from the ignition tray [7]:
 Installation is in the reverse order of removal. 
 
 **NOTE:** 
-* Route the wire harness properly . 
-
-
+* Route the wire harness properly.
 
 ![Страница 2](images/page-002.png)
 

@@ -8,11 +8,11 @@ Remove the following:
 * Trim clips A [4] 
 * Trim clip B [5] 
 
-Release the bosses [6] from the grommets [7]. 
+Release the bosses [6] from the grommets [7].
 
-Disconnect the front turn signal light 2P (Light blue) connector [8]. 
+Disconnect the front turn signal light 2P (Light blue) connector [8].
 
-Remove the middle cowl [9] by releasing the tabs [10] from the side cover and front lower cowl. 
+Remove the middle cowl [9] by releasing the tabs [10] from the side cover and front lower cowl.
 
 Installation is in the reverse order of removal. 
 

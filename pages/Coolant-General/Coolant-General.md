@@ -1,6 +1,5 @@
 # Coolant-General
 
-Источник: `Coolant-General.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)
@@ -19,5 +18,5 @@ overheating.The effects last for up to 3 years. (TH only)
 * All cooling system services can be done with the engine installed in the frame. 
 * Avoid spilling coolant on painted surfaces. 
 * After servicing the system, check for leaks with a cooling system tester. 
-* Refer to the ECT sensor inspection . 
+* Refer to the ECT sensor inspection. 
 

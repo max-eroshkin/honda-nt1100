@@ -1,13 +1,13 @@
 # WShop Manual - Abbreviations
 
-Источник: `WShop Manual - Abbreviations.pdf`
 
 
 ![Страница 1](images/page-001.png)
 
 ABBREVIATION 
 Throughout this manual, the following abbreviations are used to identify the respective 
-parts or systems. 
+parts or systems.
+
 Abbrev. term 
 Full term 
 ABS 

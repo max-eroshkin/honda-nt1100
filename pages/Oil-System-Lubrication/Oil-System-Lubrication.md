@@ -1,6 +1,5 @@
 # Oil-System Lubrication
 
-Источник: `Oil-System Lubrication.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)

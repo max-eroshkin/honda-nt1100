@@ -1,6 +1,5 @@
 # Lights-Headlight Inspection
 
-Источник: `Lights-Headlight Inspection.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)
@@ -23,11 +22,10 @@ Check the following lighting condition:
 ◦Faulty circuit between the headlight unit and BCU 
 ◦Photosensor [3] (in the meter) for damage or cover 
 * When the headlight dimmer/passing light control switch is turned to DRL auto or off (low beam), the headlights and DRL 
-are switched automatically according to the ambient brightness. 
+are switched automatically according to the ambient brightness.
+
 When it gets brighter, DRL lights up, and when it gets dark, low beam lights up and DRL decreases to the brightness of 
-the position light. 
-
-
+the position light.
 
 ![Страница 2](images/page-002-img-01.jpg)
 
@@ -35,9 +33,7 @@ the position light.
 
 DRL FORCIBLY ACTIVATE 
 To forcibly activate the DRLs lights, perform the procedure as follows: 
-1. Pull and hold the page switch [1] or touch the clock area [2] of the MID. 
-
-
+1. Pull and hold the page switch [1] or touch the clock area [2] of the MID.
 
 ![Страница 3](images/page-003-img-01.jpg)
 

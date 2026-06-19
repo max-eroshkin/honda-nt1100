@@ -1,14 +1,15 @@
 # Oil-Pump
 
-Источник: `Oil-Pump.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)
 
 REMOVAL/INSTALLATION 
-Remove the oil strainer . 
+Remove the oil strainer.
+
 Remove the oil pump mounting bolts [1] and oil 
-pump [2]. 
+pump [2].
+
 Installation is in the reverse order of removal. 
 **TORQUE:** 
 Oil pump mounting bolt: 

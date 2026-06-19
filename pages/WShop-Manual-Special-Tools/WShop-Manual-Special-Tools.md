@@ -1,6 +1,5 @@
 # WShop Manual - Special Tools
 
-Источник: `WShop Manual - Special Tools.pdf`
 
 
 ![Страница 1](images/page-001.png)
@@ -269,7 +268,8 @@ Weight, remover
 Ball race remover 44.5 
 07946-
 MB00000 
-Driver, 30 mm I.D. 
+Driver, 30 mm I.D.
+
 07746-
 0010400 
 Attachment, 52 x 55 mm 

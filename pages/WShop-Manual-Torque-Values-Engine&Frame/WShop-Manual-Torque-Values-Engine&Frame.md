@@ -1,6 +1,5 @@
 # WShop Manual - Torque Values - Engine&Frame
 
-Источник: `WShop Manual - Torque Values - Engine&Frame.pdf`
 
 
 ![Страница 1](images/page-001.png)
@@ -50,7 +49,8 @@ Sidestand switch bolt
 1 
 6 
 10 (1.0, 7) 
-Replace with a new one. 
+Replace with a new one.
+
 Right main step bracket upper bolt 
 1 
 12 
@@ -184,17 +184,20 @@ Valve adjusting screw lock nut
 5 
 10 (1.0, 7) 
 Apply engine oil to the threads and 
-seating surface. 
+seating surface.
+
 Timing hole cap 
 1 
 14 
 6.0 (0.61, 4.4) 
-Apply grease to the threads. 
+Apply grease to the threads.
+
 Crankshaft hole cap 
 1 
 30 
 8.0 (0.82, 5.9) 
-Apply grease to the threads. 
+Apply grease to the threads.
+
 Engine oil drain bolt 
 2 
 12 
@@ -203,12 +206,14 @@ Oil filter boss (crankcase side)
 1 
 20 
 – 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 Engine oil filter cartridge 
 1 
 20 
 26 (2.7, 19) 
-Apply engine oil to the threads. 
+Apply engine oil to the threads.
+
 Clutch oil filter cover bolt (DCT model) 
 2 
 6 
@@ -252,7 +257,8 @@ Brake pipe joint nut
 4 
 10 
 14 (1.4, 10) 
-Apply brake fluid to the threads. 
+Apply brake fluid to the threads.
+
 Parking brake adjuster lock nut (DCT 
 model) 
 1 
@@ -291,7 +297,8 @@ Shift spindle switch
 10 
 12 (1.2, 9) 
 Apply engine oil to the threads and 
-seating surface. 
+seating surface.
+
 Shift spindle switch terminal nut 
 1 
 4 
@@ -400,7 +407,8 @@ Cooling fan mounting nut
 2 
 5 
 2.7 (0.28, 2.0) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 Fan motor mounting screw 
 6 
 5 
@@ -409,7 +417,8 @@ Water pump cover bolt
 4 
 6 
 13 (1.3, 10) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 (*1) 
 LUBRICATION SYSTEM 
 ITEM 
@@ -423,7 +432,8 @@ Engine oil filter cartridge
 1 
 20 
 26 (2.7, 19) 
-Apply engine oil to the threads. 
+Apply engine oil to the threads.
+
 Oil pump mounting bolt 
 3 
 6 
@@ -436,17 +446,20 @@ Sealing bolt (22 mm)
 1 
 22 
 30 (3.1, 22) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 Sealing bolt (24 mm) (DCT model) 
 1 
 24 
 30 (3.1, 22) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 Oil pump driven gear set plate bolt 
 1 
 6 
 12 (1.2, 9) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 (*1) 
 CYLINDER HEAD/VALVE/CAMSHAFT 
 
@@ -470,7 +483,8 @@ Rocker arm shaft bolt
 6 
 12 (1.2, 9) 
 Apply engine oil to the threads and 
-seating surface. 
+seating surface.
+
 Rocker arm shaft stopper bolt 
 1 
 14 
@@ -480,26 +494,31 @@ Camshaft holder bolt
 6 
 12 (1.2, 9) 
 Apply engine oil to the threads and 
-seating surface. 
+seating surface.
+
 Cam sprocket bolt 
 2 
 7 
 20 (2.0, 15) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 (*2) 
 Cam chain tensioner pivot bolt 
 1 
 8 
 23 (2.3, 17) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 (*1) 
 Cylinder head bolt/washer 
 6 
 12 
 83 (8.5, 61) 
 Apply molybdenum oil solution to the 
-threads and seating surface. 
-Apply engine oil to the washer. 
+threads and seating surface.
+
+Apply engine oil to the washer.
+
 Front head engine hanger bolt (right side) 
 1 
 8 
@@ -528,19 +547,22 @@ Stator bolt
 5 
 6 
 12 (1.2, 9) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 (*1) 
 Flywheel mounting bolt 
 1 
 12 
 137 (14.0, 101) 
 Apply engine oil to the threads and 
-seating surface. 
+seating surface.
+
 Starter clutch torx bolt 
 6 
 8 
 29 (3.0, 21) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 (*2) 
 CLUTCH/GEARSHIFT LINKAGE (MT model) 
 ITEM 
@@ -571,8 +593,10 @@ Clutch center lock nut
 25 
 128 (13.1, 94) 
 Apply engine oil to the threads and 
-seating surface. 
-Stake. 
+seating surface.
+
+Stake.
+
 Clutch set plate bolt 
 3 
 6 
@@ -582,24 +606,28 @@ Primary drive gear bolt
 10 
 103 (10.5, 76) 
 Apply engine oil to the threads and 
-seating surface. 
+seating surface.
+
 Shift drum stopper arm pivot bolt 
 1 
 6 
 12 (1.2, 9) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 (*1) 
 Shift drum center bolt 
 1 
 8 
 23 (2.3, 17) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 (*2) 
 Gearshift spindle set plate bolt 
 1 
 6 
 12 (1.2, 9) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 (*1) 
 Gearshift spindle cover bolt 
 2 
@@ -679,7 +707,8 @@ Linear solenoid valve stopper plate bolt
 1 
 6 
 12 (1.2, 9) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 (*1) 
 Linear solenoid valve body mounting bolt 
 4 
@@ -690,7 +719,8 @@ Primary drive gear nut
 22 
 118 (12.0, 87) 
 Apply engine oil to the threads and 
-seating surface. 
+seating surface.
+
 Left-hand thread 
 Reduction gear cover torx bolt 
 3 
@@ -708,14 +738,16 @@ Shift drum center bolt
 1 
 8 
 31 (3.2, 23) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 (*2) 
 Drum shifter guide plate/drum shifter 
 assembly mounting bolt 
 2 
 6 
 12 (1.2, 9) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 (*1) 
 TR sensor mounting bolt 
 1 
@@ -734,7 +766,8 @@ EOT sensor
 10 
 15 (1.5, 11) 
 Apply engine oil to the threads and 
-seating surface. 
+seating surface.
+
 EOP sensor 
 1 
 10 
@@ -744,7 +777,8 @@ Neutral switch
 10 
 12 (1.2, 9) 
 Apply engine oil to the threads and 
-seating surface. 
+seating surface.
+
 Neutral switch terminal nut 
 1 
 4 
@@ -761,7 +795,8 @@ Front balancer bearing set plate bolt
 3 
 6 
 12 (1.2, 9) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 (*1) 
 Front balancer shaft bolt 
 1 
@@ -780,7 +815,8 @@ REMARKS
 DIA. (mm) 
 N·m (kgf·m, lbf·ft) 
 Apply engine oil to the threads and 
-seating surface. 
+seating surface.
+
 Rear balancer shaft holder bolt 
 3 
 8 
@@ -789,20 +825,23 @@ Mainshaft bearing set plate bolt
 3 
 6 
 12 (1.2, 9) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 (*1) 
 Shift drum bearing setting bolt/washer 
 2 
 6 
 12 (1.2, 9) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 (*1) 
 Crankcase main journal bolt 
 6 
 10 
 43 (4.4, 32) 
 Apply molybdenum oil solution to the 
-threads and seating surface. 
+threads and seating surface.
+
 Crankcase 10 mm bolt 
 1 
 10 
@@ -824,20 +863,24 @@ Crankpin bearing cap bolt (new)
 9 
 22 (2.2, 16) + 120° 
 Apply engine oil to the threads and 
-seating surface. 
-Replace with a new one. 
+seating surface.
+
+Replace with a new one.
+
 Crankcase main journal bolt 
 6 
 10 
 43 (4.4, 32) 
 Apply molybdenum oil solution to the 
-threads and seating surface. 
+threads and seating surface.
+
 Crankpin bearing cap bolt (retightening) 
 4 
 9 
 22 (2.2, 16) + 90° 
 Apply engine oil to the threads and 
-seating surface. 
+seating surface.
+
 ENGINE REMOVAL/INSTALLATION 
 ITEM 
 Q’TY 
@@ -876,7 +919,8 @@ REMARKS
 DIA. (mm) 
 N·m (kgf·m, lbf·ft) 
 Apply engine oil to the threads and 
-seating surface. 
+seating surface.
+
 Self-lock nut 
 Rear lower nut 
 1 
@@ -954,8 +998,10 @@ Handlebar weight bolt
 2 
 6 
 10 (1.0, 7) 
-Replace with a new one. 
-Apply locking agent to the threads. 
+Replace with a new one.
+
+Apply locking agent to the threads.
+
 Handlebar lower holder nut 
 2 
 10 
@@ -965,15 +1011,15 @@ Front brake disc bolt
 10 
 6 
 20 (2.0, 15) 
-Replace with a new one. 
-Apply locking agent to the threads. 
+Replace with a new one.
+
+Apply locking agent to the threads.
+
 Pulser ring bolt 
 5 
 5 
 7.0 (0.71, 5.2) 
-Replace with a new one. 
-
-
+Replace with a new one.
 
 ![Страница 10](images/page-010-img-01.png)
 
@@ -984,7 +1030,8 @@ TORQUE
 REMARKS 
 DIA. (mm) 
 N·m (kgf·m, lbf·ft) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 Front axle nut 
 1 
 14 
@@ -997,8 +1044,10 @@ Front brake caliper mounting bolt
 4 
 10 
 45 (4.6, 33) 
-Replace with a new one. 
-Apply locking agent to the threads. 
+Replace with a new one.
+
+Apply locking agent to the threads.
+
 Right fork damper lock nut 
 1 
 9 
@@ -1052,8 +1101,10 @@ Rear brake disc bolt
 4 
 8 
 42 (4.3, 31) 
-Replace with a new one. 
-Apply locking agent to the threads. 
+Replace with a new one.
+
+Apply locking agent to the threads.
+
 Driven sprocket nut 
 6 
 10 
@@ -1063,8 +1114,10 @@ Pulser ring bolt
 3 
 5 
 7.0 (0.71, 5.2) 
-Replace with a new one. 
-Apply locking agent to the threads. 
+Replace with a new one.
+
+Apply locking agent to the threads.
+
 Shock absorber upper nut 
 1 
 10 
@@ -1084,14 +1137,13 @@ Brake hose guide screw
 2 
 5 
 1.2 (0.12, 0.9) 
-Replace with a new one. 
+Replace with a new one.
+
 Brake hose clamp screw 
 1 
 5 
 1.2 (0.12, 0.9) 
-Replace with a new one. 
-
-
+Replace with a new one.
 
 ![Страница 11](images/page-011.png)
 
@@ -1112,20 +1164,24 @@ Cushion connecting rod nut (front side)
 10 
 44 (4.5, 32) 
 Apply engine oil to the threads and 
-seating surface. 
+seating surface.
+
 Self-lock nut 
 Drive chain slider screw 
 3 
 5 
 4.2 (0.4, 3.1) 
-Replace with a new one. 
-Apply locking agent to the threads. 
+Replace with a new one.
+
+Apply locking agent to the threads.
+
 Swingarm pivot nut 
 1 
 16 
 80 (8.2, 59) 
 Apply engine oil to the threads and 
-seating surface. 
+seating surface.
+
 Self-lock nut 
 HYDRAULIC BRAKE 
 ITEM 
@@ -1156,13 +1212,16 @@ Front brake caliper mounting bolt
 4 
 10 
 45 (4.6, 33) 
-Replace with a new one. 
-Apply locking agent to the threads. 
+Replace with a new one.
+
+Apply locking agent to the threads.
+
 Rear brake caliper mounting bolt 
 1 
 8 
 22 (2.2, 16) 
-Replace with a new one. 
+Replace with a new one.
+
 Rear brake pad pin 
 1 
 10 
@@ -1172,13 +1231,16 @@ model)
 2 
 8 
 30 (3.1, 22) 
-Replace with a new one. 
-Apply locking agent to the threads. 
+Replace with a new one.
+
+Apply locking agent to the threads.
+
 Parking brake pad pin (DCT model) 
 2 
 8 
 17.2 (1.8, 13) 
-Replace with a new one. 
+Replace with a new one.
+
 Front master cylinder holder bolt 
 2 
 6 
@@ -1227,7 +1289,8 @@ Front brake caliper assembly torx bolt
 6 
 8 
 27 (2.8, 20) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 Rear brake caliper pin bolt 
 1 
 12 
@@ -1241,7 +1304,8 @@ model)
 1 
 8 
 22 (2.2, 16) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 Parking brake adjuster lock nut (DCT 
 model) 
 1 
@@ -1259,12 +1323,14 @@ Brake hose guide screw
 2 
 5 
 1.2 (0.12, 0.9) 
-Replace with a new one. 
+Replace with a new one.
+
 Brake hose clamp screw 
 1 
 5 
 1.2 (0.12, 0.9) 
-Replace with a new one. 
+Replace with a new one.
+
 Oil bolt 
 5 
 10 
@@ -1273,7 +1339,8 @@ Brake pipe joint nut
 4 
 10 
 14 (1.4, 10) 
-Apply brake fluid to the threads. 
+Apply brake fluid to the threads.
+
 LIGHTS/METERS/SWITCHES/OTHER ELECTRONIC CONTROL UNITS 
 ITEM 
 Q’TY 
@@ -1298,7 +1365,8 @@ EOP switch (MT model)
 1 
 PT 1/8 
 12 (1.2, 9) 
-Apply sealant to the threads. 
+Apply sealant to the threads.
+
 EOP switch terminal bolt/washer (MT 
 model) 
 1 
@@ -1308,7 +1376,8 @@ Ignition switch mounting bolt
 2 
 8 
 26 (2.7, 19) 
-Replace with a new one. 
+Replace with a new one.
+
 Left handlebar switch screw 
 2 
 5 
@@ -1347,7 +1416,8 @@ Neutral switch (MT model)
 10 
 12 (1.2, 9) 
 Apply engine oil to the thread and 
-seating surface. 
+seating surface.
+
 Neutral switch terminal nut (MT model) 
 1 
 4 
@@ -1360,8 +1430,10 @@ Sidestand switch bolt
 1 
 6 
 10 (1.0, 7) 
-Replace with a new one. 
-Apply locking agent to the threads. 
+Replace with a new one.
+
+Apply locking agent to the threads.
+
 OTHERS 
 ITEM 
 Q’TY 
@@ -1382,12 +1454,14 @@ Cylinder head sealing bolt
 2 
 18 
 27 (2.8, 20) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 Oil pan sealing bolt (14 mm) (DCT model) 
 1 
 14 
 18 (1.8, 13) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 Coating width: 5 ± 1 mm (0.2 ± 0.04 in) 
 except 2 ± 1 mm (0.1 ± 0.04 in) from 
 bolt end 
@@ -1395,7 +1469,8 @@ Oil pan sealing bolt (16 mm)
 1 
 16 
 23 (2.3, 17) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 Coating width: 5 ± 1 mm (0.2 ± 0.04 in) 
 except 2 ± 1 mm (0.1 ± 0.04 in) from 
 bolt end 
@@ -1403,7 +1478,8 @@ Oil pan sealing bolt (20 mm)
 1 
 20 
 45 (4.6, 33) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 Coating width: 5 ± 1 mm (0.2 ± 0.04 in) 
 except 2 ± 1 mm (0.1 ± 0.04 in) from 
 bolt end 
@@ -1448,13 +1524,15 @@ Right crankcase cover inner cover bolt
 6 
 6 
 12 (1.2, 9) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 (*1) 
 Upper crankcase sealing bolt (8 mm) 
 1 
 8 
 23 (2.3, 17) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 Coating width: 5 ± 1 mm (0.2 ± 0.04 in) 
 except 2 ± 1 mm (0.1 ± 0.04 in) from 
 bolt end 
@@ -1463,7 +1541,8 @@ Lower crankcase sealing bolt (10 mm)
 1 
 10 
 12 (1.2, 9) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 Coating width: 4.5 ± 1 mm (0.2 ± 0.04 
 in) except 2 ± 1 mm (0.1 ± 0.04 in) from 
 bolt end 
@@ -1471,7 +1550,8 @@ Lower crankcase sealing bolt (18 mm)
 2 
 18 
 29 (3.0, 21) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 Coating width: 5 ± 1 mm (0.2 ± 0.04 in) 
 except 2 ± 1 mm (0.1 ± 0.04 in) from 
 bolt end 
@@ -1489,7 +1569,8 @@ Lower crankcase sealing bolt (22 mm)
 1 
 22 
 30 (3.1, 22) 
-Apply locking agent to the threads. 
+Apply locking agent to the threads.
+
 Coating width: 4.5 ± 1 mm (0.2 ± 0.04 
 in) except 2 ± 1 mm (0.1 ± 0.04 in) from 
 bolt end 
@@ -1501,9 +1582,7 @@ bolt end
 ![Страница 15](images/page-015-img-02.jpg)
 
 *1: Apply locking agent to the threads as shown. 
-*2: Apply locking agent to the threads as shown. 
-
-
+*2: Apply locking agent to the threads as shown.
 
 ![Страница 16](images/page-016-img-01.jpg)
 

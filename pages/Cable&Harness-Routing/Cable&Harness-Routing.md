@@ -1,6 +1,5 @@
 # Cable&Harness Routing
 
-Источник: `Cable&Harness Routing.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)

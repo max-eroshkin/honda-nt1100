@@ -1,6 +1,5 @@
 # Oil - Troubleshooting Lubrication
 
-Источник: `Oil - Troubleshooting Lubrication.pdf`
 
 
 ![Страница 1](images/page-001.png)

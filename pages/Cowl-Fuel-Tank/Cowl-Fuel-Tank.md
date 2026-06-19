@@ -13,7 +13,8 @@ Remove the following:
 Remove the following: 
 * Socket bolts [1] 
 * Trim clips [2] 
-Disconnect the USB socket [3] and accessory socket 2P (Black) connector [4]. 
+Disconnect the USB socket [3] and accessory socket 2P (Black) connector [4].
+
 Remove the tank front cover [5]. 
 
 ![Страница 1](images/page-001-img-02.jpg)

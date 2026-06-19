@@ -1,6 +1,5 @@
 # Brakes - Bleeding
 
-Источник: `Brakes - Bleeding.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)
@@ -8,7 +7,8 @@
 ![Страница 1](images/page-001-img-02.jpg)
 
 BRAKE FLUID FILLING/AIR BLEEDING 
-Fill the reservoir with DOT 4 brake fluid to the upper level line [1] from a sealed container. 
+Fill the reservoir with DOT 4 brake fluid to the upper level line [1] from a sealed container.
+
 Connect a commercially available brake bleeder to the bleed valve [2]. 
 Operate the brake bleeder and loosen the bleed valve. 
 If an automatic refill system is not used, add fluid when the fluid level in the reservoir is low. 

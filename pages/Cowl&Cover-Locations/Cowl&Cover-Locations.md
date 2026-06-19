@@ -1,6 +1,5 @@
 # Cowl&Cover - Locations
 
-Источник: `Cowl&Cover - Locations.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)

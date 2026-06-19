@@ -1,6 +1,5 @@
 # Coolant-Troubleshooting
 
-Источник: `Coolant-Troubleshooting.pdf`
 
 
 ![Страница 1](images/page-001.png)

@@ -1,6 +1,5 @@
 # Frame - Rear Fender A
 
-Источник: `Frame - Rear Fender A.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)

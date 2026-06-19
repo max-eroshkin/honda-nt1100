@@ -1,6 +1,5 @@
 # PGM-FI - Body Ctrl DTC Index
 
-Источник: `PGM-FI - Body Ctrl DTC Index.pdf`
 
 
 ![Страница 1](images/page-001-img-01.png)
@@ -9,7 +8,8 @@ BODY CONTROL SYSTEM DTC INDEX
 
 **NOTE:** 
 * After confirming the MID displays, perform the troubleshooting according to the 
-DTC index. 
+DTC index.
+
 MID 
 displays 
 Honda 

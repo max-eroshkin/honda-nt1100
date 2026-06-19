@@ -1,6 +1,5 @@
 # WShop Manual - Torque Values - Standard
 
-Источник: `WShop Manual - Torque Values - Standard.pdf`
 
 
 ![Страница 1](images/page-001-img-01.png)

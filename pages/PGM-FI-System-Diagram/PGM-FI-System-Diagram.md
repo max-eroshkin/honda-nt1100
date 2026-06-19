@@ -1,6 +1,5 @@
 # PGM-FI - System Diagram
 
-Источник: `PGM-FI - System Diagram.pdf`
 
 
 ![Страница 1](images/page-001.png)

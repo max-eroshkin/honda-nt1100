@@ -1,6 +1,5 @@
 # NT1100 Wiring Diagram
 
-Источник: `NT1100 Wiring Diagram.pdf`
 
 
 ![Страница 1](images/page-001.png)

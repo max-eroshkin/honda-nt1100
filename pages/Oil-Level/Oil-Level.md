@@ -1,17 +1,21 @@
 # Oil-Level
 
-Источник: `Oil-Level.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)
 
 OIL LEVEL INSPECTION 
-Place the motorcycle on its sidestand. 
-Start the engine and let it idle for 3 – 5 minutes. 
-Stop the engine and wait 2 – 3 minutes. 
-Remove the dipstick [1] and wipe it clean. 
+Place the motorcycle on its sidestand.
+
+Start the engine and let it idle for 3 – 5 minutes.
+
+Stop the engine and wait 2 – 3 minutes.
+
+Remove the dipstick [1] and wipe it clean.
+
 Place the motorcycle on a level surface, and 
-support it in an upright position. 
+support it in an upright position.
+
 Insert the dipstick until it seats, but do not screw it 
 in. 
 Check that the oil level is between the upper and 

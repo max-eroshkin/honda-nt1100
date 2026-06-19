@@ -1,6 +1,5 @@
 # Valve Specifications
 
-Источник: `Valve Specifications.pdf`
 
 
 ![Страница 1](images/page-001.png)
@@ -34,7 +33,8 @@ screw
 – 
 Valve, 
 valve guide 
-Valve stem O.D. 
+Valve stem O.D.
+
 IN 
 5.475 – 5.490 (0.2156 – 
 0.2161) 
@@ -45,7 +45,8 @@ EX
 0.2157) 
 5.455 
 (0.2148) 
-Valve guide I.D. 
+Valve guide I.D.
+
 IN/EX 
 5.500 – 5.512 (0.2165 – 
 0.2170) 
@@ -75,22 +76,26 @@ IN
 EX 
 40.93 (1.611) 
 40.11 (1.579) 
-Valve lifter Valve lifter O.D. 
+Valve lifter Valve lifter O.D.
+
 IN 
 31.978 – 31.993 (1.2590 – 
 1.2596) 
 31.97 (1.259) 
-Valve lifter bore I.D. 
+Valve lifter bore I.D.
+
 IN 
 32.010 – 32.026 (1.2602 – 
 1.2609) 
 32.04 (1.261) 
-Rocker arm Arm I.D. 
+Rocker arm Arm I.D.
+
 EX 
 12.000 – 12.018 (0.4724 – 
 0.4731) 
 12.06 (0.475) 
-Shaft O.D. 
+Shaft O.D.
+
 EX 
 11.977 – 11.990 (0.4715 – 
 0.4720) 

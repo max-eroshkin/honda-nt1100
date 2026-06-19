@@ -1,15 +1,17 @@
 # WShop Manual - Maintenance Schedule
 
-Источник: `WShop Manual - Maintenance Schedule.pdf`
 
 
 ![Страница 1](images/page-001-img-01.png)
 
 ED, FO, KO, U 
-Perform the Pre-ride inspection in the Owner’s Manual at each scheduled maintenance period. 
-I: Inspect and Clean, Adjust, Lubricate or Replace if necessary. C: Clean. R: Replace. A: Adjust. L: Lubricate. 
+Perform the Pre-ride inspection in the Owner’s Manual at each scheduled maintenance period.
+
+I: Inspect and Clean, Adjust, Lubricate or Replace if necessary. C: Clean. R: Replace. A: Adjust. L: Lubricate.
+
 The following items require some mechanical knowledge. Certain items (particularly those marked * and **) may require more technical 
-information and tools. Consult a dealer. 
+information and tools. Consult a dealer.
+
 ITEMS 
 NOTE 
 FREQUENCY (NOTE 1) 
@@ -182,13 +184,19 @@ I
 I 
 I 
 * Should be serviced by a dealer, unless the owner has proper tools and service data and is mechanically qualified. 
-** In the interest of safety, we recommend these items be serviced only by a dealer. 
-Honda recommends that a dealer should road test your motorcycle after each periodic maintenance is carried out. 
+** In the interest of safety, we recommend these items be serviced only by a dealer.
+
+Honda recommends that a dealer should road test your motorcycle after each periodic maintenance is carried out.
+
 NOTES: 
-1. At higher odometer readings, repeat at the frequency interval established here. 
-2. Service more frequently when riding in unusually wet or dusty areas. 
-3. Service more frequently when riding in rain or at full throttle. 
-4. Replacement requires mechanical skill. 
+1. At higher odometer readings, repeat at the frequency interval established here.
+
+2. Service more frequently when riding in unusually wet or dusty areas.
+
+3. Service more frequently when riding in rain or at full throttle.
+
+4. Replacement requires mechanical skill.
+
 5. DCT model only 
 6. Except DCT model 
 

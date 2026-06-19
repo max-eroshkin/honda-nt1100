@@ -1,6 +1,5 @@
 # Front - Steering Stem Remove
 
-Источник: `Front - Steering Stem Remove.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)
@@ -25,7 +24,8 @@ Remove the following:
 
 ![Страница 2](images/page-002-img-02.jpg)
 
-Disconnect the horn connector [1]. 
+Disconnect the horn connector [1].
+
 Remove the following: 
 * Bolts [2] 
 * Horn stay [3] 
@@ -37,9 +37,12 @@ Remove the following:
 
 ![Страница 3](images/page-003-img-02.jpg)
 
-Straighten the lock washer tabs [1]. 
-Remove the lock nut [2] and lock washer. 
-Loosen and remove the steering stem adjusting nut [1] using the special tool. 
+Straighten the lock washer tabs [1].
+
+Remove the lock nut [2] and lock washer.
+
+Loosen and remove the steering stem adjusting nut [1] using the special tool.
+
 TOOL: 
 Locknut wrench 5.8 x 45 [2] 07916-KA50100 
 

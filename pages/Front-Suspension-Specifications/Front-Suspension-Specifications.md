@@ -1,6 +1,5 @@
 # Front Suspension Specifications
 
-Источник: `Front Suspension Specifications.pdf`
 
 
 ![Страница 1](images/page-001.png)
@@ -31,7 +30,8 @@ Axial
 2.0 (0.08) 
 Wheel balance weight 
 – 
-60 g (2.1 oz) max. 
+60 g (2.1 oz) max.
+
 Fork 
 Spring free length 
 R: 395.1 (15.56) 

@@ -1,6 +1,5 @@
 # Oil-Specification
 
-Источник: `Oil-Specification.pdf`
 
 
 ![Страница 1](images/page-001.png)
@@ -36,7 +35,8 @@ After disassembly
 – 
 Recommended engine oil 
 Honda "4-stroke motorcycle oil" or an 
-equivalent motor oil. 
+equivalent motor oil.
+
 API service classification: SJ or higher 
 JASO T903 standard: MA 
 Viscosity: SAE 10W-30 

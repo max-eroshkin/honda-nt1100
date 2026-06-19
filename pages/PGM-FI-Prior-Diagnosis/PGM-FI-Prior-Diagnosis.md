@@ -1,6 +1,5 @@
 # PGM-FI - Prior Diagnosis
 
-Источник: `PGM-FI - Prior Diagnosis.pdf`
 
 
 ![Страница 1](images/page-001.png)
@@ -13,6 +12,7 @@ Before processing the DTC troubleshooting, check as follows:
 
 **NOTE:** 
 * Always turn the ignition switch OFF when checking the continuity of the circuit and before disconnecting the connectors. 
-* Some DTCs have a recheck function, so that the priority DTC is detected when the ignition switch is switched from OFF to ON. 
+* Some DTCs have a recheck function, so that the priority DTC is detected when the ignition switch is switched from OFF to ON.
+
 Wait for 10 seconds and check the DTC again. 
 

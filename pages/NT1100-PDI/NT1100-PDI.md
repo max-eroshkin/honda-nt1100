@@ -1,6 +1,5 @@
 # NT1100 PDI
 
-Источник: `NT1100 PDI.pdf`
 
 
 ![Страница 1](images/page-001-img-01.png)
@@ -13,9 +12,11 @@ dummyhead
 2022 NT1100A/D
 2022 NT1100A/D
 HONDA MOTORCYCLE DEALER.
+
 92MLF00
 Honda Motor Co.,Ltd.2021
 Published by Honda Motor Co.,Ltd.
+
 BE PERFORMED BY AN AUTHORIZED
 SET-UP AND PRE-DELIVERY SERVICE MUST
 A DATA.2021.09

@@ -1,6 +1,5 @@
 # Oil-Filter
 
-Источник: `Oil-Filter.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)
@@ -9,10 +8,13 @@ ENGINE OIL FILTER
 
 **NOTE:** 
 * DCT model: 
-Replace the clutch oil filter when the engine oil filter is replaced. 
-Drain the engine oil . 
+Replace the clutch oil filter when the engine oil filter is replaced.
+
+Drain the engine oil.
+
 Remove and discard the oil filter cartridge [1] 
-using the special tool. 
+using the special tool.
+
 TOOL: 
 Oil filter wrench 
 07HAA-
@@ -28,7 +30,8 @@ PJ70101
 
 Check the oil filter boss [1] protrusion from the 
 crankcase is within the specified length as 
-shown. 
+shown.
+
 SPECIFIED 
 LENGTH: 
 15.5 – 16.5 mm (0.61 – 
@@ -55,5 +58,5 @@ Oil filter wrench
 PJ70101 
 **TORQUE:** 26 N·m (2.7 kgf·m, 19 lbf·ft) 
 Fill the engine with the recommended engine 
-oil and check that there are no oil leaks . 
+oil and check that there are no oil leaks. 
 

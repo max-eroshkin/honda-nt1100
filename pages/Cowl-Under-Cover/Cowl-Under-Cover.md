@@ -12,11 +12,11 @@ Remove the following:
 * Collars B [9] 
 * Collar C [10] 
 
-Release the boss [11] from the grommet [12]. 
+Release the boss [11] from the grommet [12].
 
-Remove the undercover [13]. 
+Remove the undercover [13].
 
-Installation is in the reverse order of removal. 
+Installation is in the reverse order of removal.
 
 ![Страница 1](images/page-001-img-01.jpg)
 

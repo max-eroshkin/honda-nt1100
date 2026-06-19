@@ -1,6 +1,5 @@
 # Lights - License Plate
 
-Источник: `Lights - License Plate.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)
@@ -9,10 +8,9 @@ REMOVAL/INSTALLATION
 Remove the following: 
 * Pillion seat 
 * Rear fender A 
-Release the connector cover [1] from the stay. 
-Disconnect the license light 2P (White) connector [2]. 
+Release the connector cover [1] from the stay.
 
-
+Disconnect the license light 2P (White) connector [2].
 
 ![Страница 2](images/page-002-img-01.jpg)
 

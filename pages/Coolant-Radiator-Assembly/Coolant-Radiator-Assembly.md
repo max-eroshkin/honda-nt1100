@@ -1,6 +1,5 @@
 # Coolant-Radiator Assembly
 
-Источник: `Coolant-Radiator Assembly.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)

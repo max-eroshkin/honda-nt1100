@@ -1,14 +1,15 @@
 # Windscreen Rail
 
-Источник: `Windscreen Rail.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)
 
 REMOVAL/INSTALLATION 
-Remove the front cowl . 
+Remove the front cowl.
+
 Remove the windscreen adjust rail bolts [1] and 
-windscreen adjust rail [2]. 
+windscreen adjust rail [2].
+
 Installation is in the reverse order of removal. 
 
 **NOTE:** 

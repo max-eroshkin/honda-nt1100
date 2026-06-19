@@ -1,6 +1,5 @@
 # Frame - Rear Fender B
 
-Источник: `Frame - Rear Fender B.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)
@@ -27,9 +26,11 @@ Release the following from the rear fender B:
 
 ![Страница 2](images/page-002-img-02.jpg)
 
-Release the connector cover [1] from the stay. 
+Release the connector cover [1] from the stay.
+
 Disconnect the license light 2P [2] and turn signal light 2P 
-(Orange) [3] /(Light blue) [4] connector. 
+(Orange) [3] /(Light blue) [4] connector.
+
 Release the following from the rear fender B: 
 * License light, turn signal light harness band clip [1] 
 * DLC [2] 
@@ -69,9 +70,7 @@ Installation is in the reverse order of removal.
 
 **NOTE:** 
 * Place the rear fender B hooks [4] onto the seat rail [5]. 
-* Route the wires properly . 
-
-
+* Route the wires properly.
 
 ![Страница 6](images/page-006-img-01.jpg)
 

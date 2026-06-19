@@ -1,6 +1,5 @@
 # Windscreen Remove&Install
 
-Источник: `Windscreen Remove&Install.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)
@@ -12,7 +11,8 @@ Remove the following:
 * Rubber washers [3] 
 * Windscreen [4] 
 Remove the well nuts [5] and windscreen bracket 
-cover [6]. 
+cover [6].
+
 Installation is in the reverse order of removal. 
 **TORQUE:** 
 Windscreen socket bolt: 

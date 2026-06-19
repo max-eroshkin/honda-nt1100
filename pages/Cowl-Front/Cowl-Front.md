@@ -10,15 +10,15 @@ Remove the following:
 ![Страница 1](images/page-001-img-01.jpg)
 
 
-Move the screen sliders [1] to the bottom position. 
+Move the screen sliders [1] to the bottom position.
 
 Remove the following: 
 * Socket bolts [2] 
 * Trim clips [3] 
 
-Release the bosses [4] from the grommets [5]. 
+Release the bosses [4] from the grommets [5].
 
-Remove the front cowl [6]. 
+Remove the front cowl [6].
 
 Installation is in the reverse order of removal. 
 

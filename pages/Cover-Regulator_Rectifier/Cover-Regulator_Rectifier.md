@@ -1,6 +1,5 @@
 # Cover-Regulator_Rectifier
 
-Источник: `Cover-Regulator_Rectifier.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)

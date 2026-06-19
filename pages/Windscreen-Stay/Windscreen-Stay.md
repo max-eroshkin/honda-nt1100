@@ -1,15 +1,17 @@
 # Windscreen Stay
 
-Источник: `Windscreen Stay.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)
 
 REMOVAL/INSTALLATION 
-Remove the windscreen . 
+Remove the windscreen.
+
 Loosen the windscreen stay bolts [1] until the 
-windscreen stay [2] is removable. 
-Remove the windscreen stay. 
+windscreen stay [2] is removable.
+
+Remove the windscreen stay.
+
 Installation is in the reverse order of removal. 
 **TORQUE:** 
 Windscreen stay socket bolt: 

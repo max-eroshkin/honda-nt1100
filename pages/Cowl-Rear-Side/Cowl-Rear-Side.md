@@ -1,6 +1,6 @@
 # Cowl - Rear Side REMOVAL/INSTALLATION
 
-Remove the main seat. 
+Remove the main seat.
 
 Remove the trim clips [1], socket bolt A [2] and socket bolts B [3]. 
 

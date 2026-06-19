@@ -9,15 +9,14 @@ Remove the following:
 * Fuel tank 
 
 Open the clamp [1] and release the air cleaner housing drain hose [2].
+
 ![Страница 1](images/page-001-img-01.jpg)
 
-Open the clamp A [1]. 
+Open the clamp A [1].
 
-Open the clamp B [2]. 
+Open the clamp B [2].
 
-Release the air cleaner housing drain hose [3]. 
-
-
+Release the air cleaner housing drain hose [3].
 
 ![Страница 2](images/page-002-img-01.jpg)
 
@@ -58,7 +57,7 @@ Remove the following from the air cleaner housing:
 Installation is in the reverse order of removal. 
 
 **NOTE:** 
-* Route the wires and hoses properly . 
+* Route the wires and hoses properly. 
 * Align the hose band holes with the connecting hose bosses. 
 * Tighten the connecting hose band screws [1] until the collars [2] are fully seated. 
 

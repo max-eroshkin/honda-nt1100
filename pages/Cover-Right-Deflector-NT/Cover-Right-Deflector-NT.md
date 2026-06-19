@@ -1,6 +1,5 @@
 # Cover-Right Deflector (NT)
 
-Источник: `Cover-Right Deflector (NT).pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)

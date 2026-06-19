@@ -1,6 +1,5 @@
 # Coolant-Specification
 
-Источник: `Coolant-Specification.pdf`
 
 
 ![Страница 1](images/page-001.png)

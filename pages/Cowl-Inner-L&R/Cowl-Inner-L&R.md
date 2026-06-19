@@ -6,13 +6,13 @@
 ## LEFT SIDE 
 [Remove the left side cover.](../Cowl-Side-L&R/Cowl-Side-L&R.md)
 
-Release the sub harness 12P (Black) clip connector [1] from the left inner cover. 
+Release the sub harness 12P (Black) clip connector [1] from the left inner cover.
 
 ![Страница 1](images/page-001-img-01.jpg)
 
-Release the tab [1] of the air cleaner duct from the left inner cover [2]. 
+Release the tab [1] of the air cleaner duct from the left inner cover [2].
 
-Remove the trim clips [3]. 
+Remove the trim clips [3].
 
 Releases the following from the left inner cover. 
 * Left handlebar switch 12P (Black) connector clip [4] 
@@ -20,7 +20,7 @@ Releases the following from the left inner cover.
 
 **! MT model:** 
 
-Remove the left inner cover. 
+Remove the left inner cover.
 
 Installation is in the reverse order of removal. 
 

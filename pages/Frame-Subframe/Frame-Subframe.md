@@ -1,6 +1,5 @@
 # Frame - Subframe
 
-Источник: `Frame - Subframe.pdf`
 
 
 ![Страница 1](images/page-001-img-01.jpg)
@@ -19,9 +18,7 @@ cylinder reservoir [2].
 **NOTE:** 
 * Keep the rear master cylinder reservoir 
 upright to prevent air from entering the 
-hydraulic system. 
-
-
+hydraulic system.
 
 ![Страница 2](images/page-002-img-01.jpg)
 
@@ -54,6 +51,6 @@ bolt:
 10 N·m (1.0 kgf·m, 7 lbf·ft) 
 
 **NOTE:** 
-* Route the hose, wire, and cable properly . 
-* For seat lock cylinder removal/installation . 
+* Route the hose, wire, and cable properly. 
+* For seat lock cylinder removal/installation. 
 
