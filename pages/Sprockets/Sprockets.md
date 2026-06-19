@@ -17,10 +17,11 @@ Both chain and sprockets must be in good condition, or the replacement chain wil
 
 Check the drive sprocket bolt [1] and driven sprocket nuts [2] on the drive and driven sprockets. 
 If any are loose, torque them. 
+
 **TORQUE:** 
 Drive sprocket bolt: 
-54 N·m (5.5 kgf·m, 40 lbf·ft) 
+**54** N·m (5.5 kgf·m, 40 lbf·ft) 
 Driven sprocket nut: 
-64 N·m (6.5 kgf·m, 47 lbf·ft) 
+**64** N·m (6.5 kgf·m, 47 lbf·ft) 
 Install the left rear cover. 
 

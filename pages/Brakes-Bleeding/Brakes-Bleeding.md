@@ -22,7 +22,8 @@ Perform the bleeding procedure until the system is completely flushed/bled.
 * If air enters the bleeder from around the bleed valve threads, seal the threads with teflon tape. 
 Close the bleed valve and operate the brake lever/pedal. If it still feels spongy, bleed the system again. 
 After bleeding the system completely, tighten the bleed valve to the specified torque. 
-**TORQUE:** 5.4 N·m (0.55 kgf·m, 4.0 lbf·ft) 
+
+**TORQUE:** **5.4** N·m (0.55 kgf·m, 4.0 lbf·ft) 
 Fill the reservoir with DOT 4 brake fluid to the upper level line from a sealed container. 
 If the brake bleeder is not available, perform the following procedure. 
 
@@ -43,7 +44,8 @@ and then close the bleed valve.
 2. Release the brake lever/pedal slowly and wait several seconds after it reaches the end of its travel. 
 3. Repeat the steps 1 and 2 until there are no air bubbles in the bleed hose. 
 After bleeding the system completely, tighten the bleed valve to the specified torque. 
-**TORQUE:** 5.4 N·m (0.55 kgf·m, 4.0 lbf·ft) 
+
+**TORQUE:** **5.4** N·m (0.55 kgf·m, 4.0 lbf·ft) 
 Fill the reservoir with DOT 4 brake fluid to the upper level line from a sealed container. 
 Install the following: 
 ! Front brake: 
@@ -59,7 +61,8 @@ Install the following:
 
 * Front master cylinder reservoir cap screws [4] 
 Tighten the front master cylinder reservoir cap screws to the specified torque. 
-**TORQUE:** 1.5 N·m (0.15 kgf·m, 1.1 lbf·ft) 
+
+**TORQUE:** **1.5** N·m (0.15 kgf·m, 1.1 lbf·ft) 
 Remove the rear master cylinder reservoir mounting bolt [1] and rear master cylinder reservoir [2]. 
 ! Rear brake: 
 Install the following: 
@@ -68,8 +71,10 @@ Install the following:
 * Reservoir cap [5] 
 * Rear master cylinder reservoir cap screws [6] 
 Tighten the rear master cylinder reservoir cap screws to the specified torque. 
-**TORQUE:** 1.5 N·m (0.15 kgf·m, 1.1 lbf·ft) 
+
+**TORQUE:** **1.5** N·m (0.15 kgf·m, 1.1 lbf·ft) 
 Install the rear master cylinder reservoir and rear master cylinder reservoir mounting bolt. 
 Tighten the rear master cylinder reservoir mounting bolt to the specified torque. 
-**TORQUE:** 10 N·m (1.0 kgf·m, 7 lbf·ft) 
+
+**TORQUE:** **10** N·m (1.0 kgf·m, 7 lbf·ft) 
 

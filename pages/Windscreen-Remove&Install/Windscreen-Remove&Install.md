@@ -14,7 +14,8 @@ Remove the well nuts [5] and windscreen bracket
 cover [6].
 
 Installation is in the reverse order of removal. 
+
 **TORQUE:** 
 Windscreen socket bolt: 
-0.54 N·m (0.06 kgf·m, 0.4 lbf·ft) 
+**0.54** N·m (0.06 kgf·m, 0.4 lbf·ft) 
 

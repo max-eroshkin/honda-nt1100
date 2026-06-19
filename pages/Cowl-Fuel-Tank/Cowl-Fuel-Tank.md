@@ -23,6 +23,7 @@ Remove the USB socket box [1] by releasing its tabs [2] from the tank front cove
 Remove the collar [4]. 
 Installation is in the reverse order of removal. 
 
+
 **TORQUE:** 
 * Upper deflector socket bolt (long): **0.54** N·m (0.06 kgf·m, 0.4 lbf·ft) 
 

@@ -74,7 +74,8 @@ Install the O-ring [7] to the fork cap [8].
 Install the fork cap to the fork rod and tighten it until it stops.
 
 Hold the fork cap then tighten the fork rod lock nut [9] to the specified torque. 
-**TORQUE:** 18 N·m (1.8 kgf·m, 13 lbf·ft) 
+
+**TORQUE:** **18** N·m (1.8 kgf·m, 13 lbf·ft) 
 Install the following to the fork rod [1].
 
 ! Left side: 
@@ -89,7 +90,8 @@ Install the O-ring to the fork cap [6].
 Install the fork cap to the fork rod and tighten it until it stops.
 
 Hold the fork cap then tighten the fork rod lock nut [7] to the specified torque 
-**TORQUE:** 28 N·m (2.9 kgf·m, 21 lbf·ft) 
+
+**TORQUE:** **28** N·m (2.9 kgf·m, 21 lbf·ft) 
 
 
 

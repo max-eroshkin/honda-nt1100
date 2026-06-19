@@ -34,13 +34,15 @@ Install the rocker arm shaft.
 Apply engine oil to the rocker arm shaft bolt threads and seating surface.
 
 Install and tighten the rocker arm shaft bolts [5] to the specified torque. 
-**TORQUE:** 12 N·m (1.2 kgf·m, 9 lbf·ft) 
+
+**TORQUE:** **12** N·m (1.2 kgf·m, 9 lbf·ft) 
 Remove the suitable 6 mm bolt from the rocker arm shaft.
 
 Install the rocker arm shaft stopper bolt [6] and a new sealing washer [7].
 
 Tighten the rocker arm shaft stopper bolt to the specified torque. 
-**TORQUE:** 18 N·m (1.8 kgf·m, 13 lbf·ft) 
+
+**TORQUE:** **18** N·m (1.8 kgf·m, 13 lbf·ft) 
 Install the following: 
 * Cylinder head cover 
 * Crankshaft hole cap 

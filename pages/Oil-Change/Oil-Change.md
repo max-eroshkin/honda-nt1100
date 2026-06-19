@@ -23,7 +23,8 @@ Drain the engine oil completely.
 Clean the drain bolts and install new sealing washers onto 
 the drain bolts. 
 Install and tighten the drain bolts to the specified torque. 
-**TORQUE:** 30 N·m (3.1 kgf·m, 22 lbf·ft) 
+
+**TORQUE:** **30** N·m (3.1 kgf·m, 22 lbf·ft) 
 Fill the engine with the recommended engine oil. 
 ENGINE OIL CAPACITY: 
 MT model: 

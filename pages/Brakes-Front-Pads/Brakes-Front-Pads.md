@@ -34,6 +34,7 @@ Apply locking agent to the front brake caliper mounting bolt [1] threads.
 Install the front brake calipers [2] and new front brake caliper mounting bolts.
 
 Tighten the front brake caliper mounting bolts to the specified torque. 
-**TORQUE:** 45 N·m (4.6 kgf·m, 33 lbf·ft) 
+
+**TORQUE:** **45** N·m (4.6 kgf·m, 33 lbf·ft) 
 Operate the brake lever to seat the caliper pistons against the pads. 
 

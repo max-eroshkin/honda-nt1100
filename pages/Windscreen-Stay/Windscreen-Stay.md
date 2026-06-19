@@ -13,9 +13,10 @@ windscreen stay [2] is removable.
 Remove the windscreen stay.
 
 Installation is in the reverse order of removal. 
+
 **TORQUE:** 
 Windscreen stay socket bolt: 
-12 N·m (1.2 kgf·m, 9 lbf·ft) 
+**12** N·m (1.2 kgf·m, 9 lbf·ft) 
 
 **NOTE:** 
 * Apply the soap water to the contact surface 

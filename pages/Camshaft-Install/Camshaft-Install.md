@@ -62,7 +62,8 @@ Install the left camshaft holder A [1] and right camshaft holder A [2].
 Apply engine oil to the camshaft holder bolts threads and seating surfaces.
 
 Install and tighten the camshaft holder bolts [5] to the specified torque. 
-**TORQUE:** 12 N·m (1.2 kgf·m, 9 lbf·ft) 
+
+**TORQUE:** **12** N·m (1.2 kgf·m, 9 lbf·ft) 
 
 **NOTE:** 
 * Tighten the camshaft holder bolts in a crisscross pattern in 2 or 3 steps.
@@ -80,6 +81,7 @@ Install the cam chain tensioner lifter plug [2] and a new sealing washer [3].
 Tighten the plug securely.
 
 If the cam sprocket bolts are removed, tighten the cam sprocket bolts [1] to the specified torque. 
-**TORQUE:** 20 N·m (2.0 kgf·m, 15 lbf·ft) 
+
+**TORQUE:** **20** N·m (2.0 kgf·m, 15 lbf·ft) 
 Install the rocker arms. 
 

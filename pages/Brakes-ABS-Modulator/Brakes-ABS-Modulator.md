@@ -36,11 +36,12 @@ Remove the front brake pipes from the ABS modulator [9].
 Remove the ABS modulator.
 
 Installation is in the reverse order of removal. 
+
 **TORQUE:** 
 Oil bolt: 
-34 N·m (3.5 kgf·m, 25 lbf·ft) 
+**34** N·m (3.5 kgf·m, 25 lbf·ft) 
 Brake pipe joint nut: 
-14 N·m (1.4 kgf·m, 10 lbf·ft) 
+**14** N·m (1.4 kgf·m, 10 lbf·ft) 
 
 **NOTE:** 
 * Apply brake fluid to the joint nut threads. 

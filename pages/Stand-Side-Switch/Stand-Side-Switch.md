@@ -33,11 +33,12 @@ Remove the left main step bracket bolts [1] and left main step bracket [2].
 ![Страница 3](images/page-003-img-01.jpg)
 
 Installation is in the reverse order of removal. 
+
 **TORQUE:** 
 Left main step bracket bolt: 
-35 N·m (3.6 kgf·m, 26 lbf·ft) 
+**35** N·m (3.6 kgf·m, 26 lbf·ft) 
 Sidestand switch bolt: 
-10 N·m (1.0 kgf·m, 7 lbf·ft) 
+**10** N·m (1.0 kgf·m, 7 lbf·ft) 
 
 **NOTE:** 
 * Route the wires properly. 

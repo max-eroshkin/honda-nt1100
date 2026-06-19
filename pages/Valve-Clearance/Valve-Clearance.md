@@ -66,7 +66,8 @@ Tappet adjusting wrench [3] 07708-0030400
 Apply engine oil to the adjusting screw and lock nut threads and seating surface.
 
 Hold the adjusting screw and tighten the lock nut. 
-**TORQUE:** 10 N·m (1.0 kgf·m, 7 lbf·ft) 
+
+**TORQUE:** **10** N·m (1.0 kgf·m, 7 lbf·ft) 
 
 
 
@@ -101,7 +102,8 @@ Tappet adjusting wrench [3] 07708-0030400
 Apply engine oil to the adjusting screw and lock nut threads and seating surface.
 
 Hold the adjusting screw and tighten the lock nut. 
-**TORQUE:** 10 N·m (1.0 kgf·m, 7 lbf·ft) 
+
+**TORQUE:** **10** N·m (1.0 kgf·m, 7 lbf·ft) 
 After tightening the lock nut, recheck the valve clearance.
 
 ![Страница 7](images/page-007-img-01.jpg)
@@ -113,11 +115,12 @@ Coat new O-rings [1] with engine oil and install them into the timing hole cap [
 Apply grease to the threads of the timing hole and crankshaft hole caps.
 
 Install the timing hole and crankshaft hole caps, and tighten them. 
+
 **TORQUE:** 
 Timing hole cap: 
-6.0 N·m (0.61 kgf·m, 4.4 lbf·ft) 
+**6.0** N·m (0.61 kgf·m, 4.4 lbf·ft) 
 Crankshaft hole cap: 
-8.0 N·m (0.82 kgf·m, 5.9 lbf·ft) 
+**8.0** N·m (0.82 kgf·m, 5.9 lbf·ft) 
 Install the cylinder head cover.
 
 1.

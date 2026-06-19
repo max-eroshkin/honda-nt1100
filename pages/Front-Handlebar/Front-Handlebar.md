@@ -34,9 +34,10 @@ Turn the handlebar weight and hook the retainer tab with the hole in the handleb
 Install the following: 
 * Left grip heater 
 * Throttle grip 
+
 **TORQUE:** 
 Handlebar weight bolt: 
-10 N·m (1.0 kgf·m, 7 lbf·ft) 
+**10** N·m (1.0 kgf·m, 7 lbf·ft) 
 
 
 
@@ -45,11 +46,12 @@ Handlebar weight bolt:
 ![Страница 2](images/page-002-img-02.jpg)
 
 Installation is in the reverse order of removal. 
+
 **TORQUE:** 
 Handlebar upper holder bolt: 
-32 N·m (3.3 kgf·m, 24 lbf·ft) 
+**32** N·m (3.3 kgf·m, 24 lbf·ft) 
 Handlebar lower holder nut: 
-39 N·m (4.0 kgf·m, 29 lbf·ft) 
+**39** N·m (4.0 kgf·m, 29 lbf·ft) 
 
 **NOTE:** 
 * Align the paint mark on the handlebar [1] with the edge of lower holder. 

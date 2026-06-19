@@ -10,6 +10,7 @@ Remove the following:
 
 Installation is in the reverse order of removal. 
 
+
 **TORQUE:** 
 * Rear center cowl socket bolt: **0.42** N·m (0.04 kgf·m, 0.3 lbf·ft) 
 

@@ -20,6 +20,7 @@ Check the dust seals and tie-rod ball joint dust cover for
 deterioration or damage, replace them if necessary.
 
 Installation is in the reverse order of removal. 
+
 **TORQUE:** 
 
 
@@ -29,7 +30,7 @@ Installation is in the reverse order of removal.
 ![Страница 2](images/page-002-img-02.jpg)
 
 Gearshift pedal pivot bolt: 
-27 N·m (2.8 kgf·m, 20 lbf·ft) 
+**27** N·m (2.8 kgf·m, 20 lbf·ft) 
 
 **NOTE:** 
 * Apply grease to the dust seal lips. 

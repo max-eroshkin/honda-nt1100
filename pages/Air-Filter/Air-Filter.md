@@ -20,6 +20,7 @@ Also replace the air cleaner element any time if it is excessively dirty or dama
 
 Install the removed parts in the reverse order of removal. 
 
+
 **TORQUE:** 
 * Air cleaner element mounting screw: 
 **1.1** N·m (0.11 kgf·m, 0.8 lbf·ft) 

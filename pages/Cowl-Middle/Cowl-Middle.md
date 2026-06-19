@@ -16,6 +16,7 @@ Remove the middle cowl [9] by releasing the tabs [10] from the side cover and fr
 
 Installation is in the reverse order of removal. 
 
+
 **TORQUE:** 
 * Middle cowl socket bolt A: **0.54** N·m (0.06 kgf·m, 0.4 lbf·ft) 
 

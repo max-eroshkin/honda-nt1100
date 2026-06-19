@@ -40,9 +40,11 @@ Install the brake pad pin [6] by pushing the brake pads.
 ![Страница 2](images/page-002-img-02.jpg)
 
 Tighten the rear brake caliper mounting bolt [1] to the specified torque. 
-**TORQUE:** 22 N·m (2.2 kgf·m, 16 lbf·ft) 
+
+**TORQUE:** **22** N·m (2.2 kgf·m, 16 lbf·ft) 
 Tighten the brake pad pin [2] to the specified torque. 
-**TORQUE:** 17 N·m (1.7 kgf·m, 13 lbf·ft) 
+
+**TORQUE:** **17** N·m (1.7 kgf·m, 13 lbf·ft) 
 Operate the brake pedal to seat the caliper piston against the pads.
 
 Loosen the parking brake pad pins [1].
@@ -75,12 +77,14 @@ Apply locking agent to the parking brake caliper mounting bolt [1] threads.
 Install the parking brake caliper [2] and new parking brake caliper mounting bolts.
 
 Tighten the parking brake caliper mounting bolts to the specified torque. 
-**TORQUE:** 30 N·m (3.1 kgf·m, 22 lbf·ft) 
+
+**TORQUE:** **30** N·m (3.1 kgf·m, 22 lbf·ft) 
 
 
 
 ![Страница 5](images/page-005-img-01.jpg)
 
 Tighten the parking brake pad pins [1] to the specified torque. 
-**TORQUE:** 17.2 N·m (1.8 kgf·m, 13 lbf·ft) 
+
+**TORQUE:** **17.2** N·m (1.8 kgf·m, 13 lbf·ft) 
 

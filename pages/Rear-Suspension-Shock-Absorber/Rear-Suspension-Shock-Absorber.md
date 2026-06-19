@@ -19,13 +19,14 @@ Remove the shock absorber [7] downward.
 * Lift the swingarm [8] and remove the shock absorber while turning it.
 
 Installation is in the reverse order of removal. 
+
 **TORQUE:** 
 Shock absorber upper nut: 
-54 N·m (5.5 kgf·m, 40 lbf·ft) 
+**54** N·m (5.5 kgf·m, 40 lbf·ft) 
 Shock absorber lower nut: 
-44 N·m (4.5 kgf·m, 32 lbf·ft) 
+**44** N·m (4.5 kgf·m, 32 lbf·ft) 
 Cushion connecting rod nut (rear side): 
-54 N·m (5.5 kgf·m, 40 lbf·ft) 
+**54** N·m (5.5 kgf·m, 40 lbf·ft) 
 
 **NOTE:** 
 * Install the bolts from the left side. 

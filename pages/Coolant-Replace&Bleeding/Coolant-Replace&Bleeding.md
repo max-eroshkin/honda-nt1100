@@ -24,7 +24,8 @@ washer.
 Tighten the coolant drain bolt to the specified 
 torque. 
 
-**TORQUE:** 13 N·m (1.3 kgf·m, 10 lbf·ft) 
+
+**TORQUE:** **13** N·m (1.3 kgf·m, 10 lbf·ft) 
 
 Remove the radiator reserve tank.
 

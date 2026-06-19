@@ -56,7 +56,8 @@ TOOL:
 Oil filter wrench 
 07HAA-
 PJ70101 
-**TORQUE:** 26 N·m (2.7 kgf·m, 19 lbf·ft) 
+
+**TORQUE:** **26** N·m (2.7 kgf·m, 19 lbf·ft) 
 Fill the engine with the recommended engine 
 oil and check that there are no oil leaks. 
 

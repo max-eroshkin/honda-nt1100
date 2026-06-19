@@ -30,9 +30,10 @@ the MAINTENANCE SCHEDULE.
 Install and hand tighten the spark plug to the 
 cylinder head, then tighten the spark plug to the 
 specified torque using the spark plug wrench. 
+
 **TORQUE:** 
 Spark plug: 
-22 N·m (2.2 kgf·m, 16 lbf·ft) 
+**22** N·m (2.2 kgf·m, 16 lbf·ft) 
 
 **NOTE:** 
 * Replace new spark plugs as a set. 

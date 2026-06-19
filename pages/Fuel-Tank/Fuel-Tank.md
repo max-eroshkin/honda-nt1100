@@ -22,9 +22,10 @@ Remove the fuel filler cap [6] by removing the fuel filler cap bolts, if necessa
 ![Страница 2](images/page-002-img-01.jpg)
 
 Installation is in the reverse order of removal. 
+
 **TORQUE:** 
 Fuel filler cap bolt: 
-1.8 N·m (0.18 kgf·m, 1.3 lbf·ft) 
+**1.8** N·m (0.18 kgf·m, 1.3 lbf·ft) 
 
 **NOTE:** 
 * A pressure release can be heard when opening the fuel cap, but this is not blockage of the passage. If checking for clog in the passage of 

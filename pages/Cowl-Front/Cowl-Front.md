@@ -22,6 +22,7 @@ Remove the front cowl [6].
 
 Installation is in the reverse order of removal. 
 
+
 **TORQUE:** 
 * Upper deflector 
 socket bolt (long): 

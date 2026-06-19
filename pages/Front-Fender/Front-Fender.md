@@ -19,9 +19,10 @@ Remove the collars [10], rubber cushion A [11] and rubber cushion B [12] from th
 Remove the front side reflector nuts [13] and front side reflectors [14] from the fender A stay collar.
 
 Installation is in the reverse order of removal. 
+
 **TORQUE:** 
 Front side reflector nut: 
-1.8 N·m (0.2 kgf·m, 1.3 lbf·ft) 
+**1.8** N·m (0.2 kgf·m, 1.3 lbf·ft) 
 
 **NOTE:** 
 * Route the wire and hoses properly.

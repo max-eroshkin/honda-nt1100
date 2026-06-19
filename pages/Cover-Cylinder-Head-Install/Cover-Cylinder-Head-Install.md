@@ -43,7 +43,8 @@ Install the mounting rubbers.
 * Install the mounting rubbers with their "UP" marks [4] facing up.
 
 Install and tighten the cylinder head cover bolts [5] to the specified torque. 
-**TORQUE:** 10 N·m (1.0 kgf·m, 7 lbf·ft) 
+
+**TORQUE:** **10** N·m (1.0 kgf·m, 7 lbf·ft) 
 Connect the secondary air supply hose [6].
 
 ![Страница 3](images/page-003-img-01.jpg)

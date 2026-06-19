@@ -12,7 +12,8 @@ Remove the following:
 * Washers [2] 
 * Rear carrier [3] 
 Installation is in the reverse order of removal. 
+
 **TORQUE:** 
 Rear carrier bolt: 
-35 N·m (3.6 kgf·m, 26 lbf·ft) 
+**35** N·m (3.6 kgf·m, 26 lbf·ft) 
 
