@@ -6,7 +6,6 @@
 
 ![Страница 1](images/page-001-img-02.jpg)
 
-CABLE & HARNESS ROUTING 
 
 
 
@@ -19,15 +18,12 @@ CABLE & HARNESS ROUTING
 
 ![Страница 3](images/page-003-img-01.jpg)
 
-MT model: 
-
-
+## MT model: 
 
 ![Страница 4](images/page-004-img-01.jpg)
 
-DCT model: 
 
-
+## DCT model: 
 
 ![Страница 5](images/page-005-img-01.jpg)
 
@@ -36,15 +32,12 @@ DCT model:
 
 ![Страница 6](images/page-006-img-01.jpg)
 
-MT model: 
 
-
+## MT model: 
 
 ![Страница 7](images/page-007-img-01.jpg)
 
-DCT model: 
-
-
+## DCT model: 
 
 ![Страница 8](images/page-008-img-01.jpg)
 
@@ -83,27 +76,19 @@ DCT model:
 
 ![Страница 13](images/page-013-img-02.jpg)
 
-MT model: 
-
-
+## MT model: 
 
 ![Страница 14](images/page-014-img-01.jpg)
 
-DCT model: 
-
-
+## DCT model: 
 
 ![Страница 15](images/page-015-img-01.jpg)
 
-MT model: 
-
-
+## MT model: 
 
 ![Страница 16](images/page-016-img-01.jpg)
 
-DCT model: 
-
-
+## DCT model: 
 
 ![Страница 17](images/page-017-img-01.jpg)
 
@@ -119,15 +104,11 @@ DCT model:
 
 ![Страница 19](images/page-019-img-01.jpg)
 
-MT model: 
-
-
+## MT model: 
 
 ![Страница 20](images/page-020-img-01.jpg)
 
-DCT model: 
-
-
+## DCT model: 
 
 ![Страница 21](images/page-021-img-01.jpg)
 
@@ -138,15 +119,12 @@ DCT model:
 
 ![Страница 22](images/page-022-img-02.jpg)
 
-MT model: 
 
-
+## MT model: 
 
 ![Страница 23](images/page-023-img-01.jpg)
 
-DCT model: 
-
-
+## DCT model: 
 
 ![Страница 24](images/page-024-img-01.jpg)
 
@@ -159,36 +137,28 @@ DCT model:
 
 
 
-
 ![Страница 26](images/page-026-img-01.jpg)
 
-MT model: 
-
-
+## MT model: 
 
 ![Страница 27](images/page-027-img-01.jpg)
 
 ![Страница 27](images/page-027-img-02.jpg)
 
-DCT model: 
-
-
+## DCT model: 
 
 ![Страница 28](images/page-028-img-01.jpg)
 
 ![Страница 28](images/page-028-img-02.jpg)
 
 
-
-
 ![Страница 29](images/page-029-img-01.jpg)
+
+## MT model:
 
 ![Страница 29](images/page-029-img-02.jpg)
 
-MT model: 
-DCT model: 
-
-
+## DCT model: 
 
 ![Страница 30](images/page-030-img-01.jpg)
 
@@ -199,39 +169,25 @@ DCT model:
 
 ![Страница 31](images/page-031-img-02.jpg)
 
-
-
-
 ![Страница 32](images/page-032-img-01.jpg)
 
 ![Страница 32](images/page-032-img-02.jpg)
-
-
-
 
 ![Страница 33](images/page-033-img-01.jpg)
 
 ![Страница 33](images/page-033-img-02.jpg)
 
-
-
-
 ![Страница 34](images/page-034-img-01.jpg)
 
-MT model: 
 
-
+## MT model: 
 
 ![Страница 35](images/page-035-img-01.jpg)
 
-DCT model: 
 
-
+## DCT model: 
 
 ![Страница 36](images/page-036-img-01.jpg)
-
-
-
 
 ![Страница 37](images/page-037-img-01.jpg)
 
