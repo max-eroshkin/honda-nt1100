@@ -1,10 +1,6 @@
-# Brakes - Front Assembly
-
-
+# Brakes - Front Assembly DISASSEMBLY/ASSEMBLY
 
 ![Страница 1](images/page-001-img-01.jpg)
-
-DISASSEMBLY/ASSEMBLY 
 
 **NOTE:** 
 * Be careful not to damage each piston. 
@@ -12,8 +8,6 @@ DISASSEMBLY/ASSEMBLY
 * Mark the pistons to ensure correct reassembly. 
 * Be careful not to damage the piston sliding surface. 
 * Install each caliper piston in their proper locations.
-
-◦Piston A: larger O.D.
-
-◦Piston B: smaller O.D. 
+  * Piston A: larger O.D.
+  * Piston B: smaller O.D. 
 

@@ -1,10 +1,7 @@
-# Brakes - Rear Brake Pedal
-
-
+# Brakes - Rear Brake Pedal REMOVAL/INSTALLATION
 
 ![Страница 1](images/page-001-img-01.jpg)
 
-REMOVAL/INSTALLATION 
 Remove the right heel guard. 
 
 **NOTE:** 
