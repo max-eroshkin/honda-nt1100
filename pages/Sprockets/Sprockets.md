@@ -2,18 +2,14 @@
 
 SPROCKET INSPECTION
 
-Remove the left rear cover.
-
-Inspect the drive and driven sprocket teeth for wear or damage, replace if necessary.
-
-Never use a new drive chain on worn sprockets.
-
+Remove the left rear cover.  
+Inspect the drive and driven sprocket teeth for wear or damage, replace if necessary.  
+Never use a new drive chain on worn sprockets.  
 Both chain and sprockets must be in good condition, or the replacement chain will wear rapidly.
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-Check the drive sprocket bolt [1] and driven sprocket nuts [2] on the drive and driven sprockets.
-
+Check the drive sprocket bolt [1] and driven sprocket nuts [2] on the drive and driven sprockets.  
 If any are loose, torque them.
 
 **TORQUE:**
