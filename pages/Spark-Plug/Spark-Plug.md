@@ -10,21 +10,16 @@ Remove the following:
 * Ignition coil tray
 * Radiator
 
-Remove the No.1-2 plug [1] using the equipped
-spark plug wrench.
-
+Remove the No.1-2 plug [1] using the equipped spark plug wrench.  
 Remove the No.2-2 plug in the same manner.
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
 Remove the No.1-1 plug using the equipped spark
-plug wrench [1].
-
-Remove the No.2-1 plug in the same manner.
-
+plug wrench [1].  
+Remove the No.2-1 plug in the same manner.  
 Inspect or replace the spark plugs as described in
-the MAINTENANCE SCHEDULE.
-
+the MAINTENANCE SCHEDULE.  
 Install and hand tighten the spark plug to the
 cylinder head, then tighten the spark plug to the
 specified torque using the spark plug wrench.
