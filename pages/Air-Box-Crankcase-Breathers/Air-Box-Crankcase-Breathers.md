@@ -21,5 +21,3 @@ Reinstall the plugs
 securely.
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
-
-![Image page-002-img-01.jpg](images/page-002-img-01.jpg)

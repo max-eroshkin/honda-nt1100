@@ -26,9 +26,8 @@ With the headlight on high beam, restart the engine.
 Measure the voltage on the multimeter when the engine
 runs at 5,000 r/min.
 
-**STANDARD:**
-
-Measured BV < Measured CV < 15.5 V
+**STANDARD:** 
+Measured **BV** < Measured **CV** < **15.5 V**
 * BV = Battery Voltage
 * CV = Charging Voltage
 

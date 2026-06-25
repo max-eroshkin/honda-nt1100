@@ -29,9 +29,7 @@ Fill the reservoir with DOT 4 brake fluid to the upper level line from a sealed 
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-If the brake bleeder is not available, perform the following procedure.
-
-![Image page-001-img-02.jpg](images/page-001-img-02.jpg)
+**If the brake bleeder is not available, perform the following procedure.**
 
 Fill the reservoir with DOT 4 brake fluid to the upper level line [1] from a sealed container.
 

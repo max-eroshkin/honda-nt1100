@@ -22,8 +22,6 @@ Install new brake pads.
 * Align the pad lugs [4] with the caliper grooves [5].
 * Make sure that the brake pads seat against the pad spring.
 
-![Image page-001-img-02.jpg](images/page-001-img-02.jpg)
-
 ![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
 Apply locking agent to the front brake caliper mounting bolt [1] threads.
