@@ -12,15 +12,13 @@ Remove the drive chain using the special tool.
 * When using the special tool, follow the manufacturer’s instruction.
 
 **TOOL:**
-
-Chain tool set 07HMH-MR10105
+* Chain tool set 07HMH-MR10105
 
 Remove the excess drive chain links from a new drive chain with the chain tool set.
 
 **STANDARD LINKS:** 122 LINKS
 
-REPLACEMENT CHAIN
-
+REPLACEMENT CHAIN 
 **RK:** 525MRO-122LE
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
@@ -32,8 +30,7 @@ Install a new plate [3] and O-rings with the identification mark facing the outs
 Assemble the master link, O-rings and plate.
 
 **TOOL:**
-
-Chain tool set 07HMH-MR10105
+* Chain tool set 07HMH-MR10105
 
 **NOTE:**
 * Never reuse the old drive chain, master link, master link plate, or O-rings.
@@ -53,7 +50,7 @@ Stake the master link pins.
 Make sure that the pins are staked properly by measuring the diameter of the staked area using a slide caliper [1].
 
 **DIAMETER OF THE STAKED AREA:**
-5.40 – 5.60 mm (0.213 – 0.220 in)
+**5.40 – 5.60 mm** (0.213 – 0.220 in)
 
 After staking, check the staked area of the master link for cracks.
 
