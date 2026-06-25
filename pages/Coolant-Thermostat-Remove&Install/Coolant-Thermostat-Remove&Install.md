@@ -2,16 +2,13 @@
 
 REMOVAL/INSTALLATION
 
-Drain the coolant.
-
-Remove the left side cover.
-
+Drain the coolant.  
+Remove the left side cover.  
 Remove the thermostat cover bolts [1] and open the thermostat cover [2].
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-Remove the thermostat [1] from the cylinder head.
-
+Remove the thermostat [1] from the cylinder head.  
 Installation is in the reverse order of removal.
 
 **TORQUE:**

@@ -15,10 +15,8 @@ Disassemble and assemble the front wheel as shown in the following illustration.
 
 WHEEL BEARING REPLACEMENT
 
-Install the bearing remover head [1] into the bearing.
-
-From the opposite side, install the bearing remover shaft 14 x 400L [2] and drive out the bearing from the wheel hub.
-
+Install the bearing remover head [1] into the bearing.  
+From the opposite side, install the bearing remover shaft 14 x 400L [2] and drive out the bearing from the wheel hub.  
 Remove the distance collar and drive out the other bearing.
 
 **TOOLS:**
@@ -29,14 +27,11 @@ Bearing remover shaft 14 x 400L 07GGD-0010100
 
 ![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
-Drive in a new right side bearing squarely with its marked side facing up until it is fully seated.
-
+Drive in a new right side bearing squarely with its marked side facing up until it is fully seated.  
 Never install the old bearing, once the bearing has been removed, the
 !
-bearing must be replaced with new ones.
-
-Install the distance collar.
-
+bearing must be replaced with new ones.  
+Install the distance collar.  
 Drive in a new left side bearing squarely with its marked side facing up until it is seated on the distance collar.
 
 **TOOLS:**

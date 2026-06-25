@@ -26,8 +26,7 @@ Pilot 28 mm [5] 07746-0041100
 
 ![Image page-001-img-02.jpg](images/page-001-img-02.jpg)
 
-Install the remover head 20 mm [1] into the wheel bearing.
-
+Install the remover head 20 mm [1] into the wheel bearing.  
 From the opposite side, install the bearing remover shaft 14 x 400L [2] and drive the wheel bearing out of the wheel hub.
 
 **TOOLS:**
@@ -52,10 +51,8 @@ Pilot 20 mm [4] 07746-0040500
 
 **NOTE:**
 * Replace the driven flange and wheel bearings as a set.
-* Do not reuse old bearings.
-
-Install the distance collar.
-
+* Do not reuse old bearings.  
+Install the distance collar.  
 Drive in a new left wheel bearing squarely until it is seated on the distance collar.
 
 ![Image page-002-img-02.jpg](images/page-002-img-02.jpg)

@@ -20,8 +20,7 @@ Release the following from the rear fender B:
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-Release the connector cover [1] from the stay.
-
+Release the connector cover [1] from the stay.  
 Disconnect the license light 2P [2] and turn signal light 2P
 (Orange) [3] /(Light blue) [4] connector.
 

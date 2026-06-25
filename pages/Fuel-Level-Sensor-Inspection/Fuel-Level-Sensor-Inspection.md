@@ -2,8 +2,7 @@
 
 FUEL LEVEL SENSOR INSPECTION
 
-Remove the fuel level sensor.
-
+Remove the fuel level sensor.  
 Connect the ohmmeter to the fuel level sensor 2P
 (Black) connector [1].
 

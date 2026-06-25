@@ -3,8 +3,7 @@
 ABBREVIATION
 
 Throughout this manual, the following abbreviations are used to identify the respective
-parts or systems.
-
+parts or systems.  
 Abbrev. term Full term
 
 ABS Anti-lock Brake System

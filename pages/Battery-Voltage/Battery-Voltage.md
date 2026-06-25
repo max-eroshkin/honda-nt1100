@@ -2,8 +2,7 @@
 
 VOLTAGE INSPECTION
 
-Remove the main seat.
-
+Remove the main seat.  
 Measure the battery voltage using a commercially
 available digital multimeter.
 

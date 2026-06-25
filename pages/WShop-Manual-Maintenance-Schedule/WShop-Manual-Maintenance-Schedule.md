@@ -2,13 +2,10 @@
 
 ED, FO, KO, U
 
-Perform the Pre-ride inspection in the Owner’s Manual at each scheduled maintenance period.
-
-**I:** Inspect and Clean, Adjust, Lubricate or Replace if necessary. C: Clean. R: Replace. A: Adjust. L: Lubricate.
-
+Perform the Pre-ride inspection in the Owner’s Manual at each scheduled maintenance period.  
+**I:** Inspect and Clean, Adjust, Lubricate or Replace if necessary. C: Clean. R: Replace. A: Adjust. L: Lubricate.  
 The following items require some mechanical knowledge. Certain items (particularly those marked * and **) may require more technical
-information and tools. Consult a dealer.
-
+information and tools. Consult a dealer.  
 FREQUENCY (NOTE 1)
 
 ANNUAL REGULAR REFER TO
@@ -120,8 +117,7 @@ SIDESTAND I I I I I
 ![Image page-002-img-07.png](images/page-002-img-07.png)
 ** STEERING HEAD BEARINGS I I I I I
 * Should be serviced by a dealer, unless the owner has proper tools and service data and is mechanically qualified.
-** In the interest of safety, we recommend these items be serviced only by a dealer.
-
+** In the interest of safety, we recommend these items be serviced only by a dealer.  
 Honda recommends that a dealer should road test your motorcycle after each periodic maintenance is carried out.
 
 **NOTES:**

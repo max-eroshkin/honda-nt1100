@@ -2,10 +2,8 @@
 
 REMOVAL/INSTALLATION
 
-Remove the rear center cowl.
-
-Disconnect the brake/taillight 3P (Black) connector [1].
-
+Remove the rear center cowl.  
+Disconnect the brake/taillight 3P (Black) connector [1].  
 Release the following from the rear fender B [2]:
 * Brake/taillight harness band clip A [3]
 * Brake/taillight harness band clip B [4]

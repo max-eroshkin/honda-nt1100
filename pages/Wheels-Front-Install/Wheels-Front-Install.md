@@ -6,13 +6,11 @@ Install the side collars [1] to the front wheel.
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-Apply a thin coat of grease to the front axle sliding surface.
-
+Apply a thin coat of grease to the front axle sliding surface.  
 Install the front wheel between the forks.
 
 **NOTE:**
-* Be careful not to damage the pulser ring.
-
+* Be careful not to damage the pulser ring.  
 Install the front axle [1] from the right side.
 
 ![Image page-001-img-02.jpg](images/page-001-img-02.jpg)
@@ -27,10 +25,8 @@ Tighten the left front axle holder pinch bolts [2] to the specified torque.
 
 ![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
-Apply locking agent to the front brake caliper mounting bolt [1] threads.
-
-Install the front brake calipers [2] and new front brake caliper mounting bolts.
-
+Apply locking agent to the front brake caliper mounting bolt [1] threads.  
+Install the front brake calipers [2] and new front brake caliper mounting bolts.  
 Tighten the front brake caliper mounting bolts to the specified torque.
 
 **TORQUE:** **45 N·m** (4.6 kgf·m, 33 lbf·ft)

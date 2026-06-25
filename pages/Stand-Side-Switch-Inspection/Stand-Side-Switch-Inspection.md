@@ -3,8 +3,7 @@
 INSPECTION
 
 Disconnect the sidestand switch 2P (Black)
-connector.
-
+connector.  
 Check for continuity at the switch side 2P (Black)
 connector [1] terminals.
 

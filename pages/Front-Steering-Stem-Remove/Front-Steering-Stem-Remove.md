@@ -19,8 +19,7 @@ Remove the following:
 
 ![Image page-001-img-02.jpg](images/page-001-img-02.jpg)
 
-Disconnect the horn connector [1].
-
+Disconnect the horn connector [1].  
 Remove the following:
 * Bolts [2]
 * Horn stay [3]
@@ -28,8 +27,7 @@ Remove the following:
 
 ![Image page-002-img-02.jpg](images/page-002-img-02.jpg)
 
-Straighten the lock washer tabs [1].
-
+Straighten the lock washer tabs [1].  
 Remove the lock nut [2] and lock washer.
 
 ![Image page-003-img-01.jpg](images/page-003-img-01.jpg)
@@ -37,8 +35,7 @@ Remove the lock nut [2] and lock washer.
 Loosen and remove the steering stem adjusting nut [1] using the special tool.
 
 **TOOL:**
-
-Locknut wrench 5.8 x 45 [2] 07916-KA50100
+* Locknut wrench 5.8 x 45 [2] 07916-KA50100
 
 ![Image page-003-img-02.jpg](images/page-003-img-02.jpg)
 

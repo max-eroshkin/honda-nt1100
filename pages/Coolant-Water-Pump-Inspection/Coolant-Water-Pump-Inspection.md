@@ -2,8 +2,7 @@
 
 MECHANICAL SEAL INSPECTION
 
-Remove the under cover.
-
+Remove the under cover.  
 Check the water pump bleed pipe [1] for signs of
 coolant leakage.
 
@@ -15,8 +14,7 @@ leakage from the bleed pipe while operating
 the engine.
 
 Replace the water pump as an assembly if
-necessary.
-
+necessary.  
 Install the under cover.
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)

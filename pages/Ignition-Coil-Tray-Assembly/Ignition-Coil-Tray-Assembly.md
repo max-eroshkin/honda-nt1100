@@ -2,12 +2,9 @@
 
 IGNITION COIL TRAY DISASSEMBLY/ASSEMBLY
 
-Remove the ignition coil tray assembly.
-
-Release the wire clip [1].
-
-Remove the bolts [2].
-
+Remove the ignition coil tray assembly.  
+Release the wire clip [1].  
+Remove the bolts [2].  
 Disconnect the following:
 * No.1-1 ignition coil connectors [3]
 * No.1-2 ignition coil connectors [4]

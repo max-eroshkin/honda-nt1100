@@ -2,8 +2,7 @@
 
 INTAKE VALVE CLEARANCE ADJUSTMENT
 
-Remove the valve lifter and shim.
-
+Remove the valve lifter and shim.  
 Clean the valve shim contact area in the valve lifter [1] with compressed air.
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
@@ -18,8 +17,7 @@ mm).
 
 ![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
-Calculate the new shim thickness using the equation below.
-
+Calculate the new shim thickness using the equation below.  
 A = (B – C) + D
 
 **A:** New shim thickness
@@ -32,12 +30,9 @@ A = (B – C) + D
 
 **NOTE:**
 * Make sure of the correct shim thickness by measuring the shim with the micrometer.
-* Reface the valve seat if carbon deposits result in a calculated dimension of over 2.450 mm.
-
-Install newly selected shims on the valve retainers.
-
-Install the valve lifter and camshaft.
-
+* Reface the valve seat if carbon deposits result in a calculated dimension of over 2.450 mm.  
+Install newly selected shims on the valve retainers.  
+Install the valve lifter and camshaft.  
 Rotate the crankshaft counterclockwise several times and recheck the valve clearances.
 
 ![Image page-002-img-02.jpg](images/page-002-img-02.jpg)

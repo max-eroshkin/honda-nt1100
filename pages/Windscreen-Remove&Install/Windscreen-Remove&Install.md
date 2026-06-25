@@ -9,8 +9,7 @@ Remove the following:
 * Windscreen [4]
 
 Remove the well nuts [5] and windscreen bracket
-cover [6].
-
+cover [6].  
 Installation is in the reverse order of removal.
 
 **TORQUE:**

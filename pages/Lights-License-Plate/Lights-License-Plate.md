@@ -6,8 +6,7 @@ Remove the following:
 * Pillion seat
 * Rear fender A
 
-Release the connector cover [1] from the stay.
-
+Release the connector cover [1] from the stay.  
 Disconnect the license light 2P (White) connector [2].
 
 ![Image page-002-img-01.jpg](images/page-002-img-01.jpg)

@@ -4,8 +4,7 @@ INSTALLATION
 
 ![Image page-001-img-02.jpg](images/page-001-img-02.jpg)
 
-Apply specified grease to the upper and lower bearings and bearing races.
-
+Apply specified grease to the upper and lower bearings and bearing races.  
 Install the following:
 * Lower bearing [1]
 * Steering stem [2]
@@ -17,8 +16,7 @@ Install the following:
 
 Apply 0.10 – 0.30 g (0.004 – 0.011 oz) of urea based multi-purpose extreme pressure grease NLGI #2 (EXCELITE EP2 manufactured by
 
-KYODO YUSHI CO., LTD. or equivalent) to the steering stem adjusting nut [1] threads.
-
+KYODO YUSHI CO., LTD. or equivalent) to the steering stem adjusting nut [1] threads.  
 Tighten the adjusting nut to the initial torque by holding the steering stem.
 
 **TOOL:**
@@ -43,14 +41,10 @@ Recheck that the steering stem moves smoothly without play or binding.
 
 ![Image page-003-img-02.jpg](images/page-003-img-02.jpg)
 
-Install a new lock washer [1], aligning its bent tabs with the grooves in the adjustment nut.
-
-Install the lock nut [2] and finger tighten it all the way.
-
-Further tighten the lock nut, within 90°, to align its grooves with the tabs of the lock washer.
-
-⚠️ Do not over tighten the lock nut, this will flatten the lock washer.
-
+Install a new lock washer [1], aligning its bent tabs with the grooves in the adjustment nut.  
+Install the lock nut [2] and finger tighten it all the way.  
+Further tighten the lock nut, within 90°, to align its grooves with the tabs of the lock washer.  
+⚠️ Do not over tighten the lock nut, this will flatten the lock washer.  
 Bend the lock washer tabs [3] up into the grooves in the lock nut.
 
 ![Image page-004-img-01.jpg](images/page-004-img-01.jpg)
@@ -62,12 +56,9 @@ Install the following:
 
 ![Image page-004-img-02.jpg](images/page-004-img-02.jpg)
 
-Install the top bridge [1].
-
-Install the washer [2] and steering stem nut [3], but do not tighten it yet.
-
-Temporarily install the forks [4].
-
+Install the top bridge [1].  
+Install the washer [2] and steering stem nut [3], but do not tighten it yet.  
+Temporarily install the forks [4].  
 Tighten the steering stem nut to the specified torque.
 
 **TORQUE:** **100 N·m** (10.2 kgf·m, 74 lbf·ft)

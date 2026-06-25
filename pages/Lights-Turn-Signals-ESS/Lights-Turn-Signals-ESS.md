@@ -15,8 +15,8 @@ Check the following:
 * If the ESS system operates at all times, replace the ABS modulator and/or BCU with a new one.
 
 To forcibly activate the ESS system, perform the procedure as follows:
-1.Connect the SCS short connector to the DLC.
-2.Turn the ignition switch ON.
-3.Apply the front or rear brake and check the turn signal lights operation.
+1. Connect the SCS short connector to the DLC.
+2. Turn the ignition switch ON.
+3. Apply the front or rear brake and check the turn signal lights operation.
 
 The turn signal lights should be blinking with the brake applied and turning OFF with the brake released.

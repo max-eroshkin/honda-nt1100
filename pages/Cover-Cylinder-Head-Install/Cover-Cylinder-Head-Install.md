@@ -11,8 +11,7 @@ Install a new cylinder head cover packing [3] to the cylinder head cover.
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-Clean the cylinder head [1] mating surface thoroughly.
-
+Clean the cylinder head [1] mating surface thoroughly.  
 Apply liquid sealant (TB5211C manufactured by ThreeBond, KE45T manufactured by Shin-Etsu Silicone or an
 equivalent) to the cylinder head cover packing [2] as shown.
 
@@ -30,8 +29,7 @@ Install the cylinder head cover [1] on the cylinder head.
 **NOTE:**
 * Be sure to be installed the dowel pins [2] of the cylinder head cover to the cylinder head holes securely.
 
-Check that the mounting rubbers [3] are in good condition, and replace them if necessary.
-
+Check that the mounting rubbers [3] are in good condition, and replace them if necessary.  
 Install the mounting rubbers.
 
 **NOTE:**
@@ -53,8 +51,7 @@ Install the following:
 **NOTE:**
 * Align the cable stay tab with the frame hole.
 
-Tighten the bolt securely.
-
+Tighten the bolt securely.  
 Hook the following cable [3] to the cable stay:
 * Clutch cable (MT model)
 * Parking brake cable (DCT model)

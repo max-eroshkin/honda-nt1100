@@ -2,16 +2,11 @@
 
 REMOVAL
 
-Fully slacken the drive chain.
-
-Support the motorcycle using a safety stand or hoist, and raise the rear wheel off the ground.
-
-Push the rear wheel forward.
-
-Derail the drive chain [1] from the driven sprocket.
-
-Remove the rear axle nut [2], washer [3] and right adjusting plate [4].
-
+Fully slacken the drive chain.  
+Support the motorcycle using a safety stand or hoist, and raise the rear wheel off the ground.  
+Push the rear wheel forward.  
+Derail the drive chain [1] from the driven sprocket.  
+Remove the rear axle nut [2], washer [3] and right adjusting plate [4].  
 Remove the rear axle [5], left adjusting plate [6] and rear wheel.
 
 **NOTE:**

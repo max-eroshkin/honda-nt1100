@@ -5,15 +5,13 @@ ERASING STORED DTC
 **NOTE:**
 * When the ERASING DTC procedure is performed, the DTCs of DCT system are erased at the same time.
 
-Erase the DTC with the GST or MCS while the engine is stopped.
-
+Erase the DTC with the GST or MCS while the engine is stopped.  
 To erase the DTC without GST or MCS, refer to the following procedure.
 
 ### How to clear the DTC with SCS short connector
 1. Connect the SCS connector to the DLC.
 2. Turn the ignition switch ON.
-3. Disconnect the SCS short connector [1] from the DLC [2].
-
+3. Disconnect the SCS short connector [1] from the DLC [2].  
     Reconnect the SCS short connector to the DLC while the MIL stays
 
     ON about 5 seconds (reset receiving pattern).

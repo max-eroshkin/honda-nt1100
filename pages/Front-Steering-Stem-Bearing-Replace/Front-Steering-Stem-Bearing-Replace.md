@@ -24,18 +24,14 @@ Remove the lower outer race using the special tool and suitable shaft.
 ![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
 Temporarily install the steering stem nut [1] onto the steering stem [2] to prevent the threads from being damaged when
-removing the lower inner race [3] from the steering stem.
-
-Remove the lower inner race with a chisel or equivalent tools, being careful not to damage the steering stem.
-
+removing the lower inner race [3] from the steering stem.  
+Remove the lower inner race with a chisel or equivalent tools, being careful not to damage the steering stem.  
 Remove the lower dust seal [4].
 
 ![Image page-002-img-02.jpg](images/page-002-img-02.jpg)
 
-Apply specified grease to a new lower dust seal lips.
-
-Install the lower dust seal [1] to the steering stem [2].
-
+Apply specified grease to a new lower dust seal lips.  
+Install the lower dust seal [1] to the steering stem [2].  
 Install a new lower inner race [3] using a hydraulic press and special tool.
 
 **TOOL:**

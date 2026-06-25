@@ -2,10 +2,8 @@
 
 REMOVAL/INSTALLATION
 
-Drain the coolant.
-
-Remove the Inner covers.
-
+Drain the coolant.  
+Remove the Inner covers.  
 Release the following from the radiator shroud:
 * Fog light 2P (Black) connectors [1]
 * A/F sensor 4P (Black) connectors [2]
@@ -17,21 +15,17 @@ Disconnect the siphon hose [1].
 
 ![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
-Loosen the hose band screw [1].
-
+Loosen the hose band screw [1].  
 Disconnect the lower radiator hose [2].
 
 ![Image page-002-img-02.jpg](images/page-002-img-02.jpg)
 
-Loosen the hose band screw [1].
-
-Disconnect the upper radiator hose [2].
+Loosen the hose band screw [1].  
+Disconnect the upper radiator hose [2].  
 
 ![Image page-003-img-01.jpg](images/page-003-img-01.jpg)
 
 Remove the bolts [1].
-
-![Image page-003-img-02.jpg](images/page-003-img-02.jpg)
 
 ![Image page-004-img-01.jpg](images/page-004-img-01.jpg)
 

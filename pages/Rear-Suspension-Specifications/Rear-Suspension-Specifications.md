@@ -23,8 +23,7 @@ Wheel rim runout Radial – 2.0 (0.08)
 
 Axial – 2.0 (0.08)
 
-Wheel balance weight – 60 g (2.1 oz) max.
-
+Wheel balance weight – 60 g (2.1 oz) max.  
 Drive chain Slack 70 – 75 (2.8 – 3.0) 80 (3.2)
 
 Size/link RK: 525MRO-122LE –

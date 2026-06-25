@@ -5,11 +5,9 @@ INSTALLATION
 Apply molybdenum disulfide
 grease to the sidestand pivot bolt
 [1] sliding surface and collar [2]
-outer surface.
-
+outer surface.  
 Install the sidestand [3] and
-collar.
-
+collar.  
 Install and tighten the sidestand
 pivot bolt to the specified torque.
 
@@ -17,8 +15,7 @@ pivot bolt to the specified torque.
 lbf·ft)
 
 After tightening the pivot bolt,
-return the pivot bolt 45° to 90°.
-
+return the pivot bolt 45° to 90°.  
 Install and tighten the sidestand
 pivot nut [4] to the specified
 torque while holding the
@@ -34,8 +31,7 @@ Install the sidestand return spring
 
 Install the sidestand switch [1]
 and new sidestand switch bolt
-[2].
-
+[2].  
 Tighten the sidestand switch bolt
 to the specified torque.
 

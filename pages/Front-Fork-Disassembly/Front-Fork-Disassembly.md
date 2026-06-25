@@ -21,34 +21,28 @@ Pull up and remove the fork rod assembly [1].
 
 ![Image page-002-img-03.jpg](images/page-002-img-03.jpg)
 
-Remove the fork spring [1] and spring collar [2].
-
+Remove the fork spring [1] and spring collar [2].  
 Pour out the fork fluid by pumping the outer tube [3] several times.
 
 ![Image page-003-img-01.jpg](images/page-003-img-01.jpg)
 
-Remove the dust seal [1].
-
-Remove the stopper ring [2].
-
+Remove the dust seal [1].  
+Remove the stopper ring [2].  
 ⚠️ Be careful not to scratch the slide pipe sliding surface.
 
 ![Image page-003-img-02.jpg](images/page-003-img-02.jpg)
 
 Pull the slide pipe assembly [1] out until you feel resistance from the slider bushing. Then move it in and out, tapping
-the bushing lightly until the outer tube [2] separates from the slide pipe assembly.
-
+the bushing lightly until the outer tube [2] separates from the slide pipe assembly.  
 The guide bushing will be forced out by the slider bushing.
 
 ![Image page-004-img-01.jpg](images/page-004-img-01.jpg)
 
 Carefully remove the slider bushing [1] by prying the slot with a screwdriver until the slider bushing can be pulled off by
-hand.
-
+hand.  
 ⚠️ Do not damage the slider bushing, especially the
 sliding surface. To prevent loss of tension, do not open
-the slider bushing more than necessary.
-
+the slider bushing more than necessary.  
 Remove the following:
 * Guide bushing [2]
 * Back-up ring [3]
@@ -58,24 +52,19 @@ Remove the following:
 
 ![Image page-004-img-02.jpg](images/page-004-img-02.jpg)
 
-Loosen the lock nut [1] while holding the fork cap [2], then remove the fork cap.
+Loosen the lock nut [1] while holding the fork cap [2], then remove the fork cap.   
 
-⚠️ **Right side:**
-
-Remove the O-ring [3] from the fork cap groove.
-
-Remove the stopper seat [4], rod guide case [5], rebound spring [6] and piston ring [7].
-
+⚠️ **Right side:**  
+Remove the O-ring [3] from the fork cap groove.  
+Remove the stopper seat [4], rod guide case [5], rebound spring [6] and piston ring [7].  
 Remove the O-ring [8] from the rod guide case.
 
 ![Image page-005-img-01.jpg](images/page-005-img-01.jpg)
 
-Loosen the lock nut [1] while holding the fork cap [2], then remove the fork cap.
+Loosen the lock nut [1] while holding the fork cap [2], then remove the fork cap.  
 
-⚠️ **Left side:**
-
-Remove the stopper seat [3], rod guide case [4], rebound spring [5].
-
+⚠️ **Left side:**  
+Remove the stopper seat [3], rod guide case [4], rebound spring [5].  
 Remove the push rod [6] from the rod [7].
 
 ![Image page-005-img-02.jpg](images/page-005-img-02.jpg)

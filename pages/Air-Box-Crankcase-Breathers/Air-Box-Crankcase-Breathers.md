@@ -9,15 +9,14 @@ housing drain hoses [1].
 * Service if the
 deposits level can be
 seen in the drain
-hose.
+hose.  
 
 If necessary, remove the
 drain plugs [2] from the
 drain hoses and drain the
 deposits into a suitable
-container.
-
+container.  
 Reinstall the plugs
-securely.
+securely.  
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)

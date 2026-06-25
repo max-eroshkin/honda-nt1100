@@ -8,11 +8,9 @@ Remove the following:
 * Spring [2]
 
 Remove the radiator reserve tank [3] by releasing
-the boss [4] from the frame.
-
+the boss [4] from the frame.  
 Disconnect the siphon hose [5] and drain the
-coolant.
-
+coolant.  
 Installation is in the reverse order of removal.
 
 **NOTE:**

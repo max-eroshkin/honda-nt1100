@@ -7,8 +7,7 @@ Remove the right crankcase cover:
 * DCT model:
 
 Remove the coolant drain bolt [1] and sealing
-washer [2].
-
+washer [2].  
 Remove the water pump cover bolts [3] and water
 pump body [4].
 

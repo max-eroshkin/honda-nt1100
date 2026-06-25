@@ -2,13 +2,10 @@
 
 FUEL PRESSURE NORMALIZATION
 1. Connect the fuel pump unit 5P (Black)
-connector [1].
-
-    Connect the battery negative (–) cable.
-2. Turn the ignition switch ON.
-
-    The fuel pump will run for about 2 secondsand fuel pressure will rise.
-
+connector [1].  
+Connect the battery negative (–) cable.
+2. Turn the ignition switch ON.  
+The fuel pump will run for about 2 secondsand fuel pressure will rise.  
     **NOTE:**
     * Do not start the engine.
 3. Turn the ignition switch OFF.

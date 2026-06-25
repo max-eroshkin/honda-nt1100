@@ -4,8 +4,7 @@ SYMBOLS
 
 The symbols used throughout this manual show specific service procedures. If
 supplementary information is required pertaining to these symbols, it would be explained
-specifically in the text without the use of the symbols.
-
+specifically in the text without the use of the symbols.  
 Replace the part(s) with new one(s) before assembly.
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
@@ -26,18 +25,15 @@ grease NLGI #2 or equivalent).
 ![Image page-001-img-04.jpg](images/page-001-img-04.jpg)
 
 Use molybdenum disulfide grease (containing more than
-3% molybdenum disulfide, NLGI #2 or equivalent).
-
+3% molybdenum disulfide, NLGI #2 or equivalent).  
 Example:
 * Molykote® BR-2 plus manufactured by Dow Corning
 
 ![Image page-001-img-05.jpg](images/page-001-img-05.jpg)
 
-U.S.A.
-
+U.S.A.  
 Use molybdenum disulfide paste (containing more than
-40% molybdenum disulfide, NLGI #2 or equivalent).
-
+40% molybdenum disulfide, NLGI #2 or equivalent).  
 Example:
 * Molykote® G-n Paste manufactured by Dow
 

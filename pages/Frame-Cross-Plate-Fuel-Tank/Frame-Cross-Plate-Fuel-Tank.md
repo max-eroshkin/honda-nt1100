@@ -2,11 +2,9 @@
 
 REMOVAL/INSTALLATION
 
-Remove the Fuel tank.
-
+Remove the Fuel tank.  
 Remove the front cross plate bolts [1] and front
-cross plate [2].
-
+cross plate [2].  
 Installation is in the reverse order of removal.
 
 **TORQUE:**

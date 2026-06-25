@@ -2,14 +2,12 @@
 
 INSPECTION
 
-Visually inspect the thermostat [1] for damage.
-
+Visually inspect the thermostat [1] for damage.  
 Check the thermostat rubber [2] for damage and replace if necessary.
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-Heat a container of water with an electric heating element for 5 minutes.
-
+Heat a container of water with an electric heating element for 5 minutes.  
 Suspend the thermostat [1] in heated water to check its operation.
 
 **THERMOSTAT BEGIN TO OPEN:**

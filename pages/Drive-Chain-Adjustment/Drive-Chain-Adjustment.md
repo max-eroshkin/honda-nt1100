@@ -4,8 +4,7 @@ DRIVE CHAIN SLACK INSPECTION
 
 Turn the ignition switch OFF, support the
 motorcycle on its mainstand, and shift the
-transmission into neutral.
-
+transmission into neutral.  
 Check the slack in the drive chain lower run
 midway between the sprockets.
 

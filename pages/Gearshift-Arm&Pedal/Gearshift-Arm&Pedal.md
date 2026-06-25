@@ -7,15 +7,11 @@ gearshift spindle [3].
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-Remove the gearshift pedal pivot bolt [1].
-
-Remove the gearshift pedal [2] and washer [3].
-
-Remove the dust seals [4].
-
+Remove the gearshift pedal pivot bolt [1].  
+Remove the gearshift pedal [2] and washer [3].  
+Remove the dust seals [4].  
 Check the dust seals and tie-rod ball joint dust cover for
-deterioration or damage, replace them if necessary.
-
+deterioration or damage, replace them if necessary.  
 Installation is in the reverse order of removal.
 
 **TORQUE:**
@@ -44,8 +40,7 @@ Loosen the lock nuts [1].
 threads.
 
 Adjust the tie-rod [2] length so that the distance between
-the ball joint ends is standard length as shown.
-
+the ball joint ends is standard length as shown.  
 After adjustment, tighten the lock nuts securely.
 
 ![Image page-003-img-01.jpg](images/page-003-img-01.jpg)

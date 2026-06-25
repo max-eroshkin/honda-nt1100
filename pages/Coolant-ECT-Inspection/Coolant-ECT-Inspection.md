@@ -2,8 +2,7 @@
 
 INSPECTION
 
-Remove the ECT sensor.
-
+Remove the ECT sensor.  
 Suspend the ECT sensor [1] in a pan of coolant on
 an electric heating element and measure the
 resistance through the sensor as the coolant heats
@@ -13,13 +12,11 @@ threads with at least 40 mm (1.6 in) from the
 bottom of the pan to the bottom of the sensor.
 * Keep the temperature constant for 3 minutes
 before testing. A sudden change of
-temperature will result in incorrect readings.
-
+temperature will result in incorrect readings.  
 Do not let the thermometer or ECT sensor
-touch the pan.
-
+touch the pan.  
 Measure the resistance between the ECT sensor
-terminals.
+terminals.  
 
 |             |   |               |
 |-------------|---|---------------|
