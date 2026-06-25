@@ -24,22 +24,18 @@ the oil filler cap [3] and fill the crankcase with the
 recommended oil up to the upper level line [4].
 
 **RECOMMENDED ENGINE OIL:**
-
-Honda "4-stroke motorcycle oil" or an
-equivalent motor oil.
-
-API service classification: SJ or higher
-
-JASO T903 standard: MA
-
-Viscosity: SAE 10W-30
+* Honda "4-stroke motorcycle oil" or an
+* equivalent motor oil.
+* API service classification: SJ or higher
+* JASO T903 standard: MA
+* Viscosity: SAE 10W-30
 
 Check that the O-rings [5] of the oil filler cap and
 dipstick are in good condition, and replace them if
 necessary.
 
-![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
-
 Apply engine oil to the O-rings.
 
 Install the oil filler cap and dipstick.
+
+![Image page-001-img-01.jpg](images/page-001-img-01.jpg)

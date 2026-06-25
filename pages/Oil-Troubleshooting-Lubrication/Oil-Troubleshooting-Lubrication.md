@@ -2,7 +2,7 @@
 
 TROUBLESHOOTING
 
-Oil level too low
+**Oil level too low**
 * Oil consumption
 * External oil leak
 * Worn piston rings
@@ -11,7 +11,7 @@ Oil level too low
 * Worn valve stem seals
 * Worn valve guide
 
-Low oil pressure
+**Low oil pressure**
 * Oil level low
 * Clogged oil strainer
 * Faulty oil pump
@@ -20,22 +20,22 @@ Low oil pressure
 * Oil pressure relief valve stuck open
 * Clogged oil filter
 
-No oil pressure
+**No oil pressure**
 * Oil level too low
 * Oil pressure relief valve stuck open
 * Damaged oil pump
 * Internal oil leak
 
-High oil pressure
+**High oil pressure**
 * Oil pressure relief valve stuck closed
 * Clogged oil gallery or metering orifice
 * Incorrect oil being used
 
-Oil contamination
+**Oil contamination**
 * Oil or filter not changed often enough
 * Worn piston rings
 
-Oil emulsification
+**Oil emulsification**
 * Blown cylinder head gasket
 * Leaky coolant passage
 * Entry of water

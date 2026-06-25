@@ -15,9 +15,8 @@ Apply engine oil to a new O-rings.
 Install the new back up rings [3] and O-rings [4] to the oil joints [5].
 
 Install the oil joints to the oil pan.
-!
 
-DCT model:
+**⚠️ DCT model:**
 
 **NOTE:**
 * Install the back up rings and O-rings to the oil joints as shown.

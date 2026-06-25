@@ -2,10 +2,10 @@
 
 LUBRICATION SYSTEM DIAGRAM
 
-MT model:
+## MT model:
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-DCT model:
+## DCT model:
 
 ![Image page-002-img-01.jpg](images/page-002-img-01.jpg)

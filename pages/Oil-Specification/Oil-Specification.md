@@ -1,5 +1,7 @@
 ﻿# Oil-Specification
 
+[Oil-Specification.pdf](../../Service%20Manual/Oil-Specification.pdf)
+
 LUBRICATION SYSTEM SPECIFICATIONS
 
 Unit: mm (in)

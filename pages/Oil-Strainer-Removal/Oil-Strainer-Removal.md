@@ -21,9 +21,8 @@ Remove the gasket [1] and O-rings [2] from the oil pan.
 Remove the oil joints [3] from the oil pan.
 
 Remove the O-rings [4] and back up rings [5] from the oil joints.
-!
 
-DCT model:
+**⚠️ DCT model:**
 
 ![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
