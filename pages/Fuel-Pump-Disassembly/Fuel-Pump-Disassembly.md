@@ -14,8 +14,6 @@ Release the tabs [5].
 
 Remove the fuel filter unit [1] and O-ring [2] from the flange [3].
 
-![Image page-001-img-02.jpg](images/page-001-img-02.jpg)
-
 ![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
 Remove the fuel pump [1] and O-ring [2].

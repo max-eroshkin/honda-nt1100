@@ -18,8 +18,6 @@ pump unit [3].
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-![Image page-001-img-02.jpg](images/page-001-img-02.jpg)
-
 Remove the dust seal [1] and fuel
 pump gasket [2] from the fuel pump
 unit.

@@ -12,11 +12,12 @@ Connect the ohmmeter to the fuel level sensor 2P
 Measure the resistance with the float [2] at the full
 and empty positions.
 
-FULL EMPTY
+|            | FULL      | EMPTY        |
+|------------|-----------|--------------|
+| Resistance | 6 – 10 Ω  | 434 – 446 Ω  |
 
-Resistance 6 – 10 Ω 434 – 446 Ω
+  
 
-If it is out of specification, replace the fuel level
-sensor.
+If it is out of specification, replace the fuel level sensor.
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)

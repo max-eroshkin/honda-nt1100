@@ -1,19 +1,5 @@
 ﻿# Fuel - Line Disconnect
 
-Page 1 of 1c0080101 : FUEL LINE INSPECTION > QUICK CONNECT FITTING REMOVAL/INSTALLATION
-
-S2MLF000A070003S2MLF000B070003
-
-
-FUEL LINE INSPECTION > QUICK C...
-
-Screen History
-
-![Image page-001-img-01.png](images/page-001-img-01.png)
-
-![Image page-001-img-02.png](images/page-001-img-02.png)
-
-
 QUICK CONNECT FITTING REMOVAL/INSTALLATION
 
 **NOTE:**
@@ -46,7 +32,5 @@ Make sure the connection is secure; check visually and by pulling
 the connector.
 
 Increase the fuel pressure.
-
-
 
 ![Image page-001-img-03.jpg](images/page-001-img-03.jpg)
