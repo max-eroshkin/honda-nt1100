@@ -2,15 +2,14 @@
 
 REMOVAL/INSTALLATION
 
+⚠️ **MT model:**  
 Remove the shift spindle cover.
-!
 
-MT model:
-
+⚠️ **DCT model:**  
 Remove the following:
-!
 
-DCT model:
+
+
 * Left rear cover
 * Shift control motor cover
 
@@ -18,10 +17,8 @@ Disconnect the sidestand switch 2P (Black) connector [1].
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
+⚠️ **MT model:**  
 Remove the clamp [1].
-
-MT model:
-!
 
 ![Image page-001-img-02.jpg](images/page-001-img-02.jpg)
 

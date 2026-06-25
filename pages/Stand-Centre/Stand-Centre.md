@@ -3,15 +3,11 @@
 REMOVAL/INSTALLATION
 
 Support the motorcycle securely using a hoist or
-equivalent.
-
-Remove the mainstand return springs [1].
-
-Remove the circlip [2].
-
+equivalent.  
+Remove the mainstand return springs [1].  
+Remove the circlip [2].  
 Remove the mainstand [3] by its sliding to the right
-side from the frame [4].
-
+side from the frame [4].  
 Installation is in the reverse order of removal.
 
 **NOTE:**
