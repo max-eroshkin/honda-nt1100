@@ -10,7 +10,7 @@ Read the DTC, stored data and follow the DTC index.
 
 To read the DTC by the MIL blinks, refer to the following procedure.
 
-Reading DTC with the MIL
+## Reading DTC with the MIL
 
 Turn the ignition switch OFF.
 
@@ -21,8 +21,7 @@ Remove the dummy connector [1] from the DLC.
 Short the DLC terminals using a special tool.
 
 **TOOL:**
-
-SCS short connector [2] 070MZ-0010300
+* SCS short connector [2] 070MZ-0010300
 
 **CONNECTION:** Yellow – Green/blue
 
@@ -31,28 +30,23 @@ index.
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-Reading DTC with the MID
-1.Pull and hold the page switch [1] or touch the clock area [2] of the
+## Reading DTC with the MID
 
-MID.
-2.Select the "Settings", and then press the ENT switch [3].
+1. Pull and hold the page switch [1] or touch the clock area [2] of the MID.
+2. Select the "Settings", and then press the ENT switch [3].
 
-Select the "Service" with pushing the sel up/down switch [4] or touch
-screen, and then press the ENT switch.
+    Select the "Service" with pushing the sel up/down switch [4] or touch screen, and then press the ENT switch.
 
-Select the "DTC" [5], and then press the ENT switch.
+    Select the "DTC" [5], and then press the ENT switch.
+
+3. Read the DTC [1].
 
 ![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
-
-![Image page-003-img-01.jpg](images/page-003-img-01.jpg)
-3.Read the DTC [1].
 
 **NOTE:**
 * For returning to the riding information, previous screen, or Home
 screen:
-
-![Image page-003-img-02.jpg](images/page-003-img-02.jpg)
-* Pull the page switch
-* Touch the return icon [2] on the touch screen of the MID
+  * Pull the page switch
+  * Touch the return icon [2] on the touch screen of the MID
 
 ![Image page-004-img-01.jpg](images/page-004-img-01.jpg)

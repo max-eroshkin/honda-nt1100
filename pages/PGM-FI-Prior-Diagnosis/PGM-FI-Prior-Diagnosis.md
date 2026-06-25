@@ -11,4 +11,4 @@ Before processing the DTC troubleshooting, check as follows:
 * Always turn the ignition switch OFF when checking the continuity of the circuit and before disconnecting the connectors.
 * Some DTCs have a recheck function, so that the priority DTC is detected when the ignition switch is switched from OFF to ON.
 
-Wait for 10 seconds and check the DTC again.
+    Wait for 10 seconds and check the DTC again.
