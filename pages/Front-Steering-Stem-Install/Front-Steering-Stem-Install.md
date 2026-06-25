@@ -6,8 +6,6 @@ INSTALLATION
 
 Apply specified grease to the upper and lower bearings and bearing races.
 
-![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
-
 Install the following:
 * Lower bearing [1]
 * Steering stem [2]
@@ -24,8 +22,7 @@ KYODO YUSHI CO., LTD. or equivalent) to the steering stem adjusting nut [1] thre
 Tighten the adjusting nut to the initial torque by holding the steering stem.
 
 **TOOL:**
-
-Locknut wrench 5.8 x 45 [2] 07916-KA50100
+* Locknut wrench 5.8 x 45 [2] 07916-KA50100
 
 **TORQUE:** **30 N·m** (3.1 kgf·m, 22 lbf·ft)
 
@@ -35,13 +32,10 @@ Move the steering stem [1] right and left, lock-to-lock, five times to seat the 
 
 ![Image page-002-img-03.jpg](images/page-002-img-03.jpg)
 
-![Image page-003-img-01.jpg](images/page-003-img-01.jpg)
-
 Retighten the steering stem adjusting nut [1] to the specified torque using a special tool.
 
 **TOOL:**
-
-Locknut wrench 5.8 x 45 [2] 07916-KA50100
+* Locknut wrench 5.8 x 45 [2] 07916-KA50100
 
 **TORQUE:** **30 N·m** (3.1 kgf·m, 22 lbf·ft)
 
@@ -54,14 +48,10 @@ Install a new lock washer [1], aligning its bent tabs with the grooves in the ad
 Install the lock nut [2] and finger tighten it all the way.
 
 Further tighten the lock nut, within 90°, to align its grooves with the tabs of the lock washer.
-!
 
-Do not over tighten the lock nut, this will flatten the
-lock washer.
+⚠️ Do not over tighten the lock nut, this will flatten the lock washer.
 
 Bend the lock washer tabs [3] up into the grooves in the lock nut.
-
-![Image page-003-img-03.jpg](images/page-003-img-03.jpg)
 
 ![Image page-004-img-01.jpg](images/page-004-img-01.jpg)
 
@@ -71,8 +61,6 @@ Install the following:
 * Horn stay [3]
 
 ![Image page-004-img-02.jpg](images/page-004-img-02.jpg)
-
-![Image page-005-img-01.jpg](images/page-005-img-01.jpg)
 
 Install the top bridge [1].
 

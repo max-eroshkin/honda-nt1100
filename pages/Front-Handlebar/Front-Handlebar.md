@@ -13,15 +13,13 @@ Temporarily install the handlebar weight [2] and bolt [3], then remove the inner
 Remove the handlebar weight, retainer and rubber cushions from the inner weight.
 
 Discard the retainer.
-!
 
-Apply lubricant spray through the tab locking hole for easy
+⚠️ Apply lubricant spray through the tab locking hole for easy
 removal.
 
 Install the rubber cushions [5] onto the inner weight.
-!
 
-Install the rubber cushion with identification mark [6] to the
+⚠️ Install the rubber cushion with identification mark [6] to the
 inward of inner weight.
 
 Install the new retainer onto the inner weight, aligning the flats each other. Tighten the new screw while holding the weight
@@ -39,8 +37,6 @@ Install the following:
 * Handlebar weight bolt: **10 N·m** (1.0 kgf·m, 7 lbf·ft)
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
-
-![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
 Installation is in the reverse order of removal.
 

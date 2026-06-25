@@ -19,8 +19,6 @@ Remove the following:
 
 ![Image page-001-img-02.jpg](images/page-001-img-02.jpg)
 
-![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
-
 Disconnect the horn connector [1].
 
 Remove the following:

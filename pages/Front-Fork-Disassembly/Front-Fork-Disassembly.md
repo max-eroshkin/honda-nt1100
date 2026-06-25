@@ -5,14 +5,11 @@ DISASSEMBLY
 Remove the fork cap [1] with the special tool.
 
 **TOOL:**
-
-Fork bolt wrench 070MA-MGP0100
+* Fork bolt wrench 070MA-MGP0100
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
 Push the outer tube [1] slowly down, and gently seat the dust seal [2] onto the axle holder [3].
-
-![Image page-001-img-02.jpg](images/page-001-img-02.jpg)
 
 ![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
@@ -33,10 +30,8 @@ Pour out the fork fluid by pumping the outer tube [3] several times.
 Remove the dust seal [1].
 
 Remove the stopper ring [2].
-!
 
-Be careful not to scratch the slide
-pipe sliding surface.
+⚠️ Be careful not to scratch the slide pipe sliding surface.
 
 ![Image page-003-img-02.jpg](images/page-003-img-02.jpg)
 
@@ -49,9 +44,8 @@ The guide bushing will be forced out by the slider bushing.
 
 Carefully remove the slider bushing [1] by prying the slot with a screwdriver until the slider bushing can be pulled off by
 hand.
-!
 
-Do not damage the slider bushing, especially the
+⚠️ Do not damage the slider bushing, especially the
 sliding surface. To prevent loss of tension, do not open
 the slider bushing more than necessary.
 
@@ -66,8 +60,7 @@ Remove the following:
 
 Loosen the lock nut [1] while holding the fork cap [2], then remove the fork cap.
 
-Right side:
-!
+⚠️ **Right side:**
 
 Remove the O-ring [3] from the fork cap groove.
 
@@ -79,8 +72,7 @@ Remove the O-ring [8] from the rod guide case.
 
 Loosen the lock nut [1] while holding the fork cap [2], then remove the fork cap.
 
-Left side:
-!
+⚠️ **Left side:**
 
 Remove the stopper seat [3], rod guide case [4], rebound spring [5].
 

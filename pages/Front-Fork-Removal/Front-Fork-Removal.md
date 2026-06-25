@@ -8,9 +8,8 @@ Remove the following:
 * Inner cover
 
 Remove the bolt [1] and front wheel speed sensor [2] from the left fork.
-!
 
-Left side only:
+⚠️ Left side only:
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
@@ -20,12 +19,10 @@ Loosen the pinch socket bolt [1] of the top bridge.
 
 When the fork leg will be disassembled, loosen the fork cap [1], but do not remove it yet.
 
-Take care not to scratch the cap head.
-!
+⚠️ Take care not to scratch the cap head.
 
 **TOOL:**
-
-Fork bolt wrench [2] 070MA-MGP0100
+* Fork bolt wrench [2] 070MA-MGP0100
 
 ![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
