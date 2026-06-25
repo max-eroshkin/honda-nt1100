@@ -20,8 +20,6 @@ hydraulic system.
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
-
 Remove the following:
 * Seat rail socket bolts (short) [1]
 * Seat rail socket bolts (long) [2]
@@ -35,9 +33,9 @@ Remove the following from the seat rail [1]:
 * Socket bolts [2]
 * Left/right rear fender B covers [3]
 * ABS modulator box [4]
+* Collars [5]
 
 ![Image page-002-img-03.jpg](images/page-002-img-03.jpg)
-* Collars [5]
 
 Installation is in the reverse order of removal.
 

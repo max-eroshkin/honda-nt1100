@@ -34,8 +34,6 @@ Release the following from the rear fender B:
 
 ![Image page-002-img-02.jpg](images/page-002-img-02.jpg)
 
-![Image page-003-img-01.jpg](images/page-003-img-01.jpg)
-
 Release the following from the rear fender B:
 * Brake/taillight and DLC harness band clip [1]
 * Brake/taillight harness connector [2]
@@ -47,8 +45,6 @@ Remove the following from the rear fender B:
 * Washers [2]
 * Collars [3]
 * Rear fender A stay [4]
-
-![Image page-004-img-01.jpg](images/page-004-img-01.jpg)
 
 ![Image page-005-img-01.jpg](images/page-005-img-01.jpg)
 
@@ -64,5 +60,3 @@ Installation is in the reverse order of removal.
 * Route the wires properly.
 
 ![Image page-005-img-02.jpg](images/page-005-img-02.jpg)
-
-![Image page-006-img-01.jpg](images/page-006-img-01.jpg)

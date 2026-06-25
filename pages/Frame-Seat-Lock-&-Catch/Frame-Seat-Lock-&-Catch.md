@@ -2,7 +2,7 @@
 
 REMOVAL/INSTALLATION
 
-SEAT CATCH HOOK
+## SEAT CATCH HOOK
 
 Remove the pillion seat.
 
@@ -25,7 +25,7 @@ hook sliding area.
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-SEAT LOCK CYLINDER
+## SEAT LOCK CYLINDER
 
 Remove the left fender B cover.
 

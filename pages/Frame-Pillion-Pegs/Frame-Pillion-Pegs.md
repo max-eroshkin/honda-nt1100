@@ -1,19 +1,5 @@
 ﻿# Frame - Pillion Pegs
 
-Page 1 of 1c0080101 : PILLION STEP > REMOVAL/INSTALLATION
-
-S2MLF000A020027S2MLF000B020041
-
-
-PILLION STEP > REMOVAL/INSTALL...
-
-Screen History
-
-![Image page-001-img-01.png](images/page-001-img-01.png)
-
-![Image page-001-img-02.png](images/page-001-img-02.png)
-
-
 REMOVAL/INSTALLATION
 
 Remove the pillion step bracket bolts [1] and pillion
