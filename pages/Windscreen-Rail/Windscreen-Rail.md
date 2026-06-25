@@ -2,11 +2,8 @@
 
 REMOVAL/INSTALLATION
 
-Remove the front cowl.
-
-Remove the windscreen adjust rail bolts [1] and
-windscreen adjust rail [2].
-
+Remove the front cowl.  
+Remove the windscreen adjust rail bolts [1] and windscreen adjust rail [2].  
 Installation is in the reverse order of removal.
 
 **NOTE:**

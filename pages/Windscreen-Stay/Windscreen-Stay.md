@@ -2,13 +2,9 @@
 
 REMOVAL/INSTALLATION
 
-Remove the windscreen.
-
-Loosen the windscreen stay bolts [1] until the
-windscreen stay [2] is removable.
-
-Remove the windscreen stay.
-
+Remove the windscreen.  
+Loosen the windscreen stay bolts [1] until the windscreen stay [2] is removable.  
+Remove the windscreen stay.  
 Installation is in the reverse order of removal.
 
 **TORQUE:**
