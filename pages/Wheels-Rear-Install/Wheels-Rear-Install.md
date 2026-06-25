@@ -19,6 +19,7 @@ Install the rear wheel in the swingarm.
 **NOTE:**
 * Install the brake disc between the brake pads.
 * Be careful not to damage the brake pads.  
+
 Install the drive chain [1] over the driven sprocket.  
 Install the left adjusting plate [2] and rear axle [3] from the left side.  
 Install the right adjusting plate [4], washer [5] and rear axle nut [6].  

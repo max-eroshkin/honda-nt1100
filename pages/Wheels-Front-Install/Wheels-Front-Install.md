@@ -10,7 +10,8 @@ Apply a thin coat of grease to the front axle sliding surface.
 Install the front wheel between the forks.
 
 **NOTE:**
-* Be careful not to damage the pulser ring.  
+* Be careful not to damage the pulser ring.
+
 Install the front axle [1] from the right side.
 
 ![Image page-001-img-02.jpg](images/page-001-img-02.jpg)

@@ -13,15 +13,11 @@ Remove the rear axle [5], left adjusting plate [6] and rear wheel.
 * Do not suspend the rear brake caliper assembly from the brake hose. Do not twist the brake hose.
 * Do not operate the brake pedal after removing the rear wheel.
 
+⚠️ **DCT model:**  
 **NOTE:**
 * Do not operate the parking brake lever after removing the rear wheel.
-!
-
-DCT model:
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
-
-![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
 Remove the side collars [1].
 
