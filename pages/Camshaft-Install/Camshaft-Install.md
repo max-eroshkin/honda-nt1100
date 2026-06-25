@@ -44,8 +44,6 @@ Install the camshaft holder B [1].
 **NOTE:**
 * Align the groove of the camshaft holder B with the guide of the camshaft.
 
-![Image page-002-img-02.jpg](images/page-002-img-02.jpg)
-
 ![Image page-003-img-01.jpg](images/page-003-img-01.jpg)
 
 Apply molybdenum oil solution to the left camshaft holder A and right camshaft holder A insides.
@@ -67,8 +65,6 @@ Install and tighten the camshaft holder bolts [5] to the specified torque.
 * Tighten the camshaft holder bolts in a crisscross pattern in 2 or 3 steps.
 
 ![Image page-003-img-02.jpg](images/page-003-img-02.jpg)
-
-![Image page-004-img-01.jpg](images/page-004-img-01.jpg)
 
 Remove the special tool [1].
 

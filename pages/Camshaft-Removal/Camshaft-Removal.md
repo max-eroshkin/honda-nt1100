@@ -22,8 +22,7 @@ Release the cam chain tension by turning the cam chain tensioner lifter shaft fu
 special tool.
 
 **TOOL:**
-
-Stopper tensioner [3] 070MG-0010100
+* Stopper tensioner [3] 070MG-0010100
 
 ![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
