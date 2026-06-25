@@ -1,129 +1,59 @@
-﻿# WShop Manual - Maintenance Schedule
+﻿# Регламент технического обслуживания
 
-ED, FO, KO, U
+Перед каждой сессией техобслуживания выполняйте процедуру осмотра перед поездкой из руководства пользователя.
 
-Perform the Pre-ride inspection in the Owner’s Manual at each scheduled maintenance period.  
-**I:** Inspect and Clean, Adjust, Lubricate or Replace if necessary. C: Clean. R: Replace. A: Adjust. L: Lubricate.  
-The following items require some mechanical knowledge. Certain items (particularly those marked * and **) may require more technical
-information and tools. Consult a dealer.  
-FREQUENCY (NOTE 1)
+* `I`: Инспекция и при необходимости Очистка, Регулировка, Смазка или Замена.
+* `C`: Очистка.
+* `R`: Замена.
+* `A`: Регулировка.
+* `L`: Смазка.
 
-ANNUAL REGULAR REFER TO
+Следующие операции могут потребовать технических навыков. Отдельные операции (особенно имеющие пометки * и **)
+могут потребовать больше технической информации и специального инструмента.
 
-ITEMS NOTE x 1,000 km 1 12 24 36 48
+Проконсультируйтесь с дилером.
 
-CHECK REPLACE PAGE
-x 1,000 mi 0.6 8 16 24 32
+|      | Наименование                               | x1000 км<br/>x1000 миль | 1<br/>0.6 | 12<br/>8 | 24<br/>16 | 36<br/>24 | 48<br/>32 | Ежегодная<br/>проверка | Регулярная<br/>замена |
+|:----:|--------------------------------------------|-------------------------|:---------:|:--------:|:---------:|:---------:|:---------:|:----------------------:|:----------------------|
+|  \*  | Топливная магистраль                       |                         |           |   `I`    |    `I`    |    `I`    |    `I`    |          `I`           |                       |
+|  \*  | Функционирование дроссельной заслонки      |                         |           |   `I`    |    `I`    |    `I`    |    `I`    |          `I`           |                       |
+|  \*  | Воздушный фильтр<sup>-2</sup>              |                         |           |          |    `R`    |           |    `R`    |                        |                       |
+|      | Сапун двигателя<sup>-3</sup>               |                         |           |   `C`    |    `C`    |    `C`    |    `C`    |                        |                       |
+|  \*  | Свечи зажигания                            |                         |           |          |    `I`    |           |    `R`    |                        |                       |
+|  \*  | Зазоры в клапанном механизме               |                         |           |          |    `I`    |           |    `I`    |                        |                       |
+|      | Моторное масло                             |                         |    `R`    |   `R`    |    `R`    |    `R`    |    `R`    |          `R`           |                       |
+|      | Масляный фильтр                            |                         |    `R`    |          |    `R`    |           |    `R`    |                        |                       |
+|      | Фильтр гидропривода сцепления<sup>-5</sup> |                         |    `R`    |          |    `R`    |           |    `R`    |                        |                       |
+|  \*  | Обороты холостого хода                     |                         |           |   `I`    |    `I`    |    `I`    |    `I`    |          `I`           |                       |
+|      | Охлаждающая жидкость<sup>-4</sup>          |                         |           |   `I`    |    `I`    |    `I`    |    `I`    |          `I`           | 3 года                |
+|  \*  | Система охлаждения                         |                         |           |   `I`    |    `I`    |    `I`    |    `I`    |          `I`           |                       |
+|  \*  | Система подачи вторичного воздуха          |                         |           |          |    `I`    |           |    `I`    |                        |                       |
+|  \*  | Система улавливания паров топлива          |                         |           |          |    `I`    |           |    `I`    |                        |                       |
+|      | Приводная цепь                             | Каждые 1000 км `I`, `L` |           |          |           |           |           |                        |                       |
+|      | Слайдер приводной цепи                     |                         |    `I`    |   `I`    |    `I`    |    `I`    |           |                        |                       |
+|      | Тормозная жидкость<sup>-4</sup>            |                         |           |   `I`    |    `I`    |    `I`    |    `I`    |          `I`           | 2 года                |                     
+|      | Тормозные колодки                          |                         |           |   `I`    |    `I`    |    `I`    |    `I`    |          `I`           |                       |                    
+|      | Тормозная система                          |                         |           |   `I`    |    `I`    |    `I`    |    `I`    |          `I`           |                       |                    
+|      | Концевой выключатель стоп-сигнала          |                         |           |   `I`    |    `I`    |    `I`    |    `I`    |          `I`           |                       |                    
+|  \*  | Стояночный тормоз<sup>-5</sup>             |                         |           |   `I`    |    `I`    |    `I`    |    `I`    |                        |                       |                    
+|      | Регулировка светового пучка фары           |                         |           |   `I`    |    `I`    |    `I`    |    `I`    |          `I`           |                       |
+|      | Сцепление<sup>-6</sup>                     |                         |           |   `I`    |    `I`    |    `I`    |    `I`    |          `I`           |                       |
+|      | Боковая подножка                           |                         |           |   `I`    |    `I`    |    `I`    |    `I`    |          `I`           |                       |
+|  \*  | Подвеска                                   |                         |           |   `I`    |    `I`    |    `I`    |    `I`    |          `I`           |                       |
+|  \*  | Болты, гайки, прочий крепеж                |                         |           |   `I`    |    `I`    |    `I`    |    `I`    |          `I`           |                       |
+| \*\* | Колеса/шины                                |                         |           |   `I`    |    `I`    |    `I`    |    `I`    |          `I`           |                       |
+| \*\* | Подшипники рулевой колонки                 |                         |           |   `I`    |    `I`    |    `I`    |    `I`    |          `I`           |                       |
 
-![Image page-001-img-01.png](images/page-001-img-01.png)
-* FUEL LINE I I I I I
+`*` Операция должна выполняться официальным дилером Honda, за исключением тех случаев, когда у вас есть необходимые
+инструменты, и вы обладаете соответствующей квалификацией, позволяющей выполнять работы самостоятельно.
 
-![Image page-001-img-02.png](images/page-001-img-02.png)
-* THROTTLE OPERATION I I I I I
+Описание операций приведено в официальном Руководстве по ремонту Honda.<br/>
+`**` В целях безопасности рекомендуется доверить выполнение операций технического обслуживания официальному дилеру Honda.
 
-![Image page-001-img-03.png](images/page-001-img-03.png)
-* AIR CLEANER NOTE 2 R R
-
-![Image page-001-img-04.png](images/page-001-img-04.png)
-
-CRANKCASE BREATHER NOTE 3 C C C C
-
-![Image page-001-img-05.png](images/page-001-img-05.png)
-* SPARK PLUG I R
-
-![Image page-001-img-06.png](images/page-001-img-06.png)
-* VALVE CLEARANCE I I
-
-![Image page-001-img-07.png](images/page-001-img-07.png)
-
-ENGINE OIL R R R R R R
-
-![Image page-001-img-08.png](images/page-001-img-08.png)
-
-ENGINE OIL FILTER R R R
-
-![Image page-001-img-09.png](images/page-001-img-09.png)
-
-CLUTCH OIL FILTER NOTE 5 R R R
-
-![Image page-001-img-10.png](images/page-001-img-10.png)
-* ENGINE IDLE SPEED I I I I I
-
-![Image page-001-img-11.png](images/page-001-img-11.png)
-
-RADIATOR COOLANT NOTE 4 I I I I I 3 years
-
-![Image page-001-img-12.png](images/page-001-img-12.png)
-* COOLING SYSTEM I I I I I
-
-![Image page-001-img-13.png](images/page-001-img-13.png)
-* SECONDARY AIR SUPPLY SYSTEM I I
-
-EVAPORATIVE EMISSION CONTROL
-
-![Image page-001-img-14.png](images/page-001-img-14.png)
-* I I
-
-SYSTEM
-
-![Image page-001-img-15.png](images/page-001-img-15.png)
-
-DRIVE CHAIN EVERY 1,000 km (600 mi) I, L
-
-![Image page-001-img-16.png](images/page-001-img-16.png)
-
-DRIVE CHAIN SLIDER I I I I
-
-![Image page-001-img-17.png](images/page-001-img-17.png)
-
-BRAKE FLUID NOTE 4 I I I I I 2 years
-
-![Image page-001-img-18.png](images/page-001-img-18.png)
-
-BRAKE PADS WEAR I I I I I
-
-![Image page-001-img-19.png](images/page-001-img-19.png)
-
-BRAKE SYSTEM I I I I I
-
-![Image page-001-img-20.png](images/page-001-img-20.png)
-
-BRAKE LIGHT SWITCH I I I I I
-
-![Image page-001-img-21.png](images/page-001-img-21.png)
-* BRAKE LOCK OPERATION NOTE 5 I I I I
-
-![Image page-002-img-01.png](images/page-002-img-01.png)
-
-HEADLIGHT AIM I I I I I
-
-![Image page-002-img-02.png](images/page-002-img-02.png)
-
-CLUTCH SYSTEM NOTE 6 I I I I I
-
-![Image page-002-img-03.png](images/page-002-img-03.png)
-
-SIDESTAND I I I I I
-
-![Image page-002-img-04.png](images/page-002-img-04.png)
-* SUSPENSION I I I I I
-
-![Image page-002-img-05.png](images/page-002-img-05.png)
-* NUTS, BOLTS, FASTENERS I I I I I
-
-![Image page-002-img-06.png](images/page-002-img-06.png)
-** WHEELS/TIRES I I I I I
-
-![Image page-002-img-07.png](images/page-002-img-07.png)
-** STEERING HEAD BEARINGS I I I I I
-* Should be serviced by a dealer, unless the owner has proper tools and service data and is mechanically qualified.
-** In the interest of safety, we recommend these items be serviced only by a dealer.  
-Honda recommends that a dealer should road test your motorcycle after each periodic maintenance is carried out.
-
-**NOTES:**
-1.At higher odometer readings, repeat at the frequency interval established here.
-2.Service more frequently when riding in unusually wet or dusty areas.
-3.Service more frequently when riding in rain or at full throttle.
-4.Replacement requires mechanical skill.
-5.DCT model only
-6.Except DCT model
+### Сноски:
+1. При километраже, превышающем указанные значения, выполняйте обслуживание через указанные промежутки времени.
+2. Выполняйте обслуживание чаще, если мотоцикл эксплуатируется в условиях повышенной влажности или запыленности.
+3. Выполняйте обслуживание чаще, если мотоцикл эксплуатируется в дождь или при полном открытии дроссельной заслонки.
+4. Замена должна производиться квалифицированным механиком.
+5. Только NT1100D.
+6. Только NT1100A.
