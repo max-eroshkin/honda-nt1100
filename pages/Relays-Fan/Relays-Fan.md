@@ -2,10 +2,8 @@
 
 REMOVAL/INSTALLATION
 
-Remove the main seat.
-
-Remove the power box cover and fan relay [1].
-
+Remove the main seat.  
+Remove the power box cover and fan relay [1].  
 Installation is in the reverse order of removal.
 * For relay inspection
 

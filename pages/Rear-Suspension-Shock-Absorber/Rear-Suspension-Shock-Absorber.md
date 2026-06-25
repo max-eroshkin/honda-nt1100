@@ -9,7 +9,8 @@ Remove the shock absorber upper nut [5] and shock absorber upper bolt [6].
 Remove the shock absorber [7] downward.
 
 **NOTE:**
-* Lift the swingarm [8] and remove the shock absorber while turning it.  
+* Lift the swingarm [8] and remove the shock absorber while turning it.
+
 Installation is in the reverse order of removal.
 
 **TORQUE:**

@@ -1,5 +1,7 @@
 ﻿# Rear Suspension Specifications
 
+[Rear Suspension Specifications.pdf](../../Service%20Manual/Rear%20Suspension%20Specifications.pdf)
+
 REAR WHEEL/SUSPENSION SPECIFICATIONS
 
 Unit: mm (in)
