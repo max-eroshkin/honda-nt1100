@@ -2,7 +2,7 @@
 
 PAIR CONTROL SOLENOID VALVE
 
-REMOVAL/INSTALLATION
+## REMOVAL/INSTALLATION
 
 Remove the air cleaner housing.
 
@@ -36,12 +36,10 @@ removal.
 
 ![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
-INSPECTION
+## INSPECTION
 
 Remove the PAIR control solenoid
 valve.
-
-![Image page-002-img-02.jpg](images/page-002-img-02.jpg)
 
 Check the air flow through the
 solenoid valve.
