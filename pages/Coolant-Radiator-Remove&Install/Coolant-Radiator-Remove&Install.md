@@ -44,8 +44,6 @@ Disconnect the fan motor 2P (Black) connectors [1].
 ![Image page-005-img-01.jpg](images/page-005-img-01.jpg)
 
 Remove the following:
-
-![Image page-005-img-02.jpg](images/page-005-img-02.jpg)
 * Bolt [1]
 * Radiator
 
@@ -60,5 +58,3 @@ Installation is in the reverse order of removal.
 Fill the recommended coolant mixture to the filler neck and bleed the air.
 
 ![Image page-006-img-02.jpg](images/page-006-img-02.jpg)
-
-![Image page-007-img-01.jpg](images/page-007-img-01.jpg)

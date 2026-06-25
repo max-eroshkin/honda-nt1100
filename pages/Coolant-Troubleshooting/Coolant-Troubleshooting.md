@@ -2,7 +2,7 @@
 
 TROUBLESHOOTING
 
-Engine temperature too high
+**Engine temperature too high**
 * Faulty coolant temperature gauge or ECT sensor
 * Thermostat stuck closed
 * Faulty radiator cap
@@ -13,12 +13,12 @@ Engine temperature too high
 * Faulty fan relay
 * Faulty water pump
 
-Engine temperature too low
+**Engine temperature too low**
 * Faulty coolant temperature gauge or ECT sensor
 * Thermostat stuck open
 * Faulty fan relay
 
-Coolant leak
+**Coolant leak**
 * Faulty water pump mechanical seal
 * Deteriorated O-rings
 * Faulty radiator cap

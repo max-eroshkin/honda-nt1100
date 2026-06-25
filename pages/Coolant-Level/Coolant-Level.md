@@ -10,16 +10,12 @@ If necessary, add the recommended coolant.
 
 **RECOMMENDED ANTIFREEZE:**
 
-Except TH:
+* **Except TH:** High quality ethylene glycol antifreeze containing silicate-free corrosion inhibitors
 
-High quality ethylene glycol antifreeze containing silicate-free corrosion inhibitors
+* **TH:** Honda PRE-MIX coolant
 
-**TH:**
-
-Honda PRE-MIX coolant
-
-RECOMMENDED MIXTURE (Except TH):
-1:1 mixture with distilled water
+**RECOMMENDED MIXTURE (Except TH):**
+* 1:1 mixture with distilled water
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 

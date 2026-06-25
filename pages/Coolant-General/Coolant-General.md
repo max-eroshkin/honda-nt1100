@@ -1,17 +1,13 @@
 ﻿# Coolant-General
 
-GENERAL
-
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-Removing the radiator cap while the engine is hot can allow the coolant to spray out, seriously scalding you.
+**Removing the radiator cap while the engine is hot can allow the coolant to spray out, seriously scalding you.**
 
-Always let the engine and radiator cool down before removing the radiator cap.
+**Always let the engine and radiator cool down before removing the radiator cap.**
 
-![Image page-001-img-02.jpg](images/page-001-img-02.jpg)
-* Using coolant with silicate corrosion inhibitors may cause premature wear of water pump seals or blockage of radiator passages.
-
-Using tap water may cause engine damage. (Except TH)
+* Using coolant with silicate corrosion inhibitors may cause premature wear of water pump seals or blockage of radiator passages. 
+* Using tap water may cause engine damage. (Except TH)
 * Use only Honda genuine PRE-MIX COOLANT containing corrosion inhibitors, specifically recommended for aluminum engines
 when adding or replacing the coolant. Honda genuine PRE-MIX COOLANT is excellent at preventing corrosion and
 overheating.The effects last for up to 3 years. (TH only)

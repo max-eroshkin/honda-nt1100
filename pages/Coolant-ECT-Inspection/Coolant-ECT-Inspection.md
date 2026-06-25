@@ -21,9 +21,10 @@ touch the pan.
 Measure the resistance between the ECT sensor
 terminals.
 
-Temperature 40°C (104°F) 100°C (212°F)
-
-Resistance 1.0 – 1.3 kΩ 0.14 – 0.17 kΩ
+|             |   |               |
+|-------------|---|---------------|
+| Temperature | 40°C (104°F)  | 100°C (212°F) |
+| Resistance  | 1.0 – 1.3 kΩ  | 0.14 – 0.17 kΩ |
 
 Replace the ECT sensor if it is out of specification.
 
