@@ -40,5 +40,3 @@ Install the following:
 * Timing hole cap
 
 ![Image page-002-img-02.jpg](images/page-002-img-02.jpg)
-
-![Image page-003-img-01.jpg](images/page-003-img-01.jpg)
