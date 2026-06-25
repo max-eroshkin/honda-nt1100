@@ -50,12 +50,6 @@ installing.
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
-
-![Image page-002-img-02.jpg](images/page-002-img-02.jpg)
-
-![Image page-003-img-01.jpg](images/page-003-img-01.jpg)
-
 **NOTE:**
 * Apply the masking tape [1] around the top of the rear side cowl [2] to prevent any damage when removal/installation.
 

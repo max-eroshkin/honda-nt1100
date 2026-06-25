@@ -2,7 +2,7 @@
 
 REMOVAL/INSTALLATION
 
-LEFT SIDE
+## LEFT SIDE
 
 Remove the left side cover.
 
@@ -17,9 +17,8 @@ Remove the trim clips [3].
 Releases the following from the left inner cover.
 * Left handlebar switch 12P (Black) connector clip [4]
 * Left handlebar switch 8P (Gray) connector clip [5]
-!
 
-MT model:
+**! MT model:**
 
 Remove the left inner cover.
 
@@ -27,7 +26,7 @@ Installation is in the reverse order of removal.
 
 ![Image page-001-img-02.jpg](images/page-001-img-02.jpg)
 
-RIGHT SIDE
+## RIGHT SIDE
 
 Remove the right side cover.
 
