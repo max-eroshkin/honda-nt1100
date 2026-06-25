@@ -20,8 +20,9 @@ Installation is in the reverse order of removal.
 
 **TORQUE:**
 
-![Image page-001-img-02.jpg](images/page-001-img-02.jpg)
 * Gearshift pedal pivot bolt: **27 N·m** (2.8 kgf·m, 20 lbf·ft)
+
+![Image page-001-img-02.jpg](images/page-001-img-02.jpg)
 
 **NOTE:**
 * Apply grease to the dust seal lips.
@@ -39,8 +40,6 @@ procedure as follows:
 Loosen the lock nuts [1].
 
 **NOTE:**
-
-![Image page-002-img-02.jpg](images/page-002-img-02.jpg)
 * The gearshift arm side lock nut has left hand
 threads.
 

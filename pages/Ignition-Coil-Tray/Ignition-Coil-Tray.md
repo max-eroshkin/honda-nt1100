@@ -18,8 +18,6 @@ Release the immobilizer receiver 4P (Black) connector [1].
 
 Disconnect the ignition sub harness 6P connector [2].
 
-![Image page-001-img-03.jpg](images/page-001-img-03.jpg)
-
 ![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
 Release the bosses [1] from the grommets [2] by pulling the ignition coil tray assembly [3] rearward.

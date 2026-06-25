@@ -2,7 +2,7 @@
 
 TURN SIGNAL LIGHT REMOVAL/INSTALLATION
 
-FRONT
+## FRONT
 
 Remove the middle cowl.
 
@@ -16,7 +16,7 @@ Installation is in the reverse order of removal.
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-REAR
+## REAR
 
 Remove the following:
 * Pillion seat
@@ -29,8 +29,6 @@ Disconnect the turn signal light 2P connector:
 * Left: orange [3]
 
 ![Image page-001-img-02.jpg](images/page-001-img-02.jpg)
-
-![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
 Remove the following from the rear fender A stay [1]:
 * Bolt/washer [2]

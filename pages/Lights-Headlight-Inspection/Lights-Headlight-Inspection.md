@@ -27,22 +27,20 @@ the position light.
 
 ![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
-
 DRL FORCIBLY ACTIVATE
 
 To forcibly activate the DRLs lights, perform the procedure as follows:
-1.Pull and hold the page switch [1] or touch the clock area [2] of the MID.
+1. Pull and hold the page switch [1] or touch the clock area [2] of the MID.
 
 ![Image page-002-img-02.jpg](images/page-002-img-02.jpg)
-
-![Image page-003-img-01.jpg](images/page-003-img-01.jpg)
-2.Select the "DRL Service Mode" [1] by using the sel up switch [2], sel down switch [3], ENT switch [4]
+ 
+2. Select the "DRL Service Mode" [1] by using the sel up switch [2], sel down switch [3], ENT switch [4]
 and back switch [5] or touch the MID.
 
-**NOTE:**
-* Select the display in the following order to the "DRL Service Mode" :
-"Settings" > "Service" > "Service Mode" > "DRL Service Mode"
-3.Check the each lights are lighting.
+    **NOTE:**
+   * Select the display in the following order to the "DRL Service Mode" :
+   "Settings" > "Service" > "Service Mode" > "DRL Service Mode"
+
+3. Check the each lights are lighting.
 
 ![Image page-003-img-02.jpg](images/page-003-img-02.jpg)
