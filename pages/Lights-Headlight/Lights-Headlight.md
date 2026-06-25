@@ -1,10 +1,7 @@
-# Lights-Headlight
+﻿# Lights-Headlight
 
+REMOVAL/INSTALLATION
 
-
-![Страница 1](images/page-001-img-01.jpg)
-
-REMOVAL/INSTALLATION 
 Remove the front cowl.
 
 Release the open air temperature connector cover [1] from the headlight unit.
@@ -19,12 +16,10 @@ Remove the headlight unit [5].
 
 Remove the collars [6] and grommets [7] from the headlight unit.
 
-Installation is in the reverse order of removal. 
+Installation is in the reverse order of removal.
 
-**NOTE:** 
-* Route the wires properly. 
+**NOTE:**
+* Route the wires properly.
 * Put the open air temperature sensor connector cover to the center groove on the headlight unit when installing.
 
-![Страница 2](images/page-002.png)
-
-
+![Image page-001-img-01.jpg](images/page-001-img-01.jpg)

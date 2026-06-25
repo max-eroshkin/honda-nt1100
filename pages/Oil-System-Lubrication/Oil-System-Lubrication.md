@@ -1,15 +1,11 @@
-# Oil-System Lubrication
+﻿# Oil-System Lubrication
 
+LUBRICATION SYSTEM DIAGRAM
 
+MT model:
 
-![Страница 1](images/page-001-img-01.jpg)
+![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-LUBRICATION SYSTEM DIAGRAM 
-MT model: 
-DCT model: 
+DCT model:
 
-
-
-![Страница 2](images/page-002-img-01.jpg)
-
-
+![Image page-002-img-01.jpg](images/page-002-img-01.jpg)

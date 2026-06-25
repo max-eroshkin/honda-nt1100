@@ -1,21 +1,17 @@
-# Headlight Aim
+﻿# Headlight Aim
 
+HEADLIGHT AIM
 
-
-![Страница 1](images/page-001-img-01.jpg)
-
-HEADLIGHT AIM 
 Place the motorcycle on a level surface.
 
-Adjust the headlight aim vertically by turning the 
+Adjust the headlight aim vertically by turning the
 vertical beam adjusting screw [1].
 
-Adjust horizontally by turning the horizontal adjusting 
-screws [2]. 
+Adjust horizontally by turning the horizontal adjusting
+screws [2].
 
-**NOTE:** 
-l Adjust the headlight beam as specified by local 
+**NOTE:**
+lAdjust the headlight beam as specified by local
 laws and regulations.
 
-Page 1 of 1
-30/07/2023
+![Image page-001-img-01.jpg](images/page-001-img-01.jpg)

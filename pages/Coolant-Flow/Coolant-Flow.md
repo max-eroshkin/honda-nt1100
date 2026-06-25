@@ -1,8 +1,5 @@
-# Coolant-Flow
+﻿# Coolant-Flow
 
+SYSTEM FLOW PATTERN
 
-
-![Страница 1](images/page-001-img-01.jpg)
-
-SYSTEM FLOW PATTERN 
-
+![Image page-001-img-01.jpg](images/page-001-img-01.jpg)

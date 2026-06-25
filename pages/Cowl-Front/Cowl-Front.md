@@ -1,32 +1,42 @@
-# Cowl - Front REMOVAL/INSTALLATION
+﻿# Cowl - Front
 
-Remove the following: 
-* [Windscreen stay](../Windscreen-Stay/Windscreen-Stay.md)
-* [Middle cowl](../Cowl-Middle/Cowl-Middle.md)
-* Upper deflector socket bolt (long) [1] 
-* Plastic washer [2] 
-* Rubber washer [3] 
+REMOVAL/INSTALLATION
 
-![Страница 1](images/page-001-img-01.jpg)
+Remove the following:
+* Windscreen stay
+* Middle cowl
+* Upper deflector
+socket bolt (long)
+[1]
+* Plastic washer [2]
+* Rubber washer
+[3]
 
+![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-Move the screen sliders [1] to the bottom position.
+Move the screen
+sliders [1] to the bottom
+position.
 
-Remove the following: 
-* Socket bolts [2] 
-* Trim clips [3] 
+Remove the following:
+* Socket bolts [2]
+* Trim clips [3]
 
-Release the bosses [4] from the grommets [5].
+Release the bosses [4]
+from the grommets [5].
 
-Remove the front cowl [6].
+Remove the front cowl
+[6].
 
-Installation is in the reverse order of removal. 
+Installation is in the
+reverse order of
+removal.
 
+**TORQUE:**
 
-**TORQUE:** 
-* Upper deflector 
-socket bolt (long): 
-**0.54** N·m (0.06 
-kgf·m, 0.4 lbf·ft) 
+Upper deflector
+socket bolt (long):
+**0.54 N·m** (0.06
+kgf·m, 0.4 lbf·ft)
 
-![Страница 2](images/page-002-img-01.jpg)
+![Image page-002-img-01.jpg](images/page-002-img-01.jpg)

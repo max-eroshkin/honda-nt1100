@@ -1,16 +1,13 @@
-# Cover-Right Engine Heat
+﻿# Cover-Right Engine Heat
 
+REMOVAL/INSTALLATION
 
-
-![Страница 1](images/page-001-img-01.jpg)
-
-REMOVAL/INSTALLATION 
-Remove the right rear engine cover bolts [1], 
+Remove the right rear engine cover bolts [1],
 collars [2] and right rear engine cover [3].
 
-Installation is in the reverse order of removal. 
+Installation is in the reverse order of removal.
 
-**TORQUE:** 
-Right rear engine cover socket bolt: 
-**10** N·m (1.0 kgf·m, 7 lbf·ft) 
+**TORQUE:**
+* Right rear engine cover socket bolt: **10 N·m** (1.0 kgf·m, 7 lbf·ft)
 
+![Image page-001-img-01.jpg](images/page-001-img-01.jpg)

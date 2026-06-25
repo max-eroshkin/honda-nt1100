@@ -1,21 +1,19 @@
-# Windscreen Remove&Install
+﻿# Windscreen Remove&Install
 
+REMOVAL/INSTALLATION
 
+Remove the following:
+* Windscreen socket bolts [1]
+* Plastic washers [2]
+* Rubber washers [3]
+* Windscreen [4]
 
-![Страница 1](images/page-001-img-01.jpg)
-
-REMOVAL/INSTALLATION 
-Remove the following: 
-* Windscreen socket bolts [1] 
-* Plastic washers [2] 
-* Rubber washers [3] 
-* Windscreen [4] 
-Remove the well nuts [5] and windscreen bracket 
+Remove the well nuts [5] and windscreen bracket
 cover [6].
 
-Installation is in the reverse order of removal. 
+Installation is in the reverse order of removal.
 
-**TORQUE:** 
-Windscreen socket bolt: 
-**0.54** N·m (0.06 kgf·m, 0.4 lbf·ft) 
+**TORQUE:**
+* Windscreen socket bolt: **0.54 N·m** (0.06 kgf·m, 0.4 lbf·ft)
 
+![Image page-001-img-01.jpg](images/page-001-img-01.jpg)

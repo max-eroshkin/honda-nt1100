@@ -1,24 +1,22 @@
-# Fuel - Level Sensor Inspection
+﻿# Fuel - Level Sensor Inspection
 
+FUEL LEVEL SENSOR INSPECTION
 
-
-![Страница 1](images/page-001-img-01.jpg)
-
-FUEL LEVEL SENSOR INSPECTION 
 Remove the fuel level sensor.
 
-Connect the ohmmeter to the fuel level sensor 2P 
+Connect the ohmmeter to the fuel level sensor 2P
 (Black) connector [1].
 
-CONNECTION: Red/blue – Green 
-Measure the resistance with the float [2] at the full 
+**CONNECTION:** Red/blue – Green
+
+Measure the resistance with the float [2] at the full
 and empty positions.
 
-FULL 
-EMPTY 
-Resistance 
-6 – 10 Ω 
-434 – 446 Ω 
-If it is out of specification, replace the fuel level 
-sensor. 
+FULL EMPTY
 
+Resistance 6 – 10 Ω 434 – 446 Ω
+
+If it is out of specification, replace the fuel level
+sensor.
+
+![Image page-001-img-01.jpg](images/page-001-img-01.jpg)

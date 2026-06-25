@@ -1,46 +1,46 @@
-# Frame - Seat Lock & Catch
+﻿# Frame - Seat Lock & Catch
 
+REMOVAL/INSTALLATION
 
+SEAT CATCH HOOK
 
-![Страница 1](images/page-001-img-01.jpg)
-
-REMOVAL/INSTALLATION 
-SEAT CATCH HOOK 
 Remove the pillion seat.
 
 Remove the bolt [1].
 
-Disconnect the seat lock cable [2] from 
-the seat catch hook [3] and seat lock 
+Disconnect the seat lock cable [2] from
+the seat catch hook [3] and seat lock
 cable B stay [4].
 
 Remove the seat catch hook.
 
-Installation is in the reverse order of 
-removal. 
+Installation is in the reverse order of
+removal.
 
-**NOTE:** 
-* Apply grease to the seat catch 
-hook sliding area. 
-* Align the seat catch hook boss 
+**NOTE:**
+* Apply grease to the seat catch
+hook sliding area.
+* Align the seat catch hook boss
 [5] with the seat rail hole [6].
 
-![Страница 2](images/page-002-img-01.jpg)
+![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-SEAT LOCK CYLINDER 
+SEAT LOCK CYLINDER
+
 Remove the left fender B cover.
 
-Disconnect the seat lock cable [1] from 
+Disconnect the seat lock cable [1] from
 the seat lock cylinder [2].
 
-Remove the lock spring [3], seat lock 
+Remove the lock spring [3], seat lock
 cylinder, and stay [4].
 
-Installation is in the reverse order of 
-removal. 
+Installation is in the reverse order of
+removal.
 
-**NOTE:** 
-* Align the seat lock cylinder lug 
-[5] with the left fender B cover 
-groove [6] and stay groove [7]. 
+**NOTE:**
+* Align the seat lock cylinder lug
+[5] with the left fender B cover
+groove [6] and stay groove [7].
 
+![Image page-002-img-01.jpg](images/page-002-img-01.jpg)

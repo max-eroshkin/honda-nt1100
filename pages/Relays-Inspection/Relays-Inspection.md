@@ -1,23 +1,21 @@
-# Relays - Inspection
+﻿# Relays - Inspection
 
+RELAY INSPECTION
 
-
-![Страница 1](images/page-001-img-01.jpg)
-
-RELAY INSPECTION 
 Remove the TBW relay.
 
-Connect an ohmmeter to the TBW relay [1] 
+Connect an ohmmeter to the TBW relay [1]
 terminals as shown.
 
-Connect a 12 V battery to the TBW relay terminals 
+Connect a 12 V battery to the TBW relay terminals
 as shown.
 
-There should be continuity only when 12 V battery 
+There should be continuity only when 12 V battery
 is connected.
 
-If there is no continuity when the 12 V battery is 
+If there is no continuity when the 12 V battery is
 connected, replace the TBW relay.
 
-Install the TBW relay. 
+Install the TBW relay.
 
+![Image page-001-img-01.jpg](images/page-001-img-01.jpg)

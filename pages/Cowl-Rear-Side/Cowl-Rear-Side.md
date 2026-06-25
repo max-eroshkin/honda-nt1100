@@ -1,29 +1,62 @@
-# Cowl - Rear Side REMOVAL/INSTALLATION
+﻿# Cowl - Rear Side
 
-Remove the main seat.
+REMOVAL/INSTALLATION
 
-Remove the trim clips [1], socket bolt A [2] and socket bolts B [3]. 
+Remove the
+main seat.
 
-Remove the bosses [4] from the grommets [5]. 
+Remove the
+trim clips [1],
+socket bolt A
+[2] and socket
+bolts B [3].
 
-Release the rear side cowl [6] from the rear center cowl boss [7]. 
+Remove the
+bosses [4]
+from the
+grommets [5].
 
-Remove the rear side cowl by releasing its tabs [8] with sliding backward from the rear carrier [9]. 
+Release the
+rear side cowl
+[6] from the
+rear center
+cowl boss [7].
 
-Installation is in the reverse order of removal. 
+Remove the
+rear side cowl
+by releasing its
+tabs [8] with
+sliding
+backward from
+the rear carrier
+[9].
 
-**NOTE:** 
-* Align the side cover tab [10] with the rear side cowl slot [11] correctly when installing. 
+Installation is
+in the reverse
+order of
+removal.
 
-![Страница 1](images/page-001-img-01.jpg)
+**NOTE:**
+* Align the
+side
+cover tab
+[10] with
+the rear
+side cowl
+slot [11]
+correctly
+when
+installing.
 
-![Страница 2](images/page-002-img-01.jpg)
+![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-![Страница 3](images/page-003-img-01.jpg)
+![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
+
+![Image page-002-img-02.jpg](images/page-002-img-02.jpg)
+
+![Image page-003-img-01.jpg](images/page-003-img-01.jpg)
 
 **NOTE:**
 * Apply the masking tape [1] around the top of the rear side cowl [2] to prevent any damage when removal/installation.
 
-![Страница 3](images/page-003-img-02.jpg)
-
-
+![Image page-003-img-02.jpg](images/page-003-img-02.jpg)

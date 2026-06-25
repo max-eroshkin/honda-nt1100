@@ -1,57 +1,55 @@
-# Frame - Subframe
+﻿# Frame - Subframe
 
+REMOVAL/INSTALLATION
 
+Remove the following:
+* Heel guard
+* Pillion steps
+* Seat catch hook
+* ABS modulator
+* Rear fender B
 
-![Страница 1](images/page-001-img-01.jpg)
+Remove the rear master cylinder reservoir
+mounting bolt [1] and release the rear master
+cylinder reservoir [2].
 
-REMOVAL/INSTALLATION 
-Remove the following: 
-* Heel guard 
-* Pillion steps 
-* Seat catch hook 
-* ABS modulator 
-* Rear fender B 
-Remove the rear master cylinder reservoir 
-mounting bolt [1] and release the rear master 
-cylinder reservoir [2]. 
-
-**NOTE:** 
-* Keep the rear master cylinder reservoir 
-upright to prevent air from entering the 
+**NOTE:**
+* Keep the rear master cylinder reservoir
+upright to prevent air from entering the
 hydraulic system.
 
-![Страница 2](images/page-002-img-01.jpg)
+![Image page-001-img-01.jpg](images/page-001-img-01.jpg)
 
-![Страница 2](images/page-002-img-02.jpg)
+![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
-![Страница 2](images/page-002-img-03.jpg)
+Remove the following:
+* Seat rail socket bolts (short) [1]
+* Seat rail socket bolts (long) [2]
+* Washers [3]
+* Nuts [4]
+* Seat rail [5]
 
-Remove the following: 
-* Seat rail socket bolts (short) [1] 
-* Seat rail socket bolts (long) [2] 
-* Washers [3] 
-* Nuts [4] 
-* Seat rail [5] 
-Remove the following from the seat rail [1]: 
-* Socket bolts [2] 
-* Left/right rear fender B covers [3] 
-* ABS modulator box [4] 
+![Image page-002-img-02.jpg](images/page-002-img-02.jpg)
 
+Remove the following from the seat rail [1]:
+* Socket bolts [2]
+* Left/right rear fender B covers [3]
+* ABS modulator box [4]
 
+![Image page-002-img-03.jpg](images/page-002-img-03.jpg)
+* Collars [5]
 
-![Страница 3](images/page-003-img-01.jpg)
+Installation is in the reverse order of removal.
 
-* Collars [5] 
-Installation is in the reverse order of removal. 
+**TORQUE:**
+* Seat rail socket bolt: **44 N·m** (4.5 kgf·m, 32 lbf·ft)
 
-**TORQUE:** 
-Seat rail socket bolt: 
-**44** N·m (4.5 kgf·m, 32 lbf·ft) 
-Rear master cylinder reservoir mounting 
-bolt: 
-**10** N·m (1.0 kgf·m, 7 lbf·ft) 
+Rear master cylinder reservoir mounting
+bolt:
+**10 N·m** (1.0 kgf·m, 7 lbf·ft)
 
-**NOTE:** 
-* Route the hose, wire, and cable properly. 
-* For seat lock cylinder removal/installation. 
+**NOTE:**
+* Route the hose, wire, and cable properly.
+* For seat lock cylinder removal/installation.
 
+![Image page-003-img-01.jpg](images/page-003-img-01.jpg)
