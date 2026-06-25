@@ -37,8 +37,6 @@ Remove the right crankcase cover [3].
 
 Remove the dowel pins [1] and gasket [2].
 
-![Image page-002-img-02.jpg](images/page-002-img-02.jpg)
-
 ![Image page-003-img-01.jpg](images/page-003-img-01.jpg)
 
 Remove the O-ring [1].

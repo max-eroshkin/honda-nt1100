@@ -19,8 +19,6 @@ equivalent) to the cylinder head cover packing [2] as shown.
 **NOTE:**
 * Do not apply more liquid sealant than necessary.
 
-![Image page-001-img-02.jpg](images/page-001-img-02.jpg)
-
 ![Image page-002-img-01.jpg](images/page-002-img-01.jpg)
 
 Insert the cylinder head cover [1] from the right side as shown.
@@ -44,8 +42,6 @@ Install and tighten the cylinder head cover bolts [5] to the specified torque.
 **TORQUE:** **10 N·m** (1.0 kgf·m, 7 lbf·ft)
 
 Connect the secondary air supply hose [6].
-
-![Image page-002-img-03.jpg](images/page-002-img-03.jpg)
 
 ![Image page-003-img-01.jpg](images/page-003-img-01.jpg)
 

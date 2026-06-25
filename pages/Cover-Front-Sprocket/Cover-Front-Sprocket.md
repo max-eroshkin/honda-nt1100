@@ -4,8 +4,7 @@ REMOVAL/INSTALLATION
 
 Remove the gearshift arm.
 
-MT model only:
-!
+**! MT model only:**
 
 Remove the left rear cover bolts [1], left rear cover [2] and drive chain guide plate [3].
 
